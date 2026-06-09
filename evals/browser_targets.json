@@ -1,0 +1,43 @@
+[
+  {
+    "id": "local-video-agent",
+    "name": "Local Video Agent",
+    "url": "AUTO_DEMO_URL",
+    "model_policy": "seedream-v4 image + ltx-2 video",
+    "automation_status": "api_runner_available",
+    "notes": "Use scripts/run_video_benchmark.py for actual local-agent runs."
+  },
+  {
+    "id": "krea-ltx2",
+    "name": "Krea LTX-2",
+    "url": "https://www.krea.ai/models/ltx-2-19b",
+    "url_template": "https://www.krea.ai/video?from=miniapp&model=ltx-2-19b&prompt={prompt}",
+    "model_policy": "ltx-2 text-to-video; no seedream image stage",
+    "automation_status": "safari_login_then_inspect",
+    "notes": "After login, choose/confirm LTX-2 and submit benchmark prompts."
+  },
+  {
+    "id": "focal",
+    "name": "Focal",
+    "url": "https://focalml.com/",
+    "model_policy": "no exposed seedream-v4 or ltx-2 selector found",
+    "automation_status": "skip_strict_model_eval",
+    "notes": "Only use for product-level UX comparison."
+  },
+  {
+    "id": "invideo",
+    "name": "InVideo AI",
+    "url": "https://invideo.io/make/ai-video-generator/",
+    "model_policy": "no exposed seedream-v4 or ltx-2 selector found",
+    "automation_status": "skip_strict_model_eval",
+    "notes": "Only use for product-level UX comparison."
+  },
+  {
+    "id": "videogen",
+    "name": "VideoGen",
+    "url": "https://www.videogen.lol/",
+    "model_policy": "no exposed seedream-v4 or ltx-2 selector found",
+    "automation_status": "skip_strict_model_eval",
+    "notes": "Only use for product-level UX comparison."
+  }
+]

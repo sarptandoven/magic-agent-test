@@ -1,0 +1,643 @@
+{
+  "manifest": {
+    "aspect_ratio": "9:16",
+    "audio_model": "s2-pro",
+    "completed_scene_count": 5,
+    "created_at": "2026-05-02T05:08:21.243075+00:00",
+    "failed_scene_count": 0,
+    "failed_scenes": [],
+    "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/final.mp4",
+    "final_video_url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/final.mp4",
+    "gpt_cost_usd": 0.1483745,
+    "image_model": "seedream-v4",
+    "image_resolution": "1k",
+    "image_style_tool": "general",
+    "images": [
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_1/output-1.jpg",
+        "prompt": "Vertical cinematic photo of a solo traveler with small backpack stepping from a quiet Lisbon tram stop before dawn; wet tram tracks curve through the foreground, empty street, pale blue pre-sunrise sky, amber streetlamps, cobblestones glistening, medium-wide 35mm framing, cool blue and amber palette, realistic documentary style, hushed mood, no text.",
+        "provider_job_id": "cmonvmfqw000s5j0zow42g06j",
+        "provider_url": "https://videos.magichour.ai/cmonvmfqw000s5j0zow42g06j/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050446Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0a413cecb9eb1ee00b1dd4de50517b43a03b01941d400e12ea675739fb2d8f33e5fa530be86620e86bcc8954884a6ae898f756e5ea1e7a9aa1e4aa7189f63075822ca61373aed6fb09f5fc7ed8d49dd58203b8f7591aba35b5e9cd1dfcd2d8ec384daf63d9fdfeed31222ac3915920358749266915aa29626716dc97803a3341706d3b8e0fb1fc55684846868adb9a4fd371d1d5911ad6b677ff36afb3af7adc7326b76dba0c6a9a25311bd31d924f69268b5c2e2f773e246c1821eba9160dfbe14f874b40afbf4c22d724065b1e2990a7c934282b8774e3f51cc6c0f916991bd7973809832095a2b6b9c555089c124ba3925cb837e348138ce4ac3178d95e41",
+        "resolution": "1k",
+        "scene_id": "scene_1",
+        "style_tool": "general",
+        "url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_1/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_2/output-1.jpg",
+        "prompt": "Vertical street-level view of a small Lisbon bakery before sunrise; golden interior light spills through fogged windows onto the sidewalk, stacked bread silhouettes inside, traveler paused outside in profile, dark blue street beyond, intimate 50mm composition, warm-versus-cool contrast, realistic mini-documentary mood, no text or signage.",
+        "provider_job_id": "cmonvmfpu013z600zcbr49zem",
+        "provider_url": "https://videos.magichour.ai/cmonvmfpu013z600zcbr49zem/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050421Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3c3247d417bda0da19c6a16d3cddbdfcf4f0ee5dfdb386e163993e74586b91f730cdb804d6fe75b3cb429ffcf722839ca04d77e1e5fd0a1d4f08b6491d8b4fcdbac3d0631fd8370411c13f86daccb5ec97a036ee3ed9c03b53636a0d158f1e0e708cd29ddab5245e9e3ac765d9e6760c99bb4cf41bba5a93b55bc74eaf0a00413b66b4b2cbb6c6f8174127f6fe5163bd474787a0c3041ffdbed3881c369e7d13503f93acba4b4a3d8120fe289b9b752ffd0a3838e2abb0708ce546e25af8267596440b4efc342f96176b3a6fb105457f50e97949709551baf87ef63fb27354543eeab8168945965e6b2792cf04ddd4e5b9191776bed941783d90ede452042a2c",
+        "resolution": "1k",
+        "scene_id": "scene_2",
+        "style_tool": "general",
+        "url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_2/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_3/output-1.jpg",
+        "prompt": "Vertical view up a steep Lisbon street at dawn; narrow buildings, tram rails climbing the hill, patterned cal\u00e7ada stones, the solo traveler walking uphill away from camera, faint balcony shadows, blue-gray early light, telephoto compression, quiet observational realism, restrained palette, no text.",
+        "provider_job_id": "cmonvmfq100s32e0ygqg835be",
+        "provider_url": "https://videos.magichour.ai/cmonvmfq100s32e0ygqg835be/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050409Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=66ed3b9549c28559d9168c50643595d176b768ec810c4a9ad37ae79928f3897dbda59f3aa40e4ca353dfad50864e65881c07f9cd46247a54eed6b7cce0c855751ec191a95f15cdb77a07473260182fba5848dd96cd4d25fbdbcd9398663ad0cd9a4b3aca75b4afd351fc709d8c77623dbf7cf58cf9c314ad0161f22c13e037ae901512a36cd28d0799e1575a564a52812b38ef70539c1aa648f762e7707ab2e9e507d75f19dfdb8bb008507f689d6b6bd089d2b7c685bdda9efa6fb0ff6d26561ab1dfa783b581d4a1f48fb187d0ea8b8a5fbca723eadeb58847e8c176e7614323d9925aca9b2abe8fdc97d286962975d3c30d8691dca6676a69109dcd709708",
+        "resolution": "1k",
+        "scene_id": "scene_3",
+        "style_tool": "general",
+        "url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_3/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_4/output-1.jpg",
+        "prompt": "Vertical close-up of the traveler's hands holding a small dark espresso at a simple Lisbon counter by the doorway; porcelain cup, rising steam, wool sleeve, soft bakery light on fingers, blurred street blue in background, shallow depth of field, tactile documentary realism, intimate calm mood, no text.",
+        "provider_job_id": "cmonvmfur016w580zvs8xs1wz",
+        "provider_url": "https://videos.magichour.ai/cmonvmfur016w580zvs8xs1wz/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050432Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7b85d836a692b866df073574a8e20d59c8b060308709b3a223e9f5567acae21d530c5f3d94235a193ee5a566b28a00807cb025578dbd9deaa865f4055f45faf695a95301e8b832b00e41ef4ba1699305e0604fda713cc4f7abe3680a8f4da879660b487f1e114a25ee96000f5d053613b401a969338986499345fc666355136ca6dada4f10ecad7043a350b4db049e0f3d3b77af23be147bcbbd235774595846a40275eb3bd17cb1a238ce0abc56b0103ff0631662893cec3f98d3307a1c81d881c2ab1e1ed90016ef387c08c3b2145f2f93149d03686347032bc7a044733ceedd544cb485221e50daf9d22f9584b1182b649d756385757df0fa460d4098f970",
+        "resolution": "1k",
+        "scene_id": "scene_4",
+        "style_tool": "general",
+        "url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_4/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_5/output-1.jpg",
+        "prompt": "Vertical wide shot of Lisbon tiled buildings catching first sunlight; azulejo facades, steep street descending, long shadows, traveler small in the lower frame looking toward the glowing buildings, early golden sun touching upper walls, crisp atmospheric realism, 35mm lens, blue-to-gold palette continuity, no text.",
+        "provider_job_id": "cmonvmfpr01573z0zo7eodfuh",
+        "provider_url": "https://videos.magichour.ai/cmonvmfpr01573z0zo7eodfuh/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050355Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1ed7db0014ff3c25a67c62c63308659fb7d32d507a31b157abdc196587b313c916a671f57abe6443e434654d7563e969755fd82875a60bb11ae08d3a812cb71becb4a745abc43a3b165c2bb1fcdcbf4d272de5393453e1bd9779d5c63edc00d1f8422f8cecbb190c8fb11bf10ba56a8e5fb591b3cbb959234076ef554c077deab1451ba0ed7a0379d54414e24b4146deedf60be0faba5b3d6c53f2d2067eb2d04fba259b2972dc214108c0592199e4fd34b8885f742b996379d38b0f90131bcdd4c07147b91c2e138ef50ff1dd5ff8f98529d65b76e797cb431b311b70086e496b85d38f0ae32abd2fc1ff23c6adf8d96d47a59d3b358c933f60af97cb41df8c",
+        "resolution": "1k",
+        "scene_id": "scene_5",
+        "style_tool": "general",
+        "url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_5/output-1.jpg"
+      }
+    ],
+    "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/manifest.json",
+    "narration_stats": {
+      "expression_cue_count": 5,
+      "expression_cues": [
+        "whispers softly",
+        "speaks calmly",
+        "curious",
+        "emphasis",
+        "speaks calmly"
+      ],
+      "voiceover_duration_seconds": 23.327,
+      "word_count": 53,
+      "words_per_second": 2.272
+    },
+    "plan": {
+      "aspect_ratio": "9:16",
+      "narration": "[whispers softly] Before sunrise, traveler steps into Lisbon, where tram tracks hold blue night.\n\n[speaks calmly] Bakery windows glow first, warm while ovens begin patient work.\n\n[curious] On steep streets, footsteps and rails trace the city's slow breath.\n\n[emphasis] The first coffee arrives dark, small, steady in cold hands.\n\n[speaks calmly] Then sunlight climbs tiled facades, and Lisbon opens its eyes.",
+      "resolution": "720p",
+      "scenes": [
+        {
+          "duration_seconds": 4,
+          "id": "scene_1",
+          "image_prompt": "Vertical cinematic photo of a solo traveler with small backpack stepping from a quiet Lisbon tram stop before dawn; wet tram tracks curve through the foreground, empty street, pale blue pre-sunrise sky, amber streetlamps, cobblestones glistening, medium-wide 35mm framing, cool blue and amber palette, realistic documentary style, hushed mood, no text.",
+          "narration": "[whispers softly] Before sunrise, traveler steps into Lisbon, where tram tracks hold blue night.",
+          "video_prompt": "Slow forward push along the tram tracks as the traveler takes one measured step and looks down the empty street."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_2",
+          "image_prompt": "Vertical street-level view of a small Lisbon bakery before sunrise; golden interior light spills through fogged windows onto the sidewalk, stacked bread silhouettes inside, traveler paused outside in profile, dark blue street beyond, intimate 50mm composition, warm-versus-cool contrast, realistic mini-documentary mood, no text or signage.",
+          "narration": "[speaks calmly] Bakery windows glow first, warm while ovens begin patient work.",
+          "video_prompt": "Gentle lateral slide past the bakery window while soft steam shifts on the glass and the traveler remains still."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_3",
+          "image_prompt": "Vertical view up a steep Lisbon street at dawn; narrow buildings, tram rails climbing the hill, patterned cal\u00e7ada stones, the solo traveler walking uphill away from camera, faint balcony shadows, blue-gray early light, telephoto compression, quiet observational realism, restrained palette, no text.",
+          "narration": "[curious] On steep streets, footsteps and rails trace the city's slow breath.",
+          "video_prompt": "Slow upward tilt following the rails up the hill as the traveler continues one calm uphill walk."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_4",
+          "image_prompt": "Vertical close-up of the traveler's hands holding a small dark espresso at a simple Lisbon counter by the doorway; porcelain cup, rising steam, wool sleeve, soft bakery light on fingers, blurred street blue in background, shallow depth of field, tactile documentary realism, intimate calm mood, no text.",
+          "narration": "[emphasis] The first coffee arrives dark, small, steady in cold hands.",
+          "video_prompt": "Subtle handheld push-in toward the espresso as steam lifts and the hands steady the cup."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_5",
+          "image_prompt": "Vertical wide shot of Lisbon tiled buildings catching first sunlight; azulejo facades, steep street descending, long shadows, traveler small in the lower frame looking toward the glowing buildings, early golden sun touching upper walls, crisp atmospheric realism, 35mm lens, blue-to-gold palette continuity, no text.",
+          "narration": "[speaks calmly] Then sunlight climbs tiled facades, and Lisbon opens its eyes.",
+          "video_prompt": "Slow rising crane-like move as sunlight spreads across the tiled facades and the traveler stands still, watching."
+        }
+      ],
+      "title": "Lisbon Wakes Before Sunrise",
+      "visual_bible": "Solo traveler, gender-neutral, small dark backpack, understated clothing, realistic Lisbon documentary tone. Palette moves from blue pre-dawn and amber practicals to soft gold sunrise. Vertical 9:16 compositions, mostly 35mm to 50mm observational lens language, calm camera energy, textured cobblestones, tram rails, azulejos, steep streets, no text or logos."
+    },
+    "project_id": "d74c10c205b24f8fa568b6c9d1796c3c",
+    "render_status": "complete",
+    "resolution": "720p",
+    "title": "Lisbon Wakes Before Sunrise",
+    "token_output": {
+      "cost": {
+        "cached_input_usd": 0.028672,
+        "input_usd": 0.0853375,
+        "output_usd": 0.034365,
+        "total_usd": 0.1483745
+      },
+      "created_at": "2026-05-02T05:08:24.265011+00:00",
+      "model": "gpt-5.4",
+      "pricing": {
+        "cached_input": 0.25,
+        "currency": "USD",
+        "input": 2.5,
+        "input_multiplier": 1.0,
+        "long_context_applies": false,
+        "long_context_threshold_input_tokens": 272000,
+        "output": 15.0,
+        "output_multiplier": 1.0,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5.4/",
+        "unit": "per_1m_tokens"
+      },
+      "project_id": "d74c10c205b24f8fa568b6c9d1796c3c",
+      "provider": "openai",
+      "scope": "OpenAI GPT/agent planning run only. Magic Hour, Fish Audio, and ffmpeg costs are not included.",
+      "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/token_output.json",
+      "usage": {
+        "cached_input_tokens": 114688,
+        "input_tokens": 148823,
+        "input_tokens_details": [
+          {
+            "cached_tokens": 114688
+          }
+        ],
+        "output_tokens": 2291,
+        "output_tokens_details": [
+          {
+            "reasoning_tokens": 1017
+          }
+        ],
+        "reasoning_tokens": 1017,
+        "request_usage_entries": [
+          {
+            "input_tokens": 4792,
+            "input_tokens_details": {
+              "cached_tokens": 0
+            },
+            "output_tokens": 1693,
+            "output_tokens_details": {
+              "reasoning_tokens": 868
+            },
+            "total_tokens": 6485
+          },
+          {
+            "input_tokens": 7242,
+            "input_tokens_details": {
+              "cached_tokens": 6144
+            },
+            "output_tokens": 179,
+            "output_tokens_details": {
+              "reasoning_tokens": 73
+            },
+            "total_tokens": 7421
+          },
+          {
+            "input_tokens": 7601,
+            "input_tokens_details": {
+              "cached_tokens": 7296
+            },
+            "output_tokens": 71,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 7672
+          },
+          {
+            "input_tokens": 11037,
+            "input_tokens_details": {
+              "cached_tokens": 7552
+            },
+            "output_tokens": 49,
+            "output_tokens_details": {
+              "reasoning_tokens": 8
+            },
+            "total_tokens": 11086
+          },
+          {
+            "input_tokens": 13601,
+            "input_tokens_details": {
+              "cached_tokens": 11008
+            },
+            "output_tokens": 64,
+            "output_tokens_details": {
+              "reasoning_tokens": 45
+            },
+            "total_tokens": 13665
+          },
+          {
+            "input_tokens": 20833,
+            "input_tokens_details": {
+              "cached_tokens": 13568
+            },
+            "output_tokens": 103,
+            "output_tokens_details": {
+              "reasoning_tokens": 15
+            },
+            "total_tokens": 20936
+          },
+          {
+            "input_tokens": 21105,
+            "input_tokens_details": {
+              "cached_tokens": 20864
+            },
+            "output_tokens": 62,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 21167
+          },
+          {
+            "input_tokens": 27386,
+            "input_tokens_details": {
+              "cached_tokens": 20992
+            },
+            "output_tokens": 28,
+            "output_tokens_details": {
+              "reasoning_tokens": 8
+            },
+            "total_tokens": 27414
+          },
+          {
+            "input_tokens": 35226,
+            "input_tokens_details": {
+              "cached_tokens": 27264
+            },
+            "output_tokens": 42,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 35268
+          }
+        ],
+        "requests": 9,
+        "tool_search_tokens": 0,
+        "total_tokens": 151114,
+        "uncached_input_tokens": 34135
+      }
+    },
+    "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/token_output.json",
+    "video_audio": false,
+    "video_model": "ltx-2",
+    "video_resolution": "720p",
+    "videos": [
+      {
+        "audio": false,
+        "duration_seconds": 4,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_1/output.mp4",
+        "prompt": "Slow forward push along the tram tracks as the traveler takes one measured step and looks down the empty street.",
+        "provider_job_id": "cmonvnvm40178580zoqydfk2z",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvnvm40178580zoqydfk2z/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050552Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0afd11d1affb573c6c87061b26edb8b49cd23b719f8d2f6ee5a717664cd0097b45084f965cd26b132857eee2599fa50dde75e62b80eff2d6f24964c73302de1274da9713870ea9c3113167b28175b9e23bef8126a1aa4a92b6a0944c8eb7a1ad3ac42283c9ca92d8680031dddef606bdbacc1467d4663f4d313a1ac6b06b0973d6906f9f3a5970cda26e836b73c4c4252076b214b03306c3a3d66935ad0c14073c6e6419a71b04550697b6e64ef8d2a6597c0b5477f8ed278aea723599499551d851ec956264db54a347c2af363bd36b9a369822efdc006f5495b321c98ab48c248b30f01bad59223570084a45ad7291505353b961c41a56c480b9031df0acb2",
+        "resolution": "720p",
+        "scene_id": "scene_1",
+        "url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_1/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 4,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_2/output.mp4",
+        "prompt": "Gentle lateral slide past the bakery window while soft steam shifts on the glass and the traveler remains still.",
+        "provider_job_id": "cmonvnwxm00sw2e0yq9oivsud",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvnwxm00sw2e0yq9oivsud/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050638Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=58dae7a62db242634b77ebea8ee61c857ae4272f684f5b2e319707a79867bbf6c256b3e70442c6ba2ac7f5da917b2d16b8e2c85dba40ab7eafcdd48666193d1859e74116c8f4228ecbd4c4a005e709a2a85ff98350827f7a63e46d23cda11e58ea87fbf9a0979a4de73813756d3d90335578a8075ae280e2e7425c382a0d7ac9556a20289636f4a658cbc37d336da58574f9546b5449238df8717c0edeff3174a82ba8b3861aff3b3f77f444e358989e6c340b3c75dc1e37633e6fb40573513f774d14810ea916e04bec94adfcc4da1db04ba95900d4caa95c10a2e4b5dcf3ebecd87e3ae693c497521ef52713de7c15d2535a15f4bf8697b14f9196ca87e958",
+        "resolution": "720p",
+        "scene_id": "scene_2",
+        "url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_2/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 5,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_3/output.mp4",
+        "prompt": "Slow upward tilt following the rails up the hill as the traveler continues one calm uphill walk.",
+        "provider_job_id": "cmonvnvou001a5j0ztgww7m81",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvnvou001a5j0ztgww7m81/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050624Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=03a7ad6c71f942c3e0080b647b97c5e7717d5a658840536d2f69ff084b8871506580460b7d96e75c69d05dd81950034dbb876ffa82d99c06719d5719b11416b8403418ddd2c3b4bc4ec38011fc7ccd70f5c218db34a0cb09b6ca79c2e7f7ab10944b90e4b3a76b6c6150ef7cb8e8edefac96f9c6811ca0e77e05c40de4463c6f77226da7015d9c972cfce4c999e5a26b7895da9c0bdc2fd6821c202c3cf97717754f71ea04bc738b3ea2956ec9d3d47cd05714a039e46716aef79c2f99fcf149632f43a3f9592729f5907cf93a9676224e6e9ecdf96defd6b0f2204b5c611f55d31a8267899673ee1e88be6809f1824a3f6d08836bfaa51fbf4265d976b437fc",
+        "resolution": "720p",
+        "scene_id": "scene_3",
+        "url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_3/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 4,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_4/output.mp4",
+        "prompt": "Subtle handheld push-in toward the espresso as steam lifts and the hands steady the cup.",
+        "provider_job_id": "cmonvnvhn0177580za8qfgz7n",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvnvhn0177580za8qfgz7n/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050545Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4ebbe17b946b8b2cb6158370ede4375aaec3b35056c2af15b2a05a37d0cd2ea213eadbfab934d60ed01e64a8c313eb70832122bd5abf5cb2b1871a8e48ad5e8e95edf4e16c3bb6f50ed6d9a879c8c17cc981f6a1d73c47e5336486a3584b74ef8071bd60f73570a6e8b038dbed8789384a9bf23ffb22bb66d9e817344457708cdd0cc022f9d92e7c249844d327e6593285f7d6a1555aa6d347f77b5e2919047b044f909e178a5d831321b02557762d996e9f9363c78808bc1b415e5a68a6f7ff49dff267da34dcd081f05dd4691025d3bbb63ff8efaf5d8a06732e1366da91b6ebc31f5e20856138f81f37f4ed7f85d2a3b57726f3eb15e32d490973796f9c84",
+        "resolution": "720p",
+        "scene_id": "scene_4",
+        "url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_4/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 5,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_5/output.mp4",
+        "prompt": "Slow rising crane-like move as sunlight spreads across the tiled facades and the traveler stands still, watching.",
+        "provider_job_id": "cmonvqjgu016k3z0zugaj3vrq",
+        "provider_url": "https://videos.magichour.ai/cmonvqjgu016k3z0zugaj3vrq/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050810Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=212232848178b46c8a99d17e4d0753a449837585a16ece8ece26430015eea1bc5c046e111208c8c732cf66b0b08c1c415f88fbbe0dc2c2a54c68499f351a5f794ce517c458d7bdfd0bff53f76e8441288f6d9f68b68a6a8777fa14f6e15ac99ada3d1529324609eda108ffa070c45bfcb6c2ec4a9b20916d25f1ed733e5a3b173c4e0b31f6d65572f6e0024bc8cdd76cc67f0f64b1c106cfa40e48984d2d5e1ad9032ded688c03822fc01f4c62f13feedaceee8dae6864842ce933b95615e5f6b45d5abf8b17d6c9d45042d3cb5d946839bc9f4af1bc8aaaf1bc9318a1bd96b60b7fe7451fa9a177bb34a5a66f55282491425d0be5db42e5b4a3e70d267a7e97",
+        "resolution": "720p",
+        "scene_id": "scene_5",
+        "url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_5/output.mp4"
+      }
+    ],
+    "voiceover": {
+      "duration_seconds": 23.327,
+      "model": "s2-pro",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/voiceover/voiceover.mp3",
+      "target_duration_seconds": 22,
+      "url": "/media/d74c10c205b24f8fa568b6c9d1796c3c/voiceover/voiceover.mp3"
+    }
+  },
+  "message": "Video is ready.",
+  "progress": 100,
+  "project_id": "d74c10c205b24f8fa568b6c9d1796c3c",
+  "project_state": {
+    "created_at": "2026-05-02T05:03:01.678271+00:00",
+    "current_plan": {
+      "narration": "[whispers softly] Before sunrise, traveler steps into Lisbon, where tram tracks hold blue night.\n\n[speaks calmly] Bakery windows glow first, warm while ovens begin patient work.\n\n[curious] On steep streets, footsteps and rails trace the city's slow breath.\n\n[emphasis] The first coffee arrives dark, small, steady in cold hands.\n\n[speaks calmly] Then sunlight climbs tiled facades, and Lisbon opens its eyes.",
+      "scenes": [
+        {
+          "duration_seconds": 4,
+          "id": "scene_1",
+          "image_prompt": "Vertical cinematic photo of a solo traveler with small backpack stepping from a quiet Lisbon tram stop before dawn; wet tram tracks curve through the foreground, empty street, pale blue pre-sunrise sky, amber streetlamps, cobblestones glistening, medium-wide 35mm framing, cool blue and amber palette, realistic documentary style, hushed mood, no text.",
+          "narration": "[whispers softly] Before sunrise, traveler steps into Lisbon, where tram tracks hold blue night.",
+          "video_prompt": "Slow forward push along the tram tracks as the traveler takes one measured step and looks down the empty street."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_2",
+          "image_prompt": "Vertical street-level view of a small Lisbon bakery before sunrise; golden interior light spills through fogged windows onto the sidewalk, stacked bread silhouettes inside, traveler paused outside in profile, dark blue street beyond, intimate 50mm composition, warm-versus-cool contrast, realistic mini-documentary mood, no text or signage.",
+          "narration": "[speaks calmly] Bakery windows glow first, warm while ovens begin patient work.",
+          "video_prompt": "Gentle lateral slide past the bakery window while soft steam shifts on the glass and the traveler remains still."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_3",
+          "image_prompt": "Vertical view up a steep Lisbon street at dawn; narrow buildings, tram rails climbing the hill, patterned cal\u00e7ada stones, the solo traveler walking uphill away from camera, faint balcony shadows, blue-gray early light, telephoto compression, quiet observational realism, restrained palette, no text.",
+          "narration": "[curious] On steep streets, footsteps and rails trace the city's slow breath.",
+          "video_prompt": "Slow upward tilt following the rails up the hill as the traveler continues one calm uphill walk."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_4",
+          "image_prompt": "Vertical close-up of the traveler's hands holding a small dark espresso at a simple Lisbon counter by the doorway; porcelain cup, rising steam, wool sleeve, soft bakery light on fingers, blurred street blue in background, shallow depth of field, tactile documentary realism, intimate calm mood, no text.",
+          "narration": "[emphasis] The first coffee arrives dark, small, steady in cold hands.",
+          "video_prompt": "Subtle handheld push-in toward the espresso as steam lifts and the hands steady the cup."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_5",
+          "image_prompt": "Vertical wide shot of Lisbon tiled buildings catching first sunlight; azulejo facades, steep street descending, long shadows, traveler small in the lower frame looking toward the glowing buildings, early golden sun touching upper walls, crisp atmospheric realism, 35mm lens, blue-to-gold palette continuity, no text.",
+          "narration": "[speaks calmly] Then sunlight climbs tiled facades, and Lisbon opens its eyes.",
+          "video_prompt": "Slow rising crane-like move as sunlight spreads across the tiled facades and the traveler stands still, watching."
+        }
+      ],
+      "title": "Lisbon Wakes Before Sunrise",
+      "visual_bible": "Solo traveler, gender-neutral, small dark backpack, understated clothing, realistic Lisbon documentary tone. Palette moves from blue pre-dawn and amber practicals to soft gold sunrise. Vertical 9:16 compositions, mostly 35mm to 50mm observational lens language, calm camera energy, textured cobblestones, tram rails, azulejos, steep streets, no text or logos."
+    },
+    "decisions": [
+      {
+        "created_at": "2026-05-02T05:03:33.386526+00:00",
+        "decision": "Drafted plan 'Lisbon Wakes Before Sunrise' with 5 scene(s).",
+        "metadata": {
+          "scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4",
+            "scene_5"
+          ]
+        },
+        "tool": "draft_video_plan"
+      },
+      {
+        "created_at": "2026-05-02T05:03:37.253539+00:00",
+        "decision": "Use seedream-v4 at 1k for vertical keyframes and ltx-2 at 720p for animation, with scene durations 4/4/5/4/5 seconds totaling 22 seconds before crossfades.",
+        "rationale": "Matches the user's chosen models and runtime formula while keeping prompts realistic, detailed, and efficient for a 20-second five-scene documentary flow.",
+        "tool": "record_project_decision"
+      },
+      {
+        "created_at": "2026-05-02T05:03:44.651875+00:00",
+        "decision": "Generated voiceover for the saved narration.",
+        "metadata": {
+          "target_duration_seconds": 22
+        },
+        "tool": "generate_voiceover"
+      },
+      {
+        "created_at": "2026-05-02T05:04:43.303313+00:00",
+        "decision": "Generated 5 scene image(s).",
+        "metadata": {
+          "failed_scene_ids": [],
+          "requested_scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4",
+            "scene_5"
+          ]
+        },
+        "tool": "generate_scene_images"
+      },
+      {
+        "created_at": "2026-05-02T05:06:38.968721+00:00",
+        "decision": "Animated 4 scene video(s).",
+        "metadata": {
+          "failed_scene_ids": [
+            "scene_5"
+          ],
+          "requested_scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4",
+            "scene_5"
+          ]
+        },
+        "tool": "animate_scene_videos"
+      },
+      {
+        "created_at": "2026-05-02T05:06:46.110406+00:00",
+        "decision": "Retry scene_5 video generation after a provider-side server error without changing the approved prompt or model.",
+        "rationale": "The failure was a 500 server error rather than a creative mismatch, so the cleanest recovery is a video-only retry on the same ltx-2 720p setup.",
+        "scene_id": "scene_5",
+        "tool": "record_project_decision"
+      },
+      {
+        "created_at": "2026-05-02T05:08:12.078357+00:00",
+        "decision": "Retried video asset(s) for scene_5.",
+        "scene_id": "scene_5",
+        "tool": "retry_scene"
+      }
+    ],
+    "failures": [],
+    "messages": [],
+    "project_id": "d74c10c205b24f8fa568b6c9d1796c3c",
+    "provider_settings": {
+      "aspect_ratio": "9:16",
+      "audio_format": "mp3",
+      "audio_model": "s2-pro",
+      "image_model": "seedream-v4",
+      "image_resolution": "1k",
+      "image_style_tool": "general",
+      "resolution": "720p",
+      "video_audio": false,
+      "video_model": "ltx-2",
+      "video_resolution": "720p"
+    },
+    "scene_assets": {
+      "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/final.mp4",
+      "images": [
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_1/output-1.jpg",
+          "prompt": "Vertical cinematic photo of a solo traveler with small backpack stepping from a quiet Lisbon tram stop before dawn; wet tram tracks curve through the foreground, empty street, pale blue pre-sunrise sky, amber streetlamps, cobblestones glistening, medium-wide 35mm framing, cool blue and amber palette, realistic documentary style, hushed mood, no text.",
+          "provider_job_id": "cmonvmfqw000s5j0zow42g06j",
+          "provider_url": "https://videos.magichour.ai/cmonvmfqw000s5j0zow42g06j/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050446Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0a413cecb9eb1ee00b1dd4de50517b43a03b01941d400e12ea675739fb2d8f33e5fa530be86620e86bcc8954884a6ae898f756e5ea1e7a9aa1e4aa7189f63075822ca61373aed6fb09f5fc7ed8d49dd58203b8f7591aba35b5e9cd1dfcd2d8ec384daf63d9fdfeed31222ac3915920358749266915aa29626716dc97803a3341706d3b8e0fb1fc55684846868adb9a4fd371d1d5911ad6b677ff36afb3af7adc7326b76dba0c6a9a25311bd31d924f69268b5c2e2f773e246c1821eba9160dfbe14f874b40afbf4c22d724065b1e2990a7c934282b8774e3f51cc6c0f916991bd7973809832095a2b6b9c555089c124ba3925cb837e348138ce4ac3178d95e41",
+          "resolution": "1k",
+          "scene_id": "scene_1",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_2/output-1.jpg",
+          "prompt": "Vertical street-level view of a small Lisbon bakery before sunrise; golden interior light spills through fogged windows onto the sidewalk, stacked bread silhouettes inside, traveler paused outside in profile, dark blue street beyond, intimate 50mm composition, warm-versus-cool contrast, realistic mini-documentary mood, no text or signage.",
+          "provider_job_id": "cmonvmfpu013z600zcbr49zem",
+          "provider_url": "https://videos.magichour.ai/cmonvmfpu013z600zcbr49zem/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050421Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3c3247d417bda0da19c6a16d3cddbdfcf4f0ee5dfdb386e163993e74586b91f730cdb804d6fe75b3cb429ffcf722839ca04d77e1e5fd0a1d4f08b6491d8b4fcdbac3d0631fd8370411c13f86daccb5ec97a036ee3ed9c03b53636a0d158f1e0e708cd29ddab5245e9e3ac765d9e6760c99bb4cf41bba5a93b55bc74eaf0a00413b66b4b2cbb6c6f8174127f6fe5163bd474787a0c3041ffdbed3881c369e7d13503f93acba4b4a3d8120fe289b9b752ffd0a3838e2abb0708ce546e25af8267596440b4efc342f96176b3a6fb105457f50e97949709551baf87ef63fb27354543eeab8168945965e6b2792cf04ddd4e5b9191776bed941783d90ede452042a2c",
+          "resolution": "1k",
+          "scene_id": "scene_2",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_3/output-1.jpg",
+          "prompt": "Vertical view up a steep Lisbon street at dawn; narrow buildings, tram rails climbing the hill, patterned cal\u00e7ada stones, the solo traveler walking uphill away from camera, faint balcony shadows, blue-gray early light, telephoto compression, quiet observational realism, restrained palette, no text.",
+          "provider_job_id": "cmonvmfq100s32e0ygqg835be",
+          "provider_url": "https://videos.magichour.ai/cmonvmfq100s32e0ygqg835be/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050409Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=66ed3b9549c28559d9168c50643595d176b768ec810c4a9ad37ae79928f3897dbda59f3aa40e4ca353dfad50864e65881c07f9cd46247a54eed6b7cce0c855751ec191a95f15cdb77a07473260182fba5848dd96cd4d25fbdbcd9398663ad0cd9a4b3aca75b4afd351fc709d8c77623dbf7cf58cf9c314ad0161f22c13e037ae901512a36cd28d0799e1575a564a52812b38ef70539c1aa648f762e7707ab2e9e507d75f19dfdb8bb008507f689d6b6bd089d2b7c685bdda9efa6fb0ff6d26561ab1dfa783b581d4a1f48fb187d0ea8b8a5fbca723eadeb58847e8c176e7614323d9925aca9b2abe8fdc97d286962975d3c30d8691dca6676a69109dcd709708",
+          "resolution": "1k",
+          "scene_id": "scene_3",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_4/output-1.jpg",
+          "prompt": "Vertical close-up of the traveler's hands holding a small dark espresso at a simple Lisbon counter by the doorway; porcelain cup, rising steam, wool sleeve, soft bakery light on fingers, blurred street blue in background, shallow depth of field, tactile documentary realism, intimate calm mood, no text.",
+          "provider_job_id": "cmonvmfur016w580zvs8xs1wz",
+          "provider_url": "https://videos.magichour.ai/cmonvmfur016w580zvs8xs1wz/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050432Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7b85d836a692b866df073574a8e20d59c8b060308709b3a223e9f5567acae21d530c5f3d94235a193ee5a566b28a00807cb025578dbd9deaa865f4055f45faf695a95301e8b832b00e41ef4ba1699305e0604fda713cc4f7abe3680a8f4da879660b487f1e114a25ee96000f5d053613b401a969338986499345fc666355136ca6dada4f10ecad7043a350b4db049e0f3d3b77af23be147bcbbd235774595846a40275eb3bd17cb1a238ce0abc56b0103ff0631662893cec3f98d3307a1c81d881c2ab1e1ed90016ef387c08c3b2145f2f93149d03686347032bc7a044733ceedd544cb485221e50daf9d22f9584b1182b649d756385757df0fa460d4098f970",
+          "resolution": "1k",
+          "scene_id": "scene_4",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/images/scene_5/output-1.jpg",
+          "prompt": "Vertical wide shot of Lisbon tiled buildings catching first sunlight; azulejo facades, steep street descending, long shadows, traveler small in the lower frame looking toward the glowing buildings, early golden sun touching upper walls, crisp atmospheric realism, 35mm lens, blue-to-gold palette continuity, no text.",
+          "provider_job_id": "cmonvmfpr01573z0zo7eodfuh",
+          "provider_url": "https://videos.magichour.ai/cmonvmfpr01573z0zo7eodfuh/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050355Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1ed7db0014ff3c25a67c62c63308659fb7d32d507a31b157abdc196587b313c916a671f57abe6443e434654d7563e969755fd82875a60bb11ae08d3a812cb71becb4a745abc43a3b165c2bb1fcdcbf4d272de5393453e1bd9779d5c63edc00d1f8422f8cecbb190c8fb11bf10ba56a8e5fb591b3cbb959234076ef554c077deab1451ba0ed7a0379d54414e24b4146deedf60be0faba5b3d6c53f2d2067eb2d04fba259b2972dc214108c0592199e4fd34b8885f742b996379d38b0f90131bcdd4c07147b91c2e138ef50ff1dd5ff8f98529d65b76e797cb431b311b70086e496b85d38f0ae32abd2fc1ff23c6adf8d96d47a59d3b358c933f60af97cb41df8c",
+          "resolution": "1k",
+          "scene_id": "scene_5",
+          "style_tool": "general"
+        }
+      ],
+      "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/manifest.json",
+      "videos": [
+        {
+          "audio": false,
+          "duration_seconds": 4,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_1/output.mp4",
+          "prompt": "Slow forward push along the tram tracks as the traveler takes one measured step and looks down the empty street.",
+          "provider_job_id": "cmonvnvm40178580zoqydfk2z",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvnvm40178580zoqydfk2z/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050552Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0afd11d1affb573c6c87061b26edb8b49cd23b719f8d2f6ee5a717664cd0097b45084f965cd26b132857eee2599fa50dde75e62b80eff2d6f24964c73302de1274da9713870ea9c3113167b28175b9e23bef8126a1aa4a92b6a0944c8eb7a1ad3ac42283c9ca92d8680031dddef606bdbacc1467d4663f4d313a1ac6b06b0973d6906f9f3a5970cda26e836b73c4c4252076b214b03306c3a3d66935ad0c14073c6e6419a71b04550697b6e64ef8d2a6597c0b5477f8ed278aea723599499551d851ec956264db54a347c2af363bd36b9a369822efdc006f5495b321c98ab48c248b30f01bad59223570084a45ad7291505353b961c41a56c480b9031df0acb2",
+          "resolution": "720p",
+          "scene_id": "scene_1"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 4,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_2/output.mp4",
+          "prompt": "Gentle lateral slide past the bakery window while soft steam shifts on the glass and the traveler remains still.",
+          "provider_job_id": "cmonvnwxm00sw2e0yq9oivsud",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvnwxm00sw2e0yq9oivsud/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050638Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=58dae7a62db242634b77ebea8ee61c857ae4272f684f5b2e319707a79867bbf6c256b3e70442c6ba2ac7f5da917b2d16b8e2c85dba40ab7eafcdd48666193d1859e74116c8f4228ecbd4c4a005e709a2a85ff98350827f7a63e46d23cda11e58ea87fbf9a0979a4de73813756d3d90335578a8075ae280e2e7425c382a0d7ac9556a20289636f4a658cbc37d336da58574f9546b5449238df8717c0edeff3174a82ba8b3861aff3b3f77f444e358989e6c340b3c75dc1e37633e6fb40573513f774d14810ea916e04bec94adfcc4da1db04ba95900d4caa95c10a2e4b5dcf3ebecd87e3ae693c497521ef52713de7c15d2535a15f4bf8697b14f9196ca87e958",
+          "resolution": "720p",
+          "scene_id": "scene_2"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 5,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_3/output.mp4",
+          "prompt": "Slow upward tilt following the rails up the hill as the traveler continues one calm uphill walk.",
+          "provider_job_id": "cmonvnvou001a5j0ztgww7m81",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvnvou001a5j0ztgww7m81/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050624Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=03a7ad6c71f942c3e0080b647b97c5e7717d5a658840536d2f69ff084b8871506580460b7d96e75c69d05dd81950034dbb876ffa82d99c06719d5719b11416b8403418ddd2c3b4bc4ec38011fc7ccd70f5c218db34a0cb09b6ca79c2e7f7ab10944b90e4b3a76b6c6150ef7cb8e8edefac96f9c6811ca0e77e05c40de4463c6f77226da7015d9c972cfce4c999e5a26b7895da9c0bdc2fd6821c202c3cf97717754f71ea04bc738b3ea2956ec9d3d47cd05714a039e46716aef79c2f99fcf149632f43a3f9592729f5907cf93a9676224e6e9ecdf96defd6b0f2204b5c611f55d31a8267899673ee1e88be6809f1824a3f6d08836bfaa51fbf4265d976b437fc",
+          "resolution": "720p",
+          "scene_id": "scene_3"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 4,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_4/output.mp4",
+          "prompt": "Subtle handheld push-in toward the espresso as steam lifts and the hands steady the cup.",
+          "provider_job_id": "cmonvnvhn0177580za8qfgz7n",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvnvhn0177580za8qfgz7n/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050545Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4ebbe17b946b8b2cb6158370ede4375aaec3b35056c2af15b2a05a37d0cd2ea213eadbfab934d60ed01e64a8c313eb70832122bd5abf5cb2b1871a8e48ad5e8e95edf4e16c3bb6f50ed6d9a879c8c17cc981f6a1d73c47e5336486a3584b74ef8071bd60f73570a6e8b038dbed8789384a9bf23ffb22bb66d9e817344457708cdd0cc022f9d92e7c249844d327e6593285f7d6a1555aa6d347f77b5e2919047b044f909e178a5d831321b02557762d996e9f9363c78808bc1b415e5a68a6f7ff49dff267da34dcd081f05dd4691025d3bbb63ff8efaf5d8a06732e1366da91b6ebc31f5e20856138f81f37f4ed7f85d2a3b57726f3eb15e32d490973796f9c84",
+          "resolution": "720p",
+          "scene_id": "scene_4"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 5,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/videos/scene_5/output.mp4",
+          "prompt": "Slow rising crane-like move as sunlight spreads across the tiled facades and the traveler stands still, watching.",
+          "provider_job_id": "cmonvqjgu016k3z0zugaj3vrq",
+          "provider_url": "https://videos.magichour.ai/cmonvqjgu016k3z0zugaj3vrq/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050810Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=212232848178b46c8a99d17e4d0753a449837585a16ece8ece26430015eea1bc5c046e111208c8c732cf66b0b08c1c415f88fbbe0dc2c2a54c68499f351a5f794ce517c458d7bdfd0bff53f76e8441288f6d9f68b68a6a8777fa14f6e15ac99ada3d1529324609eda108ffa070c45bfcb6c2ec4a9b20916d25f1ed733e5a3b173c4e0b31f6d65572f6e0024bc8cdd76cc67f0f64b1c106cfa40e48984d2d5e1ad9032ded688c03822fc01f4c62f13feedaceee8dae6864842ce933b95615e5f6b45d5abf8b17d6c9d45042d3cb5d946839bc9f4af1bc8aaaf1bc9318a1bd96b60b7fe7451fa9a177bb34a5a66f55282491425d0be5db42e5b4a3e70d267a7e97",
+          "resolution": "720p",
+          "scene_id": "scene_5"
+        }
+      ],
+      "voiceover": {
+        "duration_seconds": 23.327,
+        "model": "s2-pro",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d74c10c205b24f8fa568b6c9d1796c3c/voiceover/voiceover.mp3",
+        "target_duration_seconds": 22
+      }
+    },
+    "status": {
+      "message": "Video is ready.",
+      "progress": 100,
+      "stage": "complete",
+      "status": "succeeded"
+    },
+    "updated_at": "2026-05-02T05:08:24.266952+00:00",
+    "user_preferences": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 20,
+      "image_model": "seedream-v4",
+      "image_resolution": null,
+      "prompt": "Make a 20-second vertical mini-documentary about a solo traveler arriving in Lisbon before sunrise and finding the city waking up. Use 5 scenes. Focus on quiet observational details: tram tracks, bakery lights, steep streets, first coffee, and sunlight reaching tiled buildings.",
+      "resolution": "720p",
+      "scene_count": 5,
+      "video_model": "ltx-2",
+      "video_resolution": null
+    },
+    "version": 1
+  },
+  "stage": "complete",
+  "status": "succeeded",
+  "status_url": "/api/projects/d74c10c205b24f8fa568b6c9d1796c3c",
+  "updated_at": "2026-05-02T05:08:24.266525+00:00"
+}

@@ -1,0 +1,19 @@
+Create a 16-second vertical launch video for a pocket-sized AI camera that helps cyclists record close calls and scenic rides. Use exactly 4 scenes. Make it cinematic, practical, and not hypey. Show the camera mounted on a handlebar, a tense traffic moment, a beautiful golden-hour ride, and the app automatically summarizing the ride afterward.
+
+Make a 15-second vertical explainer for an internal AI tool that turns sales-call transcripts into CRM updates, Linear tasks, and Slack summaries. Use 3 scenes. The tone should be calm, sharp, and credible for a startup CTO. Avoid buzzwords and avoid showing fake readable text on screens.
+
+Create an 18-second cinematic micro-story about a night-shift courier crossing a rain-soaked city during a blackout to deliver a small glowing device. Use 5 scenes. The mood is tense but hopeful. Keep one consistent courier, one consistent package, and one clear story arc.
+
+Make a 20-second vertical educational short explaining how an mRNA vaccine teaches immune cells what to recognize. Use 4 scenes. Keep it accurate, visual, and simple enough for a high-school student. Avoid fear-based imagery and avoid medical claims beyond the basic mechanism.
+
+Create a 15-second vertical reel for a small neighborhood dumpling shop preparing for dinner rush. Use 4 scenes. Make it warm, tactile, and human: steam, hands folding dumplings, the first pan sizzle, and customers picking up takeout. No visible brand names or fake text.
+
+Make an 18-second vertical fundraising video for a nonprofit restoring urban tree canopy in overheated neighborhoods. Use 4 scenes. The tone should be grounded and hopeful, not guilt-driven. Show heat, volunteers planting trees, residents using shade, and a future greener street.
+
+Create a 14-second vertical founder-update style video for a robotics startup that just got its first warehouse pilot running. Use 3 scenes. It should feel like a serious progress update, not a glossy commercial: prototype on a workbench, robot moving one box, team watching the first successful run.
+
+Make a 20-second vertical mini-documentary about a solo traveler arriving in Lisbon before sunrise and finding the city waking up. Use 5 scenes. Focus on quiet observational details: tram tracks, bakery lights, steep streets, first coffee, and sunlight reaching tiled buildings.
+
+Create a 15-second vertical video for a habit-coaching app that helps beginners start strength training without intimidation. Use 4 scenes. Show a realistic beginner laying out shoes, doing one simple movement, checking off a tiny win, and returning the next day. Tone: encouraging but not cheesy.
+
+Make a 16-second vertical visual explanation of how retrieval-augmented generation works for a support chatbot. Use 4 scenes. Show a user question, the system searching a trusted knowledge library, the model using retrieved snippets, and the final answer being grounded. Avoid readable UI text; use visual metaphors instead.

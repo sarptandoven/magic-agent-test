@@ -1,0 +1,9 @@
+{
+  "aspect_ratio": "9:16",
+  "duration_seconds": 15,
+  "image_model": "seedream-v4",
+  "prompt": "Create a 15-second vertical video for a habit-coaching app that helps beginners start strength training without intimidation. Use 4 scenes. Show a realistic beginner laying out shoes, doing one simple movement, checking off a tiny win, and returning the next day. Tone: encouraging but not cheesy.",
+  "resolution": "720p",
+  "scene_count": 4,
+  "video_model": "ltx-2"
+}

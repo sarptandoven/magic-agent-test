@@ -1,0 +1,533 @@
+{
+  "manifest": {
+    "aspect_ratio": "9:16",
+    "audio_model": "s2-pro",
+    "completed_scene_count": 4,
+    "created_at": "2026-05-02T05:16:04.633267+00:00",
+    "failed_scene_count": 0,
+    "failed_scenes": [],
+    "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/final.mp4",
+    "final_video_url": "/media/f4893f5377974ab0b5719af1048f21ca/final.mp4",
+    "gpt_cost_usd": 0.085799,
+    "image_model": "seedream-v4",
+    "image_resolution": "2k",
+    "image_style_tool": "general",
+    "images": [
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/images/scene_1/output-1.jpg",
+        "prompt": "Vertical frame, a single person in half silhouette holds a phone at chest height in a dim teal room, no readable screen text. From the phone, one amber glowing thread lifts into the air. Clean cinematic 35mm composition, centered subject, soft practical light, shallow depth of field, polished realistic style, calm inquisitive mood, teal and amber palette.",
+        "provider_job_id": "cmonvxohp017r600zuhljxljw",
+        "provider_url": "https://videos.magichour.ai/cmonvxohp017r600zuhljxljw/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051302Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=683a9a7bd1e884715fa6593183e2f086575d017d7deb25710fb2e1da8e26de7ff4a663f56d21fc5a47de116a72f719c460b6763700f7ee1d2539c38aba81341d2bad34003856e5ba2c7a5aa3ed81dd1d7041540d3372fad3e26c1ba37fff662e50895c3ce6e4b13b2a28d6096a9afe49fddf271a3600a4f450bc6d7e0ce853a271f77a25fd43c04a860b1be43823ddf828e1223fc2615c1231dbfc5e1e0e9e6d49d36ddf9b8fd00e6646c6e71cc63c021c66061ef635703ace552f04c0e3eb213879187eeb2b8b204507c6ce3dcb778dd312079f337e4ac95bf674f0ff804ea43ab02e9c4b63573fd1a50bd384dae03c0d5219387e70137e82a11cde3860ee69",
+        "resolution": "2k",
+        "scene_id": "scene_1",
+        "style_tool": "general",
+        "url": "/media/f4893f5377974ab0b5719af1048f21ca/images/scene_1/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/images/scene_2/output-1.jpg",
+        "prompt": "Vertical frame inside a vast trusted knowledge library, tall shelves fading upward, warm amber pools of light in cool teal shadows. The same glowing thread enters from below and points toward several floating open books and paper fragments, no readable text. Symmetrical aisle composition, cinematic realism, crisp details, serene organized mood, consistent teal-amber palette.",
+        "provider_job_id": "cmonvxohn017q600zglms2w7x",
+        "provider_url": "https://videos.magichour.ai/cmonvxohn017q600zglms2w7x/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051316Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=106ce5c0b3dc115e0bbe4ba8516a8ba6f3cfbcd245362060fea421dcb4579d991796e7e0c1a73883af684202e0cd44bebe187e7555cef4d34aff57e3cd461079a59ccd98c92f667c652e3b371d9448e4d438706016eb395a32d8914b6317dca50f46c170132f0e26149b56c6f81825b9cae23059cc14587fcb4026b0ed75ce83ea5587a539127e0995cdebedcaf464d4e8a6f8e148b921f32b9865fc1848133b9cfb262b35f22515f80775f9311a17f89e58638ae54b51fa9075df5b826b63084349606e3153dfd3506d35a6cd1833ed92abb46c84d549901cda5987b93168e93b5f9869daa0fbaf5c56102565acc7163447090f491180e049e172160fb84f83",
+        "resolution": "2k",
+        "scene_id": "scene_2",
+        "style_tool": "general",
+        "url": "/media/f4893f5377974ab0b5719af1048f21ca/images/scene_2/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/images/scene_3/output-1.jpg",
+        "prompt": "Vertical frame of an abstract glass-like thinking chamber suspended in darkness, with the amber thread feeding several retrieved paper fragments into a luminous core. The fragments orbit close together, no text visible, no extra objects. Medium close composition, dramatic rim light, cinematic realistic sci-fi style, precise focused mood, same teal and amber color language.",
+        "provider_job_id": "cmonvxnsb019d3z0zm1duqow8",
+        "provider_url": "https://videos.magichour.ai/cmonvxnsb019d3z0zm1duqow8/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051250Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8c5220156a27c84803f27d520e3c845bbee82c7dc70f68a8d9532f7763d4842ed4aca81ac11d4653ac2e6464f6d348a174a9d991ac34e0cb4469da75031bbb65060cbaaeaacdbc2f3edc369483832b5cb6a0ea1fe6233b899977c9b17231117c44de920e64baca7d5ef00a7897d3afa0c300f59c1a30ee1e4939825d5fe8903bdcb5ea4920978315d3b6f5682770356d1e29e86ccdbea9c520ddf54a566fe9e1cf3dddc54c4e320c0225e5c2e5a19e68ad8c26131800cf6caa8b2b18ff061338b775f2740c3aaa77f7ffbc8704d1982b987d21e076aab3731afde1db015dd914a86d14fcbf349f2dec6a5c21b24531f5426d18554f92fb6f1854dcd09459c2bd",
+        "resolution": "2k",
+        "scene_id": "scene_3",
+        "style_tool": "general",
+        "url": "/media/f4893f5377974ab0b5719af1048f21ca/images/scene_3/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/images/scene_4/output-1.jpg",
+        "prompt": "Vertical frame of the final answer visualized as a warm amber speech glow hovering above the user\u2019s phone, connected downward by clear root-like lines into an open trusted book at the bottom of frame. No readable text. Low-angle centered composition, soft golden highlights against teal shadows, realistic cinematic finish, confident grounded mood, continuity with earlier scenes.",
+        "provider_job_id": "cmonvxnrv00wb2e0yt7j359gt",
+        "provider_url": "https://videos.magichour.ai/cmonvxnrv00wb2e0yt7j359gt/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051238Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=9a9683adc0b2053fceb6382ec9d579b291627c2fd7f08e3cbc71ec1abdafe756f47dc8948a85ce135991107b4cdc91fb8dce82e022342330279841dba3b591ba9b5ff1d58f10166bc85692736d68d61335d8f47adae5e393b7262264b007045e4c70c24778ec74e89988afaa7b2ea1e814d1c271179e61d036a7a90b80626a3113e66d5de92b8a03c21168064eb965a21bd5631163679ead96bb2c074d2b4436760d59853ad8c1201a8e37d5c650ffc6a37757efb94744ac1858bfb6d6b87102c9e6c279e7878f914c61663ec66bdff59e7517045e579f5c608ef6da7516a590634a1368f9a3324af20226e712dcf6083420130cbc7e3a8a8eca6f9cc20ae04c",
+        "resolution": "2k",
+        "scene_id": "scene_4",
+        "style_tool": "general",
+        "url": "/media/f4893f5377974ab0b5719af1048f21ca/images/scene_4/output-1.jpg"
+      }
+    ],
+    "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/manifest.json",
+    "narration_stats": {
+      "expression_cue_count": 4,
+      "expression_cues": [
+        "curious",
+        "speaks calmly",
+        "emphasis",
+        "reassuring"
+      ],
+      "voiceover_duration_seconds": 17.241,
+      "word_count": 42,
+      "words_per_second": 2.436
+    },
+    "plan": {
+      "aspect_ratio": "9:16",
+      "narration": "[curious] User asks once, and the question becomes a glowing thread. [speaks calmly] Trusted pages rise like books from a quiet archive. [emphasis] The model weaves only those found fragments into its reasoning. [reassuring] The reply returns anchored by visible roots, so support stays accurate, not improvised.",
+      "resolution": "720p",
+      "scenes": [
+        {
+          "duration_seconds": 4,
+          "id": "scene_1",
+          "image_prompt": "Vertical frame, a single person in half silhouette holds a phone at chest height in a dim teal room, no readable screen text. From the phone, one amber glowing thread lifts into the air. Clean cinematic 35mm composition, centered subject, soft practical light, shallow depth of field, polished realistic style, calm inquisitive mood, teal and amber palette.",
+          "narration": "[curious] User asks once, and the question becomes a glowing thread.",
+          "video_prompt": "Slow push in as the amber thread gently rises and curls upward from the phone; the person remains nearly still."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_2",
+          "image_prompt": "Vertical frame inside a vast trusted knowledge library, tall shelves fading upward, warm amber pools of light in cool teal shadows. The same glowing thread enters from below and points toward several floating open books and paper fragments, no readable text. Symmetrical aisle composition, cinematic realism, crisp details, serene organized mood, consistent teal-amber palette.",
+          "narration": "[speaks calmly] Trusted pages rise like books from a quiet archive.",
+          "video_prompt": "Slow dolly forward down the aisle as a few selected books and paper fragments lift slightly toward the glowing thread."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_3",
+          "image_prompt": "Vertical frame of an abstract glass-like thinking chamber suspended in darkness, with the amber thread feeding several retrieved paper fragments into a luminous core. The fragments orbit close together, no text visible, no extra objects. Medium close composition, dramatic rim light, cinematic realistic sci-fi style, precise focused mood, same teal and amber color language.",
+          "narration": "[emphasis] The model weaves only those found fragments into its reasoning.",
+          "video_prompt": "Gentle orbital camera move as the paper fragments rotate once around the luminous core and the thread pulses softly."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_4",
+          "image_prompt": "Vertical frame of the final answer visualized as a warm amber speech glow hovering above the user\u2019s phone, connected downward by clear root-like lines into an open trusted book at the bottom of frame. No readable text. Low-angle centered composition, soft golden highlights against teal shadows, realistic cinematic finish, confident grounded mood, continuity with earlier scenes.",
+          "narration": "[reassuring] The reply returns anchored by visible roots, so support stays accurate, not improvised.",
+          "video_prompt": "Subtle tilt up from the open book to the glowing reply while the root-like lines hold steady and the speech glow shimmers lightly."
+        }
+      ],
+      "title": "How RAG Grounds a Support Chatbot",
+      "visual_bible": "9:16 vertical cinematic explainer using visual metaphors instead of readable UI text. Consistent teal-and-amber palette, realistic polished style, 35mm lens language, soft volumetric light, calm intelligent mood. The amber glowing thread represents the user question and retrieval path; floating books and paper fragments represent trusted knowledge; root-like lines represent grounded answers. Keep subject identity and visual language consistent across all."
+    },
+    "project_id": "f4893f5377974ab0b5719af1048f21ca",
+    "render_status": "complete",
+    "resolution": "720p",
+    "title": "How RAG Grounds a Support Chatbot",
+    "token_output": {
+      "cost": {
+        "cached_input_usd": 0.011104,
+        "input_usd": 0.04672,
+        "output_usd": 0.027975,
+        "total_usd": 0.085799
+      },
+      "created_at": "2026-05-02T05:16:07.813678+00:00",
+      "model": "gpt-5.4",
+      "pricing": {
+        "cached_input": 0.25,
+        "currency": "USD",
+        "input": 2.5,
+        "input_multiplier": 1.0,
+        "long_context_applies": false,
+        "long_context_threshold_input_tokens": 272000,
+        "output": 15.0,
+        "output_multiplier": 1.0,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5.4/",
+        "unit": "per_1m_tokens"
+      },
+      "project_id": "f4893f5377974ab0b5719af1048f21ca",
+      "provider": "openai",
+      "scope": "OpenAI GPT/agent planning run only. Magic Hour, Fish Audio, and ffmpeg costs are not included.",
+      "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/token_output.json",
+      "usage": {
+        "cached_input_tokens": 44416,
+        "input_tokens": 63104,
+        "input_tokens_details": [
+          {
+            "cached_tokens": 44416
+          }
+        ],
+        "output_tokens": 1865,
+        "output_tokens_details": [
+          {
+            "reasoning_tokens": 771
+          }
+        ],
+        "reasoning_tokens": 771,
+        "request_usage_entries": [
+          {
+            "input_tokens": 5532,
+            "input_tokens_details": {
+              "cached_tokens": 0
+            },
+            "output_tokens": 571,
+            "output_tokens_details": {
+              "reasoning_tokens": 446
+            },
+            "total_tokens": 6103
+          },
+          {
+            "input_tokens": 6123,
+            "input_tokens_details": {
+              "cached_tokens": 5760
+            },
+            "output_tokens": 991,
+            "output_tokens_details": {
+              "reasoning_tokens": 276
+            },
+            "total_tokens": 7114
+          },
+          {
+            "input_tokens": 7912,
+            "input_tokens_details": {
+              "cached_tokens": 7040
+            },
+            "output_tokens": 91,
+            "output_tokens_details": {
+              "reasoning_tokens": 18
+            },
+            "total_tokens": 8003
+          },
+          {
+            "input_tokens": 10734,
+            "input_tokens_details": {
+              "cached_tokens": 7936
+            },
+            "output_tokens": 48,
+            "output_tokens_details": {
+              "reasoning_tokens": 7
+            },
+            "total_tokens": 10782
+          },
+          {
+            "input_tokens": 13196,
+            "input_tokens_details": {
+              "cached_tokens": 10624
+            },
+            "output_tokens": 44,
+            "output_tokens_details": {
+              "reasoning_tokens": 24
+            },
+            "total_tokens": 13240
+          },
+          {
+            "input_tokens": 19607,
+            "input_tokens_details": {
+              "cached_tokens": 13056
+            },
+            "output_tokens": 120,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 19727
+          }
+        ],
+        "requests": 6,
+        "tool_search_tokens": 0,
+        "total_tokens": 64969,
+        "uncached_input_tokens": 18688
+      }
+    },
+    "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/token_output.json",
+    "video_audio": false,
+    "video_model": "ltx-2",
+    "video_resolution": "720p",
+    "videos": [
+      {
+        "audio": false,
+        "duration_seconds": 4,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/videos/scene_1/output.mp4",
+        "prompt": "Slow push in as the amber thread gently rises and curls upward from the phone; the person remains nearly still.",
+        "provider_job_id": "cmonvz6si01b1580zy2iy7etr",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvz6si01b1580zy2iy7etr/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051455Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8dcc5f05863cf526fa2e351455300639294fee3f2ae2e6dcf526e9ab0e98fdc4d91e4498e4fa34018a9965e2dde1e25bac48d1e0c34ec60a64500e47b6c9c2dfa55654acdc0278d07056bf3e6c77baabf0b194ef29471d8a194d32a81786da13e18c1e2d7188637dcc76a4cef22c552959b54a1f3ec0c2f9ae5ff51a35ac4adbdc278f2eb453588c1ca750925f0b5a535082801aa8d20dd193ffacd7d18e14558b8ba228d19246f953eb582cf6ef04fad826f86979a727b07ee87c6939115bf2726ce2a067d712e602ab0a7b0e14ad130d3875fdb90f5777ef587e977a907281bacf7beec409dcaac070adafd5fba7896ca54988f8d6c13dca098ab2dfc5b12c",
+        "resolution": "720p",
+        "scene_id": "scene_1",
+        "url": "/media/f4893f5377974ab0b5719af1048f21ca/videos/scene_1/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 5,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/videos/scene_2/output.mp4",
+        "prompt": "Slow dolly forward down the aisle as a few selected books and paper fragments lift slightly toward the glowing thread.",
+        "provider_job_id": "cmonvz7o800ww2e0y8bn32w83",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvz7o800ww2e0y8bn32w83/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051555Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=a1fe0125889b6b4b8fe11d8399d64b8115452bbb0f1503558f75b6506903e9cedd75771b328833c95c03d364a38435bd9190061021e222b1f17d0e9dbc2384d37a688d490492d0f3b9102f40ab5c313e1c3e1aae91a0140377dbe9ca381c667239f56cfdbb3d36257a6c4368286019651de5f0d1ab9ff47234a000c9f287d43b7c226eecd7bbbab7bbdb0b5c57ce5b55a985eb611c0ef950004ec08daa2813baac4ce811b68a6adef1956767e27bb4e6ae856ce6c0d928c86f358d3563baa338c52cc3d8700fd4246165b9bad683444ea864f5452d58a260bc17d79067e405a6dee113efaaf9a4a29086c7013f667d61fd106d12d84dd4c8f71a79b4f1a1d6c7",
+        "resolution": "720p",
+        "scene_id": "scene_2",
+        "url": "/media/f4893f5377974ab0b5719af1048f21ca/videos/scene_2/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 4,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/videos/scene_3/output.mp4",
+        "prompt": "Gentle orbital camera move as the paper fragments rotate once around the luminous core and the thread pulses softly.",
+        "provider_job_id": "cmonvz62j0184600zjy72c1zc",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvz62j0184600zjy72c1zc/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051451Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7d11f97f353007cec6af232eae6cd11499001e46a7e440d8fcbf4740e35324ea9ddb68293af49f0edd03b7684b5d056e5cb0344427152b970896bc86a14589f93ed83e917a0bf2f98d1e01c146f7d4f007af561052b765746f42df5d93ceda9420060f1a106b6eb3f1aae20951021ea15b080cb48cfb35b1209b49384f2b470541755fc8c26108847f94f1648b4da846df23ad9c328affc9c7cbe06980e5abf91d76d45c206aacf788d01db8126d585f8cf7bb2c823fa82fa737ba37f669f90f5b4e52c5de692c3d7fb68cd0e4317050cd6125678bcc86b420c4c7c25b021d93f950e6fd4bb776ae5e436ea4100e29a3a53020b34ea1a6cf23f5bb9447c02892",
+        "resolution": "720p",
+        "scene_id": "scene_3",
+        "url": "/media/f4893f5377974ab0b5719af1048f21ca/videos/scene_3/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 5,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/videos/scene_4/output.mp4",
+        "prompt": "Subtle tilt up from the open book to the glowing reply while the root-like lines hold steady and the speech glow shimmers lightly.",
+        "provider_job_id": "cmonvz60y01ht420ztxo0t1cf",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvz60y01ht420ztxo0t1cf/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051507Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7111fce177dbf223868f156435adea73d268d514801f0f43807684d1e5e208d9b2e327bd4e14237b2785e31e666dd881d9e63877ba86aedfb567aa818ae3eaa6211ed9655c316779409611f45fbd7f34d3a91809b748b402e1dfcc0efa4853dbcd0de66b605d8fd416859c80622083d7ac9fc8d8349b61a24c7c2ac770ae339f0ec755a9e474af80f5399864c16cb23beca5a248bfb565730e68163b9050fd3748ddfed87d6b8403fd8ee851dccadb189ec47c735a048ba339745736980e9060c9f509f32b4228ba2a7fd6123138e8879762ce973c1b904a9f40d36eb61bbb90bca1098c211248d55393deff9d22fa7bef5fef69f0d6334aa14f896abe4aff68",
+        "resolution": "720p",
+        "scene_id": "scene_4",
+        "url": "/media/f4893f5377974ab0b5719af1048f21ca/videos/scene_4/output.mp4"
+      }
+    ],
+    "voiceover": {
+      "duration_seconds": 17.241,
+      "model": "s2-pro",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/voiceover/voiceover.mp3",
+      "target_duration_seconds": 18,
+      "url": "/media/f4893f5377974ab0b5719af1048f21ca/voiceover/voiceover.mp3"
+    }
+  },
+  "message": "Video is ready.",
+  "progress": 100,
+  "project_id": "f4893f5377974ab0b5719af1048f21ca",
+  "project_state": {
+    "created_at": "2026-05-02T05:11:47.654548+00:00",
+    "current_plan": {
+      "narration": "[curious] User asks once, and the question becomes a glowing thread. [speaks calmly] Trusted pages rise like books from a quiet archive. [emphasis] The model weaves only those found fragments into its reasoning. [reassuring] The reply returns anchored by visible roots, so support stays accurate, not improvised.",
+      "scenes": [
+        {
+          "duration_seconds": 4,
+          "id": "scene_1",
+          "image_prompt": "Vertical frame, a single person in half silhouette holds a phone at chest height in a dim teal room, no readable screen text. From the phone, one amber glowing thread lifts into the air. Clean cinematic 35mm composition, centered subject, soft practical light, shallow depth of field, polished realistic style, calm inquisitive mood, teal and amber palette.",
+          "narration": "[curious] User asks once, and the question becomes a glowing thread.",
+          "video_prompt": "Slow push in as the amber thread gently rises and curls upward from the phone; the person remains nearly still."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_2",
+          "image_prompt": "Vertical frame inside a vast trusted knowledge library, tall shelves fading upward, warm amber pools of light in cool teal shadows. The same glowing thread enters from below and points toward several floating open books and paper fragments, no readable text. Symmetrical aisle composition, cinematic realism, crisp details, serene organized mood, consistent teal-amber palette.",
+          "narration": "[speaks calmly] Trusted pages rise like books from a quiet archive.",
+          "video_prompt": "Slow dolly forward down the aisle as a few selected books and paper fragments lift slightly toward the glowing thread."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_3",
+          "image_prompt": "Vertical frame of an abstract glass-like thinking chamber suspended in darkness, with the amber thread feeding several retrieved paper fragments into a luminous core. The fragments orbit close together, no text visible, no extra objects. Medium close composition, dramatic rim light, cinematic realistic sci-fi style, precise focused mood, same teal and amber color language.",
+          "narration": "[emphasis] The model weaves only those found fragments into its reasoning.",
+          "video_prompt": "Gentle orbital camera move as the paper fragments rotate once around the luminous core and the thread pulses softly."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_4",
+          "image_prompt": "Vertical frame of the final answer visualized as a warm amber speech glow hovering above the user\u2019s phone, connected downward by clear root-like lines into an open trusted book at the bottom of frame. No readable text. Low-angle centered composition, soft golden highlights against teal shadows, realistic cinematic finish, confident grounded mood, continuity with earlier scenes.",
+          "narration": "[reassuring] The reply returns anchored by visible roots, so support stays accurate, not improvised.",
+          "video_prompt": "Subtle tilt up from the open book to the glowing reply while the root-like lines hold steady and the speech glow shimmers lightly."
+        }
+      ],
+      "title": "How RAG Grounds a Support Chatbot",
+      "visual_bible": "9:16 vertical cinematic explainer using visual metaphors instead of readable UI text. Consistent teal-and-amber palette, realistic polished style, 35mm lens language, soft volumetric light, calm intelligent mood. The amber glowing thread represents the user question and retrieval path; floating books and paper fragments represent trusted knowledge; root-like lines represent grounded answers. Keep subject identity and visual language consistent across all."
+    },
+    "decisions": [
+      {
+        "created_at": "2026-05-02T05:12:02.700755+00:00",
+        "decision": "Use four metaphor-driven vertical scenes with 4/5/4/5 second durations, totaling 18 seconds before three 0.5-second crossfades for an approximately 16.5-second final edit.",
+        "rationale": "The prompt requires exactly four scenes and integer scene durations as close as possible to the 17.5-second pre-crossfade target. Choosing 18 seconds keeps pacing comfortable for a 39-45 word voiceover and fits ltx-2 duration support.",
+        "tool": "record_project_decision"
+      },
+      {
+        "created_at": "2026-05-02T05:12:20.472123+00:00",
+        "decision": "Drafted plan 'How RAG Grounds a Support Chatbot' with 4 scene(s).",
+        "metadata": {
+          "scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4"
+          ]
+        },
+        "tool": "draft_video_plan"
+      },
+      {
+        "created_at": "2026-05-02T05:12:27.826788+00:00",
+        "decision": "Generated voiceover for the saved narration.",
+        "metadata": {
+          "target_duration_seconds": 18
+        },
+        "tool": "generate_voiceover"
+      },
+      {
+        "created_at": "2026-05-02T05:13:21.877833+00:00",
+        "decision": "Generated 4 scene image(s).",
+        "metadata": {
+          "failed_scene_ids": [],
+          "requested_scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4"
+          ]
+        },
+        "tool": "generate_scene_images"
+      },
+      {
+        "created_at": "2026-05-02T05:15:52.679779+00:00",
+        "decision": "Animated 4 scene video(s).",
+        "metadata": {
+          "failed_scene_ids": [],
+          "requested_scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4"
+          ]
+        },
+        "tool": "animate_scene_videos"
+      }
+    ],
+    "failures": [],
+    "messages": [],
+    "project_id": "f4893f5377974ab0b5719af1048f21ca",
+    "provider_settings": {
+      "aspect_ratio": "9:16",
+      "audio_format": "mp3",
+      "audio_model": "s2-pro",
+      "image_model": "seedream-v4",
+      "image_resolution": "2k",
+      "image_style_tool": "general",
+      "resolution": "720p",
+      "video_audio": false,
+      "video_model": "ltx-2",
+      "video_resolution": "720p"
+    },
+    "scene_assets": {
+      "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/final.mp4",
+      "images": [
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/images/scene_1/output-1.jpg",
+          "prompt": "Vertical frame, a single person in half silhouette holds a phone at chest height in a dim teal room, no readable screen text. From the phone, one amber glowing thread lifts into the air. Clean cinematic 35mm composition, centered subject, soft practical light, shallow depth of field, polished realistic style, calm inquisitive mood, teal and amber palette.",
+          "provider_job_id": "cmonvxohp017r600zuhljxljw",
+          "provider_url": "https://videos.magichour.ai/cmonvxohp017r600zuhljxljw/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051302Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=683a9a7bd1e884715fa6593183e2f086575d017d7deb25710fb2e1da8e26de7ff4a663f56d21fc5a47de116a72f719c460b6763700f7ee1d2539c38aba81341d2bad34003856e5ba2c7a5aa3ed81dd1d7041540d3372fad3e26c1ba37fff662e50895c3ce6e4b13b2a28d6096a9afe49fddf271a3600a4f450bc6d7e0ce853a271f77a25fd43c04a860b1be43823ddf828e1223fc2615c1231dbfc5e1e0e9e6d49d36ddf9b8fd00e6646c6e71cc63c021c66061ef635703ace552f04c0e3eb213879187eeb2b8b204507c6ce3dcb778dd312079f337e4ac95bf674f0ff804ea43ab02e9c4b63573fd1a50bd384dae03c0d5219387e70137e82a11cde3860ee69",
+          "resolution": "2k",
+          "scene_id": "scene_1",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/images/scene_2/output-1.jpg",
+          "prompt": "Vertical frame inside a vast trusted knowledge library, tall shelves fading upward, warm amber pools of light in cool teal shadows. The same glowing thread enters from below and points toward several floating open books and paper fragments, no readable text. Symmetrical aisle composition, cinematic realism, crisp details, serene organized mood, consistent teal-amber palette.",
+          "provider_job_id": "cmonvxohn017q600zglms2w7x",
+          "provider_url": "https://videos.magichour.ai/cmonvxohn017q600zglms2w7x/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051316Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=106ce5c0b3dc115e0bbe4ba8516a8ba6f3cfbcd245362060fea421dcb4579d991796e7e0c1a73883af684202e0cd44bebe187e7555cef4d34aff57e3cd461079a59ccd98c92f667c652e3b371d9448e4d438706016eb395a32d8914b6317dca50f46c170132f0e26149b56c6f81825b9cae23059cc14587fcb4026b0ed75ce83ea5587a539127e0995cdebedcaf464d4e8a6f8e148b921f32b9865fc1848133b9cfb262b35f22515f80775f9311a17f89e58638ae54b51fa9075df5b826b63084349606e3153dfd3506d35a6cd1833ed92abb46c84d549901cda5987b93168e93b5f9869daa0fbaf5c56102565acc7163447090f491180e049e172160fb84f83",
+          "resolution": "2k",
+          "scene_id": "scene_2",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/images/scene_3/output-1.jpg",
+          "prompt": "Vertical frame of an abstract glass-like thinking chamber suspended in darkness, with the amber thread feeding several retrieved paper fragments into a luminous core. The fragments orbit close together, no text visible, no extra objects. Medium close composition, dramatic rim light, cinematic realistic sci-fi style, precise focused mood, same teal and amber color language.",
+          "provider_job_id": "cmonvxnsb019d3z0zm1duqow8",
+          "provider_url": "https://videos.magichour.ai/cmonvxnsb019d3z0zm1duqow8/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051250Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8c5220156a27c84803f27d520e3c845bbee82c7dc70f68a8d9532f7763d4842ed4aca81ac11d4653ac2e6464f6d348a174a9d991ac34e0cb4469da75031bbb65060cbaaeaacdbc2f3edc369483832b5cb6a0ea1fe6233b899977c9b17231117c44de920e64baca7d5ef00a7897d3afa0c300f59c1a30ee1e4939825d5fe8903bdcb5ea4920978315d3b6f5682770356d1e29e86ccdbea9c520ddf54a566fe9e1cf3dddc54c4e320c0225e5c2e5a19e68ad8c26131800cf6caa8b2b18ff061338b775f2740c3aaa77f7ffbc8704d1982b987d21e076aab3731afde1db015dd914a86d14fcbf349f2dec6a5c21b24531f5426d18554f92fb6f1854dcd09459c2bd",
+          "resolution": "2k",
+          "scene_id": "scene_3",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/images/scene_4/output-1.jpg",
+          "prompt": "Vertical frame of the final answer visualized as a warm amber speech glow hovering above the user\u2019s phone, connected downward by clear root-like lines into an open trusted book at the bottom of frame. No readable text. Low-angle centered composition, soft golden highlights against teal shadows, realistic cinematic finish, confident grounded mood, continuity with earlier scenes.",
+          "provider_job_id": "cmonvxnrv00wb2e0yt7j359gt",
+          "provider_url": "https://videos.magichour.ai/cmonvxnrv00wb2e0yt7j359gt/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051238Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=9a9683adc0b2053fceb6382ec9d579b291627c2fd7f08e3cbc71ec1abdafe756f47dc8948a85ce135991107b4cdc91fb8dce82e022342330279841dba3b591ba9b5ff1d58f10166bc85692736d68d61335d8f47adae5e393b7262264b007045e4c70c24778ec74e89988afaa7b2ea1e814d1c271179e61d036a7a90b80626a3113e66d5de92b8a03c21168064eb965a21bd5631163679ead96bb2c074d2b4436760d59853ad8c1201a8e37d5c650ffc6a37757efb94744ac1858bfb6d6b87102c9e6c279e7878f914c61663ec66bdff59e7517045e579f5c608ef6da7516a590634a1368f9a3324af20226e712dcf6083420130cbc7e3a8a8eca6f9cc20ae04c",
+          "resolution": "2k",
+          "scene_id": "scene_4",
+          "style_tool": "general"
+        }
+      ],
+      "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/manifest.json",
+      "videos": [
+        {
+          "audio": false,
+          "duration_seconds": 4,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/videos/scene_1/output.mp4",
+          "prompt": "Slow push in as the amber thread gently rises and curls upward from the phone; the person remains nearly still.",
+          "provider_job_id": "cmonvz6si01b1580zy2iy7etr",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvz6si01b1580zy2iy7etr/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051455Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8dcc5f05863cf526fa2e351455300639294fee3f2ae2e6dcf526e9ab0e98fdc4d91e4498e4fa34018a9965e2dde1e25bac48d1e0c34ec60a64500e47b6c9c2dfa55654acdc0278d07056bf3e6c77baabf0b194ef29471d8a194d32a81786da13e18c1e2d7188637dcc76a4cef22c552959b54a1f3ec0c2f9ae5ff51a35ac4adbdc278f2eb453588c1ca750925f0b5a535082801aa8d20dd193ffacd7d18e14558b8ba228d19246f953eb582cf6ef04fad826f86979a727b07ee87c6939115bf2726ce2a067d712e602ab0a7b0e14ad130d3875fdb90f5777ef587e977a907281bacf7beec409dcaac070adafd5fba7896ca54988f8d6c13dca098ab2dfc5b12c",
+          "resolution": "720p",
+          "scene_id": "scene_1"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 5,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/videos/scene_2/output.mp4",
+          "prompt": "Slow dolly forward down the aisle as a few selected books and paper fragments lift slightly toward the glowing thread.",
+          "provider_job_id": "cmonvz7o800ww2e0y8bn32w83",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvz7o800ww2e0y8bn32w83/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051555Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=a1fe0125889b6b4b8fe11d8399d64b8115452bbb0f1503558f75b6506903e9cedd75771b328833c95c03d364a38435bd9190061021e222b1f17d0e9dbc2384d37a688d490492d0f3b9102f40ab5c313e1c3e1aae91a0140377dbe9ca381c667239f56cfdbb3d36257a6c4368286019651de5f0d1ab9ff47234a000c9f287d43b7c226eecd7bbbab7bbdb0b5c57ce5b55a985eb611c0ef950004ec08daa2813baac4ce811b68a6adef1956767e27bb4e6ae856ce6c0d928c86f358d3563baa338c52cc3d8700fd4246165b9bad683444ea864f5452d58a260bc17d79067e405a6dee113efaaf9a4a29086c7013f667d61fd106d12d84dd4c8f71a79b4f1a1d6c7",
+          "resolution": "720p",
+          "scene_id": "scene_2"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 4,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/videos/scene_3/output.mp4",
+          "prompt": "Gentle orbital camera move as the paper fragments rotate once around the luminous core and the thread pulses softly.",
+          "provider_job_id": "cmonvz62j0184600zjy72c1zc",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvz62j0184600zjy72c1zc/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051451Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7d11f97f353007cec6af232eae6cd11499001e46a7e440d8fcbf4740e35324ea9ddb68293af49f0edd03b7684b5d056e5cb0344427152b970896bc86a14589f93ed83e917a0bf2f98d1e01c146f7d4f007af561052b765746f42df5d93ceda9420060f1a106b6eb3f1aae20951021ea15b080cb48cfb35b1209b49384f2b470541755fc8c26108847f94f1648b4da846df23ad9c328affc9c7cbe06980e5abf91d76d45c206aacf788d01db8126d585f8cf7bb2c823fa82fa737ba37f669f90f5b4e52c5de692c3d7fb68cd0e4317050cd6125678bcc86b420c4c7c25b021d93f950e6fd4bb776ae5e436ea4100e29a3a53020b34ea1a6cf23f5bb9447c02892",
+          "resolution": "720p",
+          "scene_id": "scene_3"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 5,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/videos/scene_4/output.mp4",
+          "prompt": "Subtle tilt up from the open book to the glowing reply while the root-like lines hold steady and the speech glow shimmers lightly.",
+          "provider_job_id": "cmonvz60y01ht420ztxo0t1cf",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvz60y01ht420ztxo0t1cf/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051507Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7111fce177dbf223868f156435adea73d268d514801f0f43807684d1e5e208d9b2e327bd4e14237b2785e31e666dd881d9e63877ba86aedfb567aa818ae3eaa6211ed9655c316779409611f45fbd7f34d3a91809b748b402e1dfcc0efa4853dbcd0de66b605d8fd416859c80622083d7ac9fc8d8349b61a24c7c2ac770ae339f0ec755a9e474af80f5399864c16cb23beca5a248bfb565730e68163b9050fd3748ddfed87d6b8403fd8ee851dccadb189ec47c735a048ba339745736980e9060c9f509f32b4228ba2a7fd6123138e8879762ce973c1b904a9f40d36eb61bbb90bca1098c211248d55393deff9d22fa7bef5fef69f0d6334aa14f896abe4aff68",
+          "resolution": "720p",
+          "scene_id": "scene_4"
+        }
+      ],
+      "voiceover": {
+        "duration_seconds": 17.241,
+        "model": "s2-pro",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/f4893f5377974ab0b5719af1048f21ca/voiceover/voiceover.mp3",
+        "target_duration_seconds": 18
+      }
+    },
+    "status": {
+      "message": "Video is ready.",
+      "progress": 100,
+      "stage": "complete",
+      "status": "succeeded"
+    },
+    "updated_at": "2026-05-02T05:16:07.815551+00:00",
+    "user_preferences": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 16,
+      "image_model": "seedream-v4",
+      "image_resolution": null,
+      "prompt": "Make a 16-second vertical visual explanation of how retrieval-augmented generation works for a support chatbot. Use 4 scenes. Show a user question, the system searching a trusted knowledge library, the model using retrieved snippets, and the final answer being grounded. Avoid readable UI text; use visual metaphors instead.",
+      "resolution": "720p",
+      "scene_count": 4,
+      "video_model": "ltx-2",
+      "video_resolution": null
+    },
+    "version": 1
+  },
+  "stage": "complete",
+  "status": "succeeded",
+  "status_url": "/api/projects/f4893f5377974ab0b5719af1048f21ca",
+  "updated_at": "2026-05-02T05:16:07.815107+00:00"
+}

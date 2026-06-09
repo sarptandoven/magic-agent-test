@@ -1,0 +1,9 @@
+{
+  "aspect_ratio": "9:16",
+  "duration_seconds": 20,
+  "image_model": "seedream-v4",
+  "prompt": "Make a 20-second vertical mini-documentary about a solo traveler arriving in Lisbon before sunrise and finding the city waking up. Use 5 scenes. Focus on quiet observational details: tram tracks, bakery lights, steep streets, first coffee, and sunlight reaching tiled buildings.",
+  "resolution": "720p",
+  "scene_count": 5,
+  "video_model": "ltx-2"
+}

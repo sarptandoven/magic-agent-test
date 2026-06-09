@@ -1,0 +1,10 @@
+metric,value
+Run ID,full_benchmark_20260502T043913Z
+Public demo URL,https://selections-float-matt-buffer.trycloudflare.com
+Local prompts completed,10/10
+Local success statuses,succeeded
+Local total GPT cost,$0.947483
+Local average latency,3.71 min
+External completed outputs,"Krea 1, LTX Studio 2, Focal project page 1"
+External blocked/skipped,VideoGen required Business plan; InVideo did not expose LTX-2; LTX Studio stopped at 4% credits; Krea automation unreliable after prompt 1
+Payment boundary,"No upgrade, top-up, plan purchase, or debit-card action taken."

@@ -1,0 +1,9 @@
+{
+  "aspect_ratio": "9:16",
+  "duration_seconds": 15,
+  "image_model": "seedream-v4",
+  "prompt": "Create a 15-second vertical reel for a small neighborhood dumpling shop preparing for dinner rush. Use 4 scenes. Make it warm, tactile, and human: steam, hands folding dumplings, the first pan sizzle, and customers picking up takeout. No visible brand names or fake text.",
+  "resolution": "720p",
+  "scene_count": 4,
+  "video_model": "ltx-2"
+}

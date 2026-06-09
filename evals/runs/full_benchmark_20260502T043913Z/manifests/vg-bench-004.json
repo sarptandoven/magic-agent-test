@@ -1,0 +1,282 @@
+{
+  "aspect_ratio": "9:16",
+  "audio_model": "s2-pro",
+  "completed_scene_count": 4,
+  "created_at": "2026-05-02T04:52:07.058767+00:00",
+  "failed_scene_count": 0,
+  "failed_scenes": [],
+  "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/final.mp4",
+  "final_video_url": "/media/fb426655872c4a1c99e5f883af718c67/final.mp4",
+  "gpt_cost_usd": 0.090844,
+  "image_model": "seedream-v4",
+  "image_resolution": "1k",
+  "image_style_tool": "ai-illustration-generator",
+  "images": [
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/images/scene_1/output-1.jpg",
+      "prompt": "Vertical 9:16 educational biomedical illustration, a soft translucent lipid particle approaching a human cell membrane, tiny mRNA strand visible inside, clean cellular environment, teal and soft coral palette, gentle glow, crisp modern science style, centered composition, shallow depth, calm reassuring mood, no text, no syringe, no threat imagery.",
+      "provider_job_id": "cmonv4p6a017i420zj0kidjdg",
+      "provider_url": "https://videos.magichour.ai/cmonv4p6a017i420zj0kidjdg/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045043Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1391177098f7644186cdfeb5e101bc8a156280905fa8befc74a0309f9ad34280560c63450832886fe5e19f9453622d63fcd69c7f77f4b2576b362f3b02147f3d090d3b43c68fdd27709c6d2f7358aec486b6409e77edb2e5d04e6ce57edf4c8c3edc070392f93d0fee39b608bc56b0a053144c2f09d18514241892bd3ab90ad56278960a3a0236cdfb8e13c96797d4b3d9e954d83890ec54a1e84eff20ad8a808530342297ca6b8f703cb9a5cc5c59305da7bfdd2dec20cb434c5895c3cf06c87bf15f943dfe98c00966070009cc837a149172dd12578d7e1f65a454c8b39355f55be4a04a2692cf916c3c764f2a9c49b3c7134ed12a59e1679146dedc7f3913",
+      "resolution": "1k",
+      "scene_id": "scene_1",
+      "style_tool": "ai-illustration-generator",
+      "url": "/media/fb426655872c4a1c99e5f883af718c67/images/scene_1/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/images/scene_2/output-1.jpg",
+      "prompt": "Vertical 9:16 inside a cell, ribosome reading an mRNA strand while a single harmless spike protein fragment appears nearby; in the foreground, a calm immune cell focuses on the fragment, bright clean cytoplasm, blue-teal with coral accents, clear layered composition, polished scientific illustration, hopeful mood, no text.",
+      "provider_job_id": "cmonv4p540100580z3pjzcd2y",
+      "provider_url": "https://videos.magichour.ai/cmonv4p540100580z3pjzcd2y/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045019Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=435d6ee3d1b4f8524e682140e1fd5b1f95422229d2dc27e13eaf4d73a9d64045bb495854f8320ae1ae195ee66871f21c12f54d34add1bbcc9d1bd98405bbca4e13d8244bff0854e8f25cc543ef29797bceb9e4f6667b68f8fbba3f4879ffa153dc6511f4f472159dd4d218d33c141593b3d15c66bfc15b9b86186193a26ca9e5821cfec1481db1ef0ada7588e79a25f5bf622401d8a56c1321914779b9b0da2e27e99783ed5c8f5c8f76ae0ca1ecd42f408ecd3993c24489c3cbd8a4f6e8dccb9b8c7d91755fe9f24c147b9dd00819f4dd1769190cb5cadc9890f08662f57df89e4ab115962819d6ba06d4c148568a5dd3e20a60d4934f0f33408d879bb71a44",
+      "resolution": "1k",
+      "scene_id": "scene_2",
+      "style_tool": "ai-illustration-generator",
+      "url": "/media/fb426655872c4a1c99e5f883af718c67/images/scene_2/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/images/scene_3/output-1.jpg",
+      "prompt": "Vertical 9:16 educational scene showing two distinct immune memory cells, one B cell and one T cell, illuminated around a glowing protein shape they have learned, simplified lymphatic-style background, cohesive teal, blue, and soft coral palette, cinematic rim light, balanced close-up composition, clear friendly scientific style, no text or fear imagery.",
+      "provider_job_id": "cmonv4p5t0101580zc9lz4mof",
+      "provider_url": "https://videos.magichour.ai/cmonv4p5t0101580zc9lz4mof/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045007Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=967baf606c57c10e4cdc4f1ce706017ec20b627996075172364e02f339404b098ab0f6e5fbfc7d6db198c17390a43737fca6db6aa15575ecffc5cd766066b17d700508d0b93c887338b0721e2c2a9e4397e9b551f22905d5dbe0291a0b572dd7b596af4758ad19a270aecbe09323af2cdfd315e8d55b55504b661fce9a7291e1ff50d569dca7dfeb074df46b6bc216606bb35227baf5774dea059a637b672a7fe7a7c48d1ef8765a69d5171cfa880c2ca667fb9abfde1a1dbb013af09c148630059724e10cfad5957f57829a556b531749abeb98ad0435a846d633bd439e129d9da8e72e2eac4d6f3647dbeb9abf678b70ea851dc8272c6245c9d500dc5b5088",
+      "resolution": "1k",
+      "scene_id": "scene_3",
+      "style_tool": "ai-illustration-generator",
+      "url": "/media/fb426655872c4a1c99e5f883af718c67/images/scene_3/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/images/scene_4/output-1.jpg",
+      "prompt": "Vertical 9:16 split-depth cellular scene without panels: faint mRNA fragments dissolving softly in the background while sharp immune memory cells remain alert in the foreground, clean luminous laboratory-inspired environment, sunrise-like highlights, teal and coral continuity, reassuring scientific illustration, centered vertical framing, no text, no dramatic danger.",
+      "provider_job_id": "cmonv4p5y01023z0zoiaxcepv",
+      "provider_url": "https://videos.magichour.ai/cmonv4p5y01023z0zoiaxcepv/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045030Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=91642c1a4697f8785c88e0adb69b5a457b655fa859b5d45ca6b9e3ec7f94ad1b41387f3213519f9482ce6fdf76db00fbc7466bedacfbc918ac618e060a5690b747fa184612710b3a2e46be041e7cf98099a0bee5120464daa9d2255c8de5ac40c45085df241bd58da52c8a0c8e4ec01788c1d4e718fdb330558ac5f1b4ac65957e9ed9cd6f134031765c013a3dc2f8c7511a91b07cd836323968092168969d89599c810dc3d5ff99079d98be3fc8b0556a32e5b31fbdd23e7f576368bc2c4032251c88129419ffdc9f1e55ae4e07a563ff29ca78adf68a1d918b7b9bfca6e32d9d1e8c8700ff8d9d834a9da1e26fcf6f5f42b827e9651e6d4ddba5b09a0dcfed",
+      "resolution": "1k",
+      "scene_id": "scene_4",
+      "style_tool": "ai-illustration-generator",
+      "url": "/media/fb426655872c4a1c99e5f883af718c67/images/scene_4/output-1.jpg"
+    }
+  ],
+  "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/manifest.json",
+  "narration_stats": {
+    "expression_cue_count": 4,
+    "expression_cues": [
+      "speaks calmly",
+      "curious",
+      "emphasis",
+      "speaks calmly"
+    ],
+    "voiceover_duration_seconds": 21.89,
+    "word_count": 56,
+    "words_per_second": 2.558
+  },
+  "plan": {
+    "aspect_ratio": "9:16",
+    "narration": "[speaks calmly] An mRNA vaccine gives cells temporary instructions to make one harmless viral piece, often a spike protein. [curious] Immune cells notice that piece and learn its shape, like studying a snapshot. [emphasis] They build memory B and T cells, so the real virus is recognized faster later. [speaks calmly] The mRNA breaks down quickly, but immune memory can remain ready.",
+    "resolution": "720p",
+    "scenes": [
+      {
+        "duration_seconds": 5,
+        "id": "scene_1",
+        "image_prompt": "Vertical 9:16 educational biomedical illustration, a soft translucent lipid particle approaching a human cell membrane, tiny mRNA strand visible inside, clean cellular environment, teal and soft coral palette, gentle glow, crisp modern science style, centered composition, shallow depth, calm reassuring mood, no text, no syringe, no threat imagery.",
+        "narration": "[speaks calmly] An mRNA vaccine gives cells temporary instructions to make one harmless viral piece, often a spike protein.",
+        "video_prompt": "Slow push-in toward the cell membrane as the particle drifts gently closer; the membrane ripples subtly."
+      },
+      {
+        "duration_seconds": 5,
+        "id": "scene_2",
+        "image_prompt": "Vertical 9:16 inside a cell, ribosome reading an mRNA strand while a single harmless spike protein fragment appears nearby; in the foreground, a calm immune cell focuses on the fragment, bright clean cytoplasm, blue-teal with coral accents, clear layered composition, polished scientific illustration, hopeful mood, no text.",
+        "narration": "[curious] Immune cells notice that piece and learn its shape, like studying a snapshot.",
+        "video_prompt": "Gentle lateral camera move as the immune cell leans slightly toward the protein fragment; everything else stays stable."
+      },
+      {
+        "duration_seconds": 5,
+        "id": "scene_3",
+        "image_prompt": "Vertical 9:16 educational scene showing two distinct immune memory cells, one B cell and one T cell, illuminated around a glowing protein shape they have learned, simplified lymphatic-style background, cohesive teal, blue, and soft coral palette, cinematic rim light, balanced close-up composition, clear friendly scientific style, no text or fear imagery.",
+        "narration": "[emphasis] They build memory B and T cells, so the real virus is recognized faster later.",
+        "video_prompt": "Slow orbiting camera move around the memory cells while the learned protein shape glows softly."
+      },
+      {
+        "duration_seconds": 6,
+        "id": "scene_4",
+        "image_prompt": "Vertical 9:16 split-depth cellular scene without panels: faint mRNA fragments dissolving softly in the background while sharp immune memory cells remain alert in the foreground, clean luminous laboratory-inspired environment, sunrise-like highlights, teal and coral continuity, reassuring scientific illustration, centered vertical framing, no text, no dramatic danger.",
+        "narration": "[speaks calmly] The mRNA breaks down quickly, but immune memory can remain ready.",
+        "video_prompt": "Subtle rack focus from fading mRNA fragments in back to steady memory cells in front with a gentle upward camera drift."
+      }
+    ],
+    "title": "How mRNA Vaccines Teach Recognition",
+    "visual_bible": "Vertical 9:16 educational short. Clean cinematic biomedical illustration, high-school friendly, accurate and simple. Palette: teal, blue, white, soft coral. Lighting gentle and reassuring, no fear-based imagery, no needles, no text. Consistent polished scientific style, shallow depth, centered compositions, smooth calm camera energy, friendly immune-cell character shapes."
+  },
+  "project_id": "fb426655872c4a1c99e5f883af718c67",
+  "render_status": "complete",
+  "resolution": "720p",
+  "title": "How mRNA Vaccines Teach Recognition",
+  "token_output": {
+    "cost": {
+      "cached_input_usd": 0.009664,
+      "input_usd": 0.046035,
+      "output_usd": 0.035145,
+      "total_usd": 0.090844
+    },
+    "created_at": "2026-05-02T04:52:09.881305+00:00",
+    "model": "gpt-5.4",
+    "pricing": {
+      "cached_input": 0.25,
+      "currency": "USD",
+      "input": 2.5,
+      "input_multiplier": 1.0,
+      "long_context_applies": false,
+      "long_context_threshold_input_tokens": 272000,
+      "output": 15.0,
+      "output_multiplier": 1.0,
+      "source": "https://developers.openai.com/api/docs/models/gpt-5.4/",
+      "unit": "per_1m_tokens"
+    },
+    "project_id": "fb426655872c4a1c99e5f883af718c67",
+    "provider": "openai",
+    "scope": "OpenAI GPT/agent planning run only. Magic Hour, Fish Audio, and ffmpeg costs are not included.",
+    "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/token_output.json",
+    "usage": {
+      "cached_input_tokens": 38656,
+      "input_tokens": 57070,
+      "input_tokens_details": [
+        {
+          "cached_tokens": 38656
+        }
+      ],
+      "output_tokens": 2343,
+      "output_tokens_details": [
+        {
+          "reasoning_tokens": 1186
+        }
+      ],
+      "reasoning_tokens": 1186,
+      "request_usage_entries": [
+        {
+          "input_tokens": 5012,
+          "input_tokens_details": {
+            "cached_tokens": 0
+          },
+          "output_tokens": 1901,
+          "output_tokens_details": {
+            "reasoning_tokens": 1186
+          },
+          "total_tokens": 6913
+        },
+        {
+          "input_tokens": 7560,
+          "input_tokens_details": {
+            "cached_tokens": 6656
+          },
+          "output_tokens": 273,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 7833
+        },
+        {
+          "input_tokens": 11029,
+          "input_tokens_details": {
+            "cached_tokens": 7680
+          },
+          "output_tokens": 39,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 11068
+        },
+        {
+          "input_tokens": 13504,
+          "input_tokens_details": {
+            "cached_tokens": 10880
+          },
+          "output_tokens": 18,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 13522
+        },
+        {
+          "input_tokens": 19965,
+          "input_tokens_details": {
+            "cached_tokens": 13440
+          },
+          "output_tokens": 112,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 20077
+        }
+      ],
+      "requests": 5,
+      "tool_search_tokens": 0,
+      "total_tokens": 59413,
+      "uncached_input_tokens": 18414
+    }
+  },
+  "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/token_output.json",
+  "video_audio": false,
+  "video_model": "ltx-2",
+  "video_resolution": "720p",
+  "videos": [
+    {
+      "audio": false,
+      "duration_seconds": 5,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/videos/scene_1/output.mp4",
+      "prompt": "Slow push-in toward the cell membrane as the particle drifts gently closer; the membrane ripples subtly.",
+      "provider_job_id": "cmonv5sg7010f580zgewoo0bn",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonv5sg7010f580zgewoo0bn/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045151Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=a086fdd2591634da3998ac55f7209d9fc7408dde399d3af929e6baf102247d088f590b38c36aab50b4c84df7523c77a36a5488e19355345bf4a941e3e2e2c5b77166856feeb4e2247a19937154a1e3ddb296e6e40f27205af2d00d16ce4bef51fe27f0248fee3807875ef2023276f66328fe3f55757dda1d3e26fd8cd55d7703402703b8a7bd6bef72413b243cffb834a0bf620b68a79af56c5cf24e7b44d8e6bd8ca874c9604634f314ddb48d72b537d86d75a3a8567f60f32b223ab3dc70a88499fa11a6a7595ebf8b4221fe285df5d0d740a57412a140e7e1500e6471574c3a7e90b3e1699b6178a2a9c40aecaa1bb74c942892bcb2869aa56cc1fe29da32",
+      "resolution": "720p",
+      "scene_id": "scene_1",
+      "url": "/media/fb426655872c4a1c99e5f883af718c67/videos/scene_1/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 5,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/videos/scene_2/output.mp4",
+      "prompt": "Gentle lateral camera move as the immune cell leans slightly toward the protein fragment; everything else stays stable.",
+      "provider_job_id": "cmonv5si200yn600zjmy1zoga",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonv5si200yn600zjmy1zoga/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045159Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1f30d971447a916ce5ab9cd9343d4e5db55794a41cf3330776da998e8fb9b9cad104c394f26c9224d371adf69618508976287907c52143224f0f8f6c06861e906180370fce7e146dcbd1ddce1e94e3e561a22b8ba6cf267dda9fd9394d457d6ff11ea51019444236b201c161398567d550bc24d749168f326b53d59291ded2e9bc8c1ba4986268434e421c177b3758519960401c18197c4a4c7e35e5e532e38682df34232ee8bda4df415005c81c6895f719175e3f094ed87f0285e75c090b5c4d51a0f0d6236256e2a8e77eb2371bf3c68fe3f31fb473705efe385ba3d015cc89ddba618a6a73641086cca1fdf0afa6976f95fb0c61c89700dd3fb479edd36a",
+      "resolution": "720p",
+      "scene_id": "scene_2",
+      "url": "/media/fb426655872c4a1c99e5f883af718c67/videos/scene_2/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 5,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/videos/scene_3/output.mp4",
+      "prompt": "Slow orbiting camera move around the memory cells while the learned protein shape glows softly.",
+      "provider_job_id": "cmonv5shc010g580z5xn5v0k0",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonv5shc010g580z5xn5v0k0/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045154Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3d4ca78aa0d702433739f9d46a5e640e0e399a7aab5575ce5c39fad0abdcc54ad7c2ac7ab4f0d059f4201a7245c6ff140c0e04acc33f77318e1e3e7fe52b3542f33a2452368dc2d8f629eee0838e28c1aa680fa012d85cf482a29e729829b41148ccf72999ce6ffb91ea0f39a8125d50a5da6b5cd84cf1c90578020f288572311681d06e1cd2b41553fbe1c3f953b3c540217bb763bfb760aebb643fe90a2c6eebc079f93ab2ce8fcdeb263b052a048488197027dab0fac9fac3798615f78d05736c1d6ef71303dfc20c0ebca5c0d5acd3a083337ae2974ba1c23579458be5869da4be8f18fda65a677f4b750ab404710ae42e57e7c252eaeef9883b9a9b94b1",
+      "resolution": "720p",
+      "scene_id": "scene_3",
+      "url": "/media/fb426655872c4a1c99e5f883af718c67/videos/scene_3/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 6,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/videos/scene_4/output.mp4",
+      "prompt": "Subtle rack focus from fading mRNA fragments in back to steady memory cells in front with a gentle upward camera drift.",
+      "provider_job_id": "cmonv5sfk004v3v11v1bdn47k",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonv5sfk004v3v11v1bdn47k/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045202Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=38820136b829e029bfa41df79df8534e0d29d6b418e5c9fd55b004bbf6becea4a7468722ab995aa4cd85f54ea64f12f85fb27f306fd3b9f6ca517ca419b05286810a68e90f2c2a67c3ccf37545ff8117c2a3fb1b743597afc45ac51ffd96c89bd0bd0073942fe61fc8293732f3c93d2a35657f43aa02eaee3efa9a22ad7b8148d01ec797f08265d379e86b21789a22ffb598c9a4d712652774ee7268f57db924e5a6610c897e89d7728d9c3b4c50477cf9b34d99d7e66fde61f19463e263d75afdda24685e8ca67d18b780fd84dda5b44a301a583be10176ec449e0695610850a3b242cd314a6160f3b5b20b2216f33936919ab6b2da4ce4f5599b3f5b114a97",
+      "resolution": "720p",
+      "scene_id": "scene_4",
+      "url": "/media/fb426655872c4a1c99e5f883af718c67/videos/scene_4/output.mp4"
+    }
+  ],
+  "voiceover": {
+    "duration_seconds": 21.89,
+    "model": "s2-pro",
+    "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/fb426655872c4a1c99e5f883af718c67/voiceover/voiceover.mp3",
+    "target_duration_seconds": 21,
+    "url": "/media/fb426655872c4a1c99e5f883af718c67/voiceover/voiceover.mp3"
+  }
+}

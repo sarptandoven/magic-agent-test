@@ -1,0 +1,323 @@
+{
+  "aspect_ratio": "9:16",
+  "audio_model": "s2-pro",
+  "completed_scene_count": 5,
+  "created_at": "2026-05-02T04:49:05.785115+00:00",
+  "failed_scene_count": 0,
+  "failed_scenes": [],
+  "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/final.mp4",
+  "final_video_url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/final.mp4",
+  "gpt_cost_usd": 0.08677,
+  "image_model": "seedream-v4",
+  "image_resolution": "1k",
+  "image_style_tool": "general",
+  "images": [
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/images/scene_1/output-1.jpg",
+      "prompt": "A lone night-shift bicycle courier in a dark hooded rain jacket straddles a bike at a flooded intersection, city blackout all around, only a small device glowing cyan in her gloved hand satchel. Heavy rain, reflections on asphalt, abandoned traffic lights, vertical 9:16 medium-wide frame, 50mm cinematic realism, cool blue palette, tense but controlled mood.",
+      "provider_job_id": "cmonuzoxv00ye580zdb36by3r",
+      "provider_url": "https://videos.magichour.ai/cmonuzoxv00ye580zdb36by3r/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044626Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0716699c19a1ee2f62950bc25289c6a45e23fb7ce6942b91bb501574445674ef10595b07caddcfd0aed40561d9920f7fc8cb92d6bdb0ab069a94e7f23ef6f096094d8450dd021a0655b4034c1c76d4bcdf7830278f835f99b5f4cbd25fae384bede82a122974c95dbdb421fc7f8bf06e535986c8a9ec977f9fc03004337a0ba8a0b5cfb75b3ec798cf09a0ee621623c1eb6aa738aedd6286929a11763488738ac9e55a8434ac53d9fc39bfb452a834077b902f2f52e76ff41d5e0186f76a8cdde6aa29e0e6881857ba2d2d3ddc6e4cdd1860cd703c0c07eba671e4ea259afedf5db0528cb33d8ed23bc4406270dc33415194fa456f05617156b05c9982dfc59f",
+      "resolution": "1k",
+      "scene_id": "scene_1",
+      "style_tool": "general",
+      "url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/images/scene_1/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/images/scene_2/output-1.jpg",
+      "prompt": "The same courier rides through a narrow downtown street between dark office towers, one hand on handlebars, satchel strapped tight with the glowing cyan device visible through a half-open flap. Rain streaks, puddle spray, emergency darkness, vertical 9:16 tracking-side composition, cinematic realism, sodium and cyan contrast, urgent mood.",
+      "provider_job_id": "cmonuzp4e00ws600zbuv7x8rd",
+      "provider_url": "https://videos.magichour.ai/cmonuzp4e00ws600zbuv7x8rd/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044704Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=9030257867a395400fcb90acf383d5bbb034550757bb0ee9055341485816f8f70441ab69f01d6f427917aa4d28ac447db4e8fe78fdb5ab16e3329ffcc4360d91d21f065ef6fa4e15e066f0bd865802b8aa45267ee083a36c80a231cdf9eaa90b00e23f704189b9cb5ff59b4b3d543a81955de86605277dc5522bad19263479d3eae24dbe61fb085d2103a004c1558b1cee96c98dab516edf3a7a3569e63613418f061498f1708cb193d577b84537077a734e63e5aa0551f95ec5fd715edeb12c8225f855a56feaaae4130cb0d7d52fc2f555c021bae73c1b0fa935eab1d9dc5dfe78634ada7a27c71c6863639b1ac41767743a803448127a190525fa85f88bc6",
+      "resolution": "1k",
+      "scene_id": "scene_2",
+      "style_tool": "general",
+      "url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/images/scene_2/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/images/scene_3/output-1.jpg",
+      "prompt": "The courier pauses under a dead elevated train line, checking a wrist map while standing beside the bike, rain cascading from steel beams, storefronts blacked out behind her. The cyan device glows inside the satchel, lighting her face. Vertical 9:16 close medium shot, 85mm cinematic realism, wet steel textures, deep shadows, tense but thoughtful mood.",
+      "provider_job_id": "cmonuzoxi002b3v11t8ayrjnm",
+      "provider_url": "https://videos.magichour.ai/cmonuzoxi002b3v11t8ayrjnm/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044614Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3970718fa8cb55e3f2760f813a04027fe0a89268ed5852bf7a43ad9b5dbfd1729f39db19e4b655c574f0026b4b55f91806069b93b1cfd49f83e4e9ffdfe875e6c1cbebb785fd1b2e9c7c0e788a3292d4f243941280190e2d5de853f19634450b4f16440eaacc529df2ec0551b4bca2e0b8ef7ce3a74510a0c3be0eaafda700daac1593eace1a952c6398e6911038913901591f4068bc273e92f560cd6fa1d883376c7162e2ff8bf077c6f8a1e593fd5c78093098c098dcdf0645aa9920e67bebd29e5b5c11c98ed934f2b674d2cdcd344f0c29a5eab51274fdcac341a897006258c4570a2253f8f556a67175d11c27bebec5a589ecb60ff16497fbcdb2388127",
+      "resolution": "1k",
+      "scene_id": "scene_3",
+      "style_tool": "general",
+      "url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/images/scene_3/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/images/scene_4/output-1.jpg",
+      "prompt": "The same courier climbs a dim apartment stairwell lit only by the cyan glow from the small device in her hands, soaked jacket dripping, concrete walls, blackout darkness, bike helmet clipped to satchel. Vertical 9:16 low-angle medium shot, cinematic realism, narrow depth of field, blue-gray palette, determined hopeful mood.",
+      "provider_job_id": "cmonuzoxj00wr600zkz44qpfu",
+      "provider_url": "https://videos.magichour.ai/cmonuzoxj00wr600zkz44qpfu/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044639Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=5a762e6bf676fdbb4a4cacd7b690a8f7f3726548d5730ff98576c62cd0bd0f58af81bb04b047e3ebaf1a244358d1fe0eb1cf705643989d7e459adf7c7f3f9c47e57f80abec1bd5332a1e1370362ded9ec5d92614c4b44ed6055ac56ac468e02c014d369f83797f7a0864d098e5e9275fbd0b4fdf89701f2cd5c939dff6fe258113431a8e973e4bcd1e975a386340add9992af54090b475eb3904410cec479d45c7b781ade09f4141ab6d312e052c42234d6b0dfdafc8a3cfbe059263cb142bcf4cb2f971041de8df57ef2ad81d72d7ffccc471940e44fd3cc1f5e605c37c245409960046c1100079722f4155b843cdf705170240341deeec5a3b68477cbb8883",
+      "resolution": "1k",
+      "scene_id": "scene_4",
+      "style_tool": "general",
+      "url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/images/scene_4/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/images/scene_5/output-1.jpg",
+      "prompt": "At a dark apartment doorway, the courier extends the small glowing cyan device toward an unseen resident whose hand reaches from inside. Rain beads on her sleeve, hall behind her dim, blackout city faint through a stairwell window. Vertical 9:16 close shot, cinematic realism, soft contrast, cyan glow illuminating both hands, relieved hopeful mood.",
+      "provider_job_id": "cmonuzp3y00yf580zjg7cja17",
+      "provider_url": "https://videos.magichour.ai/cmonuzp3y00yf580zjg7cja17/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044651Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7a2c258cd0ad6cdf3cf6ae5bf8f4372f138ffafdd57ad9df054b4cb97edd8ce8539f52bc398486af79a2689a2f2e51d5941ebe80ee67aeaabf11a5a7b3de38582002536f41d289be46905189764d7a10df718e0419871194847f7fed16736355423505a3409acbc4b66551fa1cfbb2f7a3e85539bc4819cc53f1488fedc81ab40f9e6b9ee6960abede7a72692ca92375490baf36e264d709c31f77fa2e1647cbd2668028392dc9e45764e836e57b9d3d3a53010054abda4169743989697b3207f7fed286bfa81caf3b8f662e08019e941b97361a20458d2d2fc92b5b755c77351bb7a72c95d3e2cc8e014540c98b18521101e315b4532adcaeda662c891267fb",
+      "resolution": "1k",
+      "scene_id": "scene_5",
+      "style_tool": "general",
+      "url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/images/scene_5/output-1.jpg"
+    }
+  ],
+  "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/manifest.json",
+  "narration_stats": {
+    "expression_cue_count": 3,
+    "expression_cues": [
+      "tense",
+      "speaks calmly",
+      "emphasis"
+    ],
+    "voiceover_duration_seconds": 13.714,
+    "word_count": 38,
+    "words_per_second": 2.771
+  },
+  "plan": {
+    "aspect_ratio": "9:16",
+    "narration": "[tense] Power dies block by block, but her route stays lit by one small pulse. [speaks calmly] Through flooded streets and shuttered towers, she carries what the city still needs. [emphasis] At the last dark window, hope answers with a human hand.",
+    "resolution": "720p",
+    "scenes": [
+      {
+        "duration_seconds": 4,
+        "id": "scene_1",
+        "image_prompt": "A lone night-shift bicycle courier in a dark hooded rain jacket straddles a bike at a flooded intersection, city blackout all around, only a small device glowing cyan in her gloved hand satchel. Heavy rain, reflections on asphalt, abandoned traffic lights, vertical 9:16 medium-wide frame, 50mm cinematic realism, cool blue palette, tense but controlled mood.",
+        "narration": "[tense] Power dies block by block,",
+        "video_prompt": "Slow push in as rain falls and the courier lifts her gaze; the cyan device glow flickers softly in her hand."
+      },
+      {
+        "duration_seconds": 4,
+        "id": "scene_2",
+        "image_prompt": "The same courier rides through a narrow downtown street between dark office towers, one hand on handlebars, satchel strapped tight with the glowing cyan device visible through a half-open flap. Rain streaks, puddle spray, emergency darkness, vertical 9:16 tracking-side composition, cinematic realism, sodium and cyan contrast, urgent mood.",
+        "narration": "but her route stays lit by one small pulse.",
+        "video_prompt": "Lateral tracking move beside the courier as she pedals steadily; rain and wheel spray trail behind her."
+      },
+      {
+        "duration_seconds": 4,
+        "id": "scene_3",
+        "image_prompt": "The courier pauses under a dead elevated train line, checking a wrist map while standing beside the bike, rain cascading from steel beams, storefronts blacked out behind her. The cyan device glows inside the satchel, lighting her face. Vertical 9:16 close medium shot, 85mm cinematic realism, wet steel textures, deep shadows, tense but thoughtful mood.",
+        "narration": "[speaks calmly] Through flooded streets and shuttered towers,",
+        "video_prompt": "Gentle orbit to the front as the courier lowers her wrist and turns toward the street ahead."
+      },
+      {
+        "duration_seconds": 4,
+        "id": "scene_4",
+        "image_prompt": "The same courier climbs a dim apartment stairwell lit only by the cyan glow from the small device in her hands, soaked jacket dripping, concrete walls, blackout darkness, bike helmet clipped to satchel. Vertical 9:16 low-angle medium shot, cinematic realism, narrow depth of field, blue-gray palette, determined hopeful mood.",
+        "narration": "she carries what the city still needs.",
+        "video_prompt": "Slow upward follow from behind as she climbs one landing and steadies the glowing device against her chest."
+      },
+      {
+        "duration_seconds": 4,
+        "id": "scene_5",
+        "image_prompt": "At a dark apartment doorway, the courier extends the small glowing cyan device toward an unseen resident whose hand reaches from inside. Rain beads on her sleeve, hall behind her dim, blackout city faint through a stairwell window. Vertical 9:16 close shot, cinematic realism, soft contrast, cyan glow illuminating both hands, relieved hopeful mood.",
+        "narration": "[emphasis] At the last dark window, hope answers with a human hand.",
+        "video_prompt": "Subtle push in as the resident's hand meets hers and the courier releases the device."
+      }
+    ],
+    "title": "Blackout Courier",
+    "visual_bible": "One consistent courier: woman in dark hooded rain jacket, gloves, bike helmet, crossbody satchel, athletic bike. One consistent package: small palm-sized cyan glowing device. Rain-soaked blackout city, cool blue-gray palette with cyan accent, realistic cinematic style, vertical 9:16 framing, restrained handheld/dolly language, tense but hopeful arc."
+  },
+  "project_id": "4975d0ea7ed145819706ec4e3ee4bdd1",
+  "render_status": "complete",
+  "resolution": "720p",
+  "title": "Blackout Courier",
+  "token_output": {
+    "cost": {
+      "cached_input_usd": 0.01104,
+      "input_usd": 0.051895,
+      "output_usd": 0.023835,
+      "total_usd": 0.08677
+    },
+    "created_at": "2026-05-02T04:49:08.949465+00:00",
+    "model": "gpt-5.4",
+    "pricing": {
+      "cached_input": 0.25,
+      "currency": "USD",
+      "input": 2.5,
+      "input_multiplier": 1.0,
+      "long_context_applies": false,
+      "long_context_threshold_input_tokens": 272000,
+      "output": 15.0,
+      "output_multiplier": 1.0,
+      "source": "https://developers.openai.com/api/docs/models/gpt-5.4/",
+      "unit": "per_1m_tokens"
+    },
+    "project_id": "4975d0ea7ed145819706ec4e3ee4bdd1",
+    "provider": "openai",
+    "scope": "OpenAI GPT/agent planning run only. Magic Hour, Fish Audio, and ffmpeg costs are not included.",
+    "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/token_output.json",
+    "usage": {
+      "cached_input_tokens": 44160,
+      "input_tokens": 64918,
+      "input_tokens_details": [
+        {
+          "cached_tokens": 44160
+        }
+      ],
+      "output_tokens": 1589,
+      "output_tokens_details": [
+        {
+          "reasoning_tokens": 503
+        }
+      ],
+      "reasoning_tokens": 503,
+      "request_usage_entries": [
+        {
+          "input_tokens": 5029,
+          "input_tokens_details": {
+            "cached_tokens": 0
+          },
+          "output_tokens": 1224,
+          "output_tokens_details": {
+            "reasoning_tokens": 435
+          },
+          "total_tokens": 6253
+        },
+        {
+          "input_tokens": 6971,
+          "input_tokens_details": {
+            "cached_tokens": 6016
+          },
+          "output_tokens": 82,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 7053
+        },
+        {
+          "input_tokens": 7207,
+          "input_tokens_details": {
+            "cached_tokens": 6912
+          },
+          "output_tokens": 71,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 7278
+        },
+        {
+          "input_tokens": 10631,
+          "input_tokens_details": {
+            "cached_tokens": 7168
+          },
+          "output_tokens": 51,
+          "output_tokens_details": {
+            "reasoning_tokens": 10
+          },
+          "total_tokens": 10682
+        },
+        {
+          "input_tokens": 13693,
+          "input_tokens_details": {
+            "cached_tokens": 10496
+          },
+          "output_tokens": 27,
+          "output_tokens_details": {
+            "reasoning_tokens": 7
+          },
+          "total_tokens": 13720
+        },
+        {
+          "input_tokens": 21387,
+          "input_tokens_details": {
+            "cached_tokens": 13568
+          },
+          "output_tokens": 134,
+          "output_tokens_details": {
+            "reasoning_tokens": 51
+          },
+          "total_tokens": 21521
+        }
+      ],
+      "requests": 6,
+      "tool_search_tokens": 0,
+      "total_tokens": 66507,
+      "uncached_input_tokens": 20758
+    }
+  },
+  "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/token_output.json",
+  "video_audio": false,
+  "video_model": "ltx-2",
+  "video_resolution": "720p",
+  "videos": [
+    {
+      "audio": false,
+      "duration_seconds": 4,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/videos/scene_1/output.mp4",
+      "prompt": "Slow push in as rain falls and the courier lifts her gaze; the cyan device glow flickers softly in her hand.",
+      "provider_job_id": "cmonv13q400z4580zslucpcjy",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonv13q400z4580zslucpcjy/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044859Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0752850be7fd0dd24b73eff184690050ea176f189576295bb36f8b66d3baa4f970e1a524bc5dcbdb868de236e5fb178674255fb789327259e48cae5f408e9f69d42542e1e4231f43999fb82629441509dc94f48024129f90a5b31197bcae254e956f77d49f828eb02f8771b5c4543bda147a8320ef5d02757f038a4fee9ae85f51efab9f37d90f83ea58b7463d23f27269fb890ca98ae8672778dbfa609aaf19f389cc2f9f7a480d2c86478f0a743778d3b385cda833e8c3fe9aae2010dcd2847d1a697267800370c51eeb29e0f70d0807ae5174b25f6007f79ea0eed4389493b053eab85338c1327eb24565afe23c8cd5295a772df22861d8999f1a7a3bd09a",
+      "resolution": "720p",
+      "scene_id": "scene_1",
+      "url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/videos/scene_1/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 4,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/videos/scene_2/output.mp4",
+      "prompt": "Lateral tracking move beside the courier as she pedals steadily; rain and wheel spray trail behind her.",
+      "provider_job_id": "cmonv13hi00z3580zfs19dynq",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonv13hi00z3580zfs19dynq/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044829Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=626e507bd362ece7ab9aaecaed75f8702335020e8f72de778503caa7f5629b0573de22079dfee1394cac7f109444d7acf6e150acb4c26259db7d17390a3f1cfcf9bd071e8b61981d0962d3a6e815d1d8a80d7652f948d38f2bdd70c4e2abd0b741880ebe375f8916926ecbbcf031e32ab84048553f6d4082e4467684feb5d43f85c5f8edc093ce14fa0f5f9358ab7d3d7615c9ef26b684e4953e4be06ef9f2fa0d1c43fbb9416fe6fef320dd95f5aa9a6a4381bcbb6837020c69852b193e824095a4aa6ace39f2bcfd723897c27d7dc346bf537023548966762ab6eeb66434f619c71cc1ae8f005cab4ccc467a08799143fa721064ae9d187c64a744506aeb33",
+      "resolution": "720p",
+      "scene_id": "scene_2",
+      "url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/videos/scene_2/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 4,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/videos/scene_3/output.mp4",
+      "prompt": "Gentle orbit to the front as the courier lowers her wrist and turns toward the street ahead.",
+      "provider_job_id": "cmonv13kb00xh600zaay1s04q",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonv13kb00xh600zaay1s04q/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044804Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=3a6772b28d77ad8878a0a82de4ac435a6a2299fda7e3ad4c9af9433701d94fdfd2b8f2e2d7b2330a630f2b3a71373bd7370f7f09e099d15d9b44e3dfc1e825f7dcc9467d5e3cb9e76c3bbd5ddc8f0f45cabe0babf930c9d39ecaf3ebe8e56774eeb532a51e7015416d5c3437739375aaf486c318fcd48d6987cbee48afae37e5e90313abba099d1881f65ecef0557a1c0ecf9b8073041c98b614989523e6bfd2596c1d270e974bab58a613935be7c5c4a35ad66bb35868b6726bc12a26c8dd70800d03127be1a5fe8ef0fbe159d96c67f7c10605208a42a6ce11babbc1ceb0a9f5bf170f61363100c88f02a1a71407a78538dd39be28a8cb60fdca9533cb1028",
+      "resolution": "720p",
+      "scene_id": "scene_3",
+      "url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/videos/scene_3/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 4,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/videos/scene_4/output.mp4",
+      "prompt": "Slow upward follow from behind as she climbs one landing and steadies the glowing device against her chest.",
+      "provider_job_id": "cmonv13g90164420zys5lohr9",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonv13g90164420zys5lohr9/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044814Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=70897087d0d48fc8ff14af9f5e6b3a868986ca954aa895471ab416e6cf8486073c215cb50682c39a5833e45472d9c0238fe4d5f72985551ec206137c695f8572604d0d388d3237cdfff4e888aeb3d6fe32c66cb77a9a286c887114b6cf6928c77fb3830f6ff8532cfdf3736bb83a30a243acd079155d6d4e54a2cf8ca41466ba3a360c4f0e55ea8eb10a0d02371165111bc2f65b109e4106edcc16ee2f4e11a3816d3889199e32f53f66a15a8c1da99256923b3aa2e913e6630065dd4573ba0a9a0c09087f2288cd51e1fda206c605a65cca65e20bead388b63effb22e835d242b4d871a2a81ec4bf3039c05d9059e8564bad71ca4cf4b261d9055eca57ef7cd",
+      "resolution": "720p",
+      "scene_id": "scene_4",
+      "url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/videos/scene_4/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 4,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/videos/scene_5/output.mp4",
+      "prompt": "Subtle push in as the resident's hand meets hers and the courier releases the device.",
+      "provider_job_id": "cmonv13k300xg600zh6lof10m",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonv13k300xg600zh6lof10m/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044813Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6c394b6e67401a24560c8ae9d928d43bca271224cc58694402adcbd8e6caa1de8964add0b360e856d5656ad03cfc3a4ad29f2706a4513d132d0ff037d76f0add2e5e4686660f8bf87bb45fd3b2d379c2e102c5e0e7ee00957814812b8992e4b5788ae6173a005d0685a5827a2afa5d45325145d8e13e62c4fa17910a8627a2e413fd0721911313ea6dca197b573ca2e67b0fc7eb880c2be449093f2e12563cbd6f7d408b4887588e472726347a9e76ec3f9b2bfd2efe04504d9e5d0361d1a25ca95c51785d7f223aef72963b371744952779055f1cb677b7a8e234fec3959f58ba56d349d91e156dbdc40a6a618187736c442306fba490ceb44a488a1afb35db",
+      "resolution": "720p",
+      "scene_id": "scene_5",
+      "url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/videos/scene_5/output.mp4"
+    }
+  ],
+  "voiceover": {
+    "duration_seconds": 13.714,
+    "model": "s2-pro",
+    "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/4975d0ea7ed145819706ec4e3ee4bdd1/voiceover/voiceover.mp3",
+    "target_duration_seconds": 20,
+    "url": "/media/4975d0ea7ed145819706ec4e3ee4bdd1/voiceover/voiceover.mp3"
+  }
+}

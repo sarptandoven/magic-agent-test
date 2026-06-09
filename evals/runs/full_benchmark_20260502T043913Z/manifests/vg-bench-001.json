@@ -1,0 +1,293 @@
+{
+  "aspect_ratio": "9:16",
+  "audio_model": "s2-pro",
+  "completed_scene_count": 4,
+  "created_at": "2026-05-02T04:42:38.808511+00:00",
+  "failed_scene_count": 0,
+  "failed_scenes": [],
+  "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/final.mp4",
+  "final_video_url": "/media/06ec9c3fd0f74e21903096d4296fb013/final.mp4",
+  "gpt_cost_usd": 0.0787105,
+  "image_model": "seedream-v4",
+  "image_resolution": "1k",
+  "image_style_tool": "general",
+  "images": [
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/images/scene_1/output-1.jpg",
+      "prompt": "Vertical close-up of a pocket-sized matte black AI camera mounted on a bicycle handlebar, cyclist's gloved hands resting nearby, city street softly blurred ahead, early evening neutral light, shallow depth of field, 35mm lens feel, practical premium product realism, muted charcoal and steel palette, no text or logos.",
+      "provider_job_id": "cmonurlfl00u0600zq5me0gtw",
+      "provider_url": "https://videos.magichour.ai/cmonurlfl00u0600zq5me0gtw/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044032Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=304c7d29be52adb2785c17453c017691315059c643538fd7826683ccb07272722f4a606266b46327c789d04f2d75a36bf5f7ff18afeb7634a41bb5b2aae5e52c16aee36ec62f9fb256cf04a29ee17b1a903873750b71b18d3a7dd727747d948ff70b8aa2de1581f8d01ad46c8c490b452ba72b436682b6df6cf028fbd964c9a33dac565397587dacbb375ed2577a649ebaa39a6e42c5f2b070872120389bd5f2da1124e969fad95c165d09b729a50eba333d7c62e6161578a9bb353198da58611b6a0a4a4bd6ae57e22e79c9ec710564b8fdedadfbe8a04e52e98870ef7d6001bbad9354259c60699e5e0393c5e54b721126cd72a61a02c48cce36eb38fe0040",
+      "resolution": "1k",
+      "scene_id": "scene_1",
+      "style_tool": "general",
+      "url": "/media/06ec9c3fd0f74e21903096d4296fb013/images/scene_1/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/images/scene_2/output-1.jpg",
+      "prompt": "Vertical street-level cycling frame from just behind the handlebars, compact camera visible on the bar, a car passing uncomfortably close in the adjacent lane, cyclist held steady in the right edge of frame, hard urban light with deep shadows, cinematic realism, 28mm lens, tense practical mood, same matte black camera and bike setup.",
+      "provider_job_id": "cmonurle9012v420zb6l3bhl6",
+      "provider_url": "https://videos.magichour.ai/cmonurle9012v420zb6l3bhl6/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T043956Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6d094ea2f517fb4a7269d5f91b1429fd1a2fe0579782b6da9cd60980e9f2c56b54d7bc4e24992af4b0d1d473503f129006d7dcb521e211fcba93be7962b6706d89e10d096f69baafac1ed0ef4347f6513da608cdcc0af7394182ba95c0f1cd0936de769f6f60fca6d6abe4b9f13cbbef56d9dd80532c3a338cd74677db5abda85ffd91ca28d3c691e107b3e4efe53057402733b6dd1380f7500603960bc5b27aa05b3475b89c9844397624f8f593f1000fa4ef1cbbc9c62932002f234a31e1c88009454cbf3a1a8ae539b74f0f4eae9c26d88998f35192fbdb6a016f0d01b88fe5c6541b879d1052af521bdeca0845b6ef021bef82651411408029084dc825ee",
+      "resolution": "1k",
+      "scene_id": "scene_2",
+      "style_tool": "general",
+      "url": "/media/06ec9c3fd0f74e21903096d4296fb013/images/scene_2/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/images/scene_3/output-1.jpg",
+      "prompt": "Vertical rear three-quarter view of the cyclist riding along a quiet road at golden hour, handlebar camera still mounted and visible, warm sunlight flaring through trees, long shadows across pavement, open landscape beyond, cinematic naturalism, 50mm lens, amber and olive palette, calm expansive mood, same bicycle and rider wardrobe continuity.",
+      "provider_job_id": "cmonurlf900va580zk11s67o4",
+      "provider_url": "https://videos.magichour.ai/cmonurlf900va580zk11s67o4/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044019Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=249017bc7d784fc333644ff72a93937cd71b9676ba7221f3ca53c9ee6047c0de5c7ede2749dae0f20bdd39f12bd467c3376cc6eb81c73cac828b6831ffd73f4c587be19b7a8549351d377d0b9e279dc119bbacf8b66b17138ea2528b27b8689c49f6c3588962e87fed0c4f17f47575e022d3ab6dc5e9dbe9750881f3d235b9c415caffa1f25ade8fe26c215da8a7a489b1b8e768debddbdcdb6f24e7201a4b4f7239dcc372b8f48aebdd15ffc90c40de076c1cd304c80fc86fac1f4c46f1b3d12e16683e5d86bda4b57ce81d366fc70b48204652c5b8c72efb6a73e6d0f50d78dfcbc78d373986014cae54cdfdbc2377ae505972db413efef2a3607df3f1b3c5",
+      "resolution": "1k",
+      "scene_id": "scene_3",
+      "style_tool": "general",
+      "url": "/media/06ec9c3fd0f74e21903096d4296fb013/images/scene_3/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/images/scene_4/output-1.jpg",
+      "prompt": "Vertical over-shoulder shot of a cyclist seated indoors after the ride, smartphone in hand showing an abstract ride-summary interface with map shapes and clip blocks but no readable text, the pocket camera resting on a table nearby, warm window light, clean practical home setting, cinematic realism, 50mm lens, calm resolved mood.",
+      "provider_job_id": "cmonurleu00i62e0y88xnr8so",
+      "provider_url": "https://videos.magichour.ai/cmonurleu00i62e0y88xnr8so/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044008Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8ec7fc1f9772a73beb672feaf47c66fa24ac8617bf049dd6a5b0355e032d255238520d788486b598e4727da34feaec1dc5e38eb4b3b70476609476d3814676c723bbc5511ec1a214a001699c100d0cad9ae65116267d08df19c3900315481a2a29b735fabdd1ec0da56e51f5e368f4733eae87fdcb10fc9f32c2ed8209b4949abd92b1af43619fd789ee97767a031b527552a688e6f5a23db4dcae44f0bb9ab5ab18bc2d18f6aad02c0a32dc35a79a8ca46c0002128c89eb961e1a498fd215828657b42398d0465f423408722134454c4ff792b15ddb001887785b44be2995c381c57e5a80b46e461c924b6e35a0fa9e370a7db602811f2a009395d88e2f68d3",
+      "resolution": "1k",
+      "scene_id": "scene_4",
+      "style_tool": "general",
+      "url": "/media/06ec9c3fd0f74e21903096d4296fb013/images/scene_4/output-1.jpg"
+    }
+  ],
+  "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/manifest.json",
+  "narration_stats": {
+    "expression_cue_count": 4,
+    "expression_cues": [
+      "speaks calmly",
+      "tense",
+      "curious",
+      "emphasis"
+    ],
+    "voiceover_duration_seconds": 13.479,
+    "word_count": 40,
+    "words_per_second": 2.968
+  },
+  "plan": {
+    "aspect_ratio": "9:16",
+    "narration": "[speaks calmly] Small enough to forget, steady enough to keep rolling on your bars. [tense] When a car cuts too close, the moment is captured. [curious] Then the road opens into gold light. [emphasis] After the ride, the app trims it down to what mattered.",
+    "resolution": "720p",
+    "scenes": [
+      {
+        "duration_seconds": 4,
+        "id": "scene_1",
+        "image_prompt": "Vertical close-up of a pocket-sized matte black AI camera mounted on a bicycle handlebar, cyclist's gloved hands resting nearby, city street softly blurred ahead, early evening neutral light, shallow depth of field, 35mm lens feel, practical premium product realism, muted charcoal and steel palette, no text or logos.",
+        "narration": "[speaks calmly] Small enough to forget, steady enough to keep rolling on your bars.",
+        "video_prompt": "Slow push-in toward the mounted camera while the bicycle gently vibrates in place."
+      },
+      {
+        "duration_seconds": 4,
+        "id": "scene_2",
+        "image_prompt": "Vertical street-level cycling frame from just behind the handlebars, compact camera visible on the bar, a car passing uncomfortably close in the adjacent lane, cyclist held steady in the right edge of frame, hard urban light with deep shadows, cinematic realism, 28mm lens, tense practical mood, same matte black camera and bike setup.",
+        "narration": "[tense] When a car cuts too close, the moment is captured.",
+        "video_prompt": "Handheld-style forward drift as the car moves slightly ahead in the lane beside the cyclist."
+      },
+      {
+        "duration_seconds": 5,
+        "id": "scene_3",
+        "image_prompt": "Vertical rear three-quarter view of the cyclist riding along a quiet road at golden hour, handlebar camera still mounted and visible, warm sunlight flaring through trees, long shadows across pavement, open landscape beyond, cinematic naturalism, 50mm lens, amber and olive palette, calm expansive mood, same bicycle and rider wardrobe continuity.",
+        "narration": "[curious] Then the road opens into gold light.",
+        "video_prompt": "Smooth trailing camera glide as the cyclist pedals steadily forward."
+      },
+      {
+        "duration_seconds": 5,
+        "id": "scene_4",
+        "image_prompt": "Vertical over-shoulder shot of a cyclist seated indoors after the ride, smartphone in hand showing an abstract ride-summary interface with map shapes and clip blocks but no readable text, the pocket camera resting on a table nearby, warm window light, clean practical home setting, cinematic realism, 50mm lens, calm resolved mood.",
+        "narration": "[emphasis] After the ride, the app trims it down to what mattered.",
+        "video_prompt": "Gentle tilt down from the rider's shoulder to the phone while the thumb makes one subtle swipe."
+      }
+    ],
+    "title": "Pocket AI Camera for Cyclists",
+    "visual_bible": "Pocket-sized matte black AI camera mounted on handlebars in every riding scene; grounded cinematic realism; practical commuter cyclist with gloves and neutral kit; vertical 9:16 framing; lens language 28-50mm with restrained camera motion; palette shifts from cool urban steel to warm golden amber; no logos, captions, or readable UI text."
+  },
+  "project_id": "06ec9c3fd0f74e21903096d4296fb013",
+  "render_status": "complete",
+  "resolution": "720p",
+  "title": "Pocket AI Camera for Cyclists",
+  "token_output": {
+    "cost": {
+      "cached_input_usd": 0.009888,
+      "input_usd": 0.0438325,
+      "output_usd": 0.02499,
+      "total_usd": 0.0787105
+    },
+    "created_at": "2026-05-02T04:42:42.915259+00:00",
+    "model": "gpt-5.4",
+    "pricing": {
+      "cached_input": 0.25,
+      "currency": "USD",
+      "input": 2.5,
+      "input_multiplier": 1.0,
+      "long_context_applies": false,
+      "long_context_threshold_input_tokens": 272000,
+      "output": 15.0,
+      "output_multiplier": 1.0,
+      "source": "https://developers.openai.com/api/docs/models/gpt-5.4/",
+      "unit": "per_1m_tokens"
+    },
+    "project_id": "06ec9c3fd0f74e21903096d4296fb013",
+    "provider": "openai",
+    "scope": "OpenAI GPT/agent planning run only. Magic Hour, Fish Audio, and ffmpeg costs are not included.",
+    "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/token_output.json",
+    "usage": {
+      "cached_input_tokens": 39552,
+      "input_tokens": 57085,
+      "input_tokens_details": [
+        {
+          "cached_tokens": 39552
+        }
+      ],
+      "output_tokens": 1666,
+      "output_tokens_details": [
+        {
+          "reasoning_tokens": 575
+        }
+      ],
+      "reasoning_tokens": 575,
+      "request_usage_entries": [
+        {
+          "input_tokens": 4493,
+          "input_tokens_details": {
+            "cached_tokens": 0
+          },
+          "output_tokens": 1209,
+          "output_tokens_details": {
+            "reasoning_tokens": 560
+          },
+          "total_tokens": 5702
+        },
+        {
+          "input_tokens": 6316,
+          "input_tokens_details": {
+            "cached_tokens": 5504
+          },
+          "output_tokens": 141,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 6457
+        },
+        {
+          "input_tokens": 6670,
+          "input_tokens_details": {
+            "cached_tokens": 6272
+          },
+          "output_tokens": 71,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 6741
+        },
+        {
+          "input_tokens": 9466,
+          "input_tokens_details": {
+            "cached_tokens": 6656
+          },
+          "output_tokens": 48,
+          "output_tokens_details": {
+            "reasoning_tokens": 7
+          },
+          "total_tokens": 9514
+        },
+        {
+          "input_tokens": 11914,
+          "input_tokens_details": {
+            "cached_tokens": 9344
+          },
+          "output_tokens": 28,
+          "output_tokens_details": {
+            "reasoning_tokens": 8
+          },
+          "total_tokens": 11942
+        },
+        {
+          "input_tokens": 18226,
+          "input_tokens_details": {
+            "cached_tokens": 11776
+          },
+          "output_tokens": 169,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 18395
+        }
+      ],
+      "requests": 6,
+      "tool_search_tokens": 0,
+      "total_tokens": 58751,
+      "uncached_input_tokens": 17533
+    }
+  },
+  "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/token_output.json",
+  "video_audio": false,
+  "video_model": "ltx-2",
+  "video_resolution": "720p",
+  "videos": [
+    {
+      "audio": false,
+      "duration_seconds": 4,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/videos/scene_1/output.mp4",
+      "prompt": "Slow push-in toward the mounted camera while the bicycle gently vibrates in place.",
+      "provider_job_id": "cmonusqtn00uo600zfyit41z6",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonusqtn00uo600zfyit41z6/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044130Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=9d514f132964f9064bacb774477b756d4485ff20bbf1fe813a2d9430ddab40896cb276e91fd74d1e9ed702373b117752c2ef0af0d761f88a9bb8d8afe24b4747d6334ab6eba14645d9ddaec0e2e586d78d0ec3482e0997044fc607714075aedd3ac76e1671216e1a76d9146a4e6cb4ebc1013a9a09b0b6fe52fa12f1c2e967da68d720390920330f6e662de8d3a795eaf954557660b811964c0bdbf73d7b9b5920a98ebd4770c4e615dfba93eb7778ed0a4fc2adba12f2ada8c1f6f0632fdfe731601043dab754e43ea63e64bcae12deefe3160f3dd803e5d8fd375dd3abc80f567603ea4c18fe6396752e98d722eed533f8373844cf701da0481d9447849e41",
+      "resolution": "720p",
+      "scene_id": "scene_1",
+      "url": "/media/06ec9c3fd0f74e21903096d4296fb013/videos/scene_1/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 4,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/videos/scene_2/output.mp4",
+      "prompt": "Handheld-style forward drift as the car moves slightly ahead in the lane beside the cyclist.",
+      "provider_job_id": "cmonusr0e013b420za3sqsqhr",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonusr0e013b420za3sqsqhr/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044227Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7afb7a3be0db4b1b016a4c0a8684e1b2b1c2d767175c4c73d7118c701518565714868b980684bb2917b9be9adf862b1ef21e35b78df84765cb33e6e3d4266708b320aa32d80beb9b8a3c841d8feff55100bdbc4a3814e122ac0b9e26a81b8af7b97b359c22c258795ee0a55ae5c725f782e702900b71a09587a0729709808884da76168bb78af51cf734a60369e891026caca6e8e0b5296fe064a2535157d225a3114093651864acf0cced9882cf929bdfa66a51d0a8b6b75b295780c2aeedaee1db8d507ac9869235c8631a924f36f8b1d51c211c943a8ffa36da15e845e681b62e4148461a0123ff84802a362f3747ae0bebc11b4dab06dabc36fea171deb7",
+      "resolution": "720p",
+      "scene_id": "scene_2",
+      "url": "/media/06ec9c3fd0f74e21903096d4296fb013/videos/scene_2/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 5,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/videos/scene_3/output.mp4",
+      "prompt": "Smooth trailing camera glide as the cyclist pedals steadily forward.",
+      "provider_job_id": "cmonusqtm00ih2e0yf3lop6yl",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonusqtm00ih2e0yf3lop6yl/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044203Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=51f3ffe060896ca96a6918a4be694826edd72ac0afcdc02c6a884dcd741fb2e2731ce3264fb4032505f3f4f8494da0590db29f877fb3179d5afdb176b73bd7f284ec512df72a4d51613e6b404b8ee4075b6727cbfd90f9c3d1ba0aa02488b47d3695c7101ea8a44e593cb9c2e6d9de6698a6d236b2108ca0c10d6508a3deb878ec62771b42d854aa80fee077aa8623309c6176f96d4b5cc09bea43ebe0d80bcdd08dc739c511770fef33869a96dbf9670a5540e1d59314eebc99357ae6c8d9763a91df58cce7ea30745162f79ff7ba2ca4a26e58c7ab0530b86974d4458834b032132f3f54fb22afb8893c35138016340e7078af465485e809c317568353de64",
+      "resolution": "720p",
+      "scene_id": "scene_3",
+      "url": "/media/06ec9c3fd0f74e21903096d4296fb013/videos/scene_3/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 5,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/videos/scene_4/output.mp4",
+      "prompt": "Gentle tilt down from the rider's shoulder to the phone while the thumb makes one subtle swipe.",
+      "provider_job_id": "cmonusqyk00wu3z0z8idyuveh",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonusqyk00wu3z0z8idyuveh/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044234Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=9182f631c0258a17eb6dec9c54707e63d43ccf9d58f69f901d4f791826513b9f9c82a3b3505b67b9aed6d25aed91eb5cc8445967e65bcbd3da023b608da10a7df258bb14c684e28870cf2f32b0caeab867da84d8feb911055ce915cc2c7e260cd58e1f46aaf5d3838fab99de68b0032e433326f70fa47305b2266b607e0eb33d41ef658c95e7c950d44b310a626a6c322658a65ae6780d1ff9d19d94b389be42ac1f39962ba77e0ad7348ce7493d3454c69970daca1abd5593f9fdfca5dc4bf63a803fc33c1fcae4b35867e0f0e4ec8ba1dc12d263e3fa8f62273d85c3066f884835d028565042102cfa1542faf0efb00a7b98152f1417b2060e1d37125aa9e4",
+      "resolution": "720p",
+      "scene_id": "scene_4",
+      "url": "/media/06ec9c3fd0f74e21903096d4296fb013/videos/scene_4/output.mp4"
+    }
+  ],
+  "voiceover": {
+    "duration_seconds": 13.479,
+    "model": "s2-pro",
+    "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/06ec9c3fd0f74e21903096d4296fb013/voiceover/voiceover.mp3",
+    "target_duration_seconds": 18,
+    "url": "/media/06ec9c3fd0f74e21903096d4296fb013/voiceover/voiceover.mp3"
+  }
+}

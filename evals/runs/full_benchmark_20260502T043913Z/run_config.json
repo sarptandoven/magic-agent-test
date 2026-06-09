@@ -1,0 +1,18 @@
+{
+  "api_base": "http://127.0.0.1:8000",
+  "case_ids": [
+    "vg-bench-001",
+    "vg-bench-002",
+    "vg-bench-003",
+    "vg-bench-004",
+    "vg-bench-005",
+    "vg-bench-006",
+    "vg-bench-007",
+    "vg-bench-008",
+    "vg-bench-009",
+    "vg-bench-010"
+  ],
+  "created_at": "2026-05-02T04:39:13.686830+00:00",
+  "execute": true,
+  "prompts": "evals/video_generation_benchmark_prompts.jsonl"
+}

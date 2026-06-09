@@ -1,0 +1,9 @@
+{
+  "message": "Project queued locally.",
+  "progress": 0,
+  "project_id": "4975d0ea7ed145819706ec4e3ee4bdd1",
+  "stage": "queued",
+  "status": "queued",
+  "status_url": "/api/projects/4975d0ea7ed145819706ec4e3ee4bdd1",
+  "updated_at": "2026-05-02T04:45:29.357095+00:00"
+}

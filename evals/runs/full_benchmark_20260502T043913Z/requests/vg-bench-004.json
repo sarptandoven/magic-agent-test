@@ -1,0 +1,9 @@
+{
+  "aspect_ratio": "9:16",
+  "duration_seconds": 20,
+  "image_model": "seedream-v4",
+  "prompt": "Make a 20-second vertical educational short explaining how an mRNA vaccine teaches immune cells what to recognize. Use 4 scenes. Keep it accurate, visual, and simple enough for a high-school student. Avoid fear-based imagery and avoid medical claims beyond the basic mechanism.",
+  "resolution": "720p",
+  "scene_count": 4,
+  "video_model": "ltx-2"
+}

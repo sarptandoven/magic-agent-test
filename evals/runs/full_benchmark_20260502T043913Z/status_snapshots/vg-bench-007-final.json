@@ -1,0 +1,470 @@
+{
+  "manifest": {
+    "aspect_ratio": "9:16",
+    "audio_model": "s2-pro",
+    "completed_scene_count": 3,
+    "created_at": "2026-05-02T05:02:53.729836+00:00",
+    "failed_scene_count": 0,
+    "failed_scenes": [],
+    "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/final.mp4",
+    "final_video_url": "/media/6f9962e191ae4f9d9401e68c51811075/final.mp4",
+    "gpt_cost_usd": 0.07446,
+    "image_model": "seedream-v4",
+    "image_resolution": "1k",
+    "image_style_tool": "general",
+    "images": [
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/images/scene_1/output-1.jpg",
+        "prompt": "Vertical 9:16 documentary frame of an early warehouse robot prototype on a cluttered workbench, exposed wiring, aluminum rails, small gripper, laptop off to the side, tools and spare parts nearby, dim industrial shop with concrete floor and shelving, cool overhead fluorescents mixed with soft window light, medium close shot, 35mm lens feel, realistic textures, muted steel blue and safety orange palette, serious focused mood.",
+        "provider_job_id": "cmonvhcfa013q3z0z06w9qwwr",
+        "provider_url": "https://videos.magichour.ai/cmonvhcfa013q3z0z06w9qwwr/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050021Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=92f15fe414faa26dafbdc5d660b691cbaa6e289dcdd59a52cbc8c31aec7701b2f73682331c87bcc2ca9c44f49bb616cac393f245e764d4803adde64fa9ed1b869991e663de6a76058e86fab95a89ef1d7e9b8d35776d4c0c468682c364da0959357ef043e51df469acb07ad7a844aa0526584522f67330a001547e6aeb51b1652bd49cfb9f4e90dc57a1469b82c12dc3d4395af42ed4422df14f003cf04144f40cdee850481bbb350453b696beedd51f68ff5e17540f297504bdf2626c8d29b14085c0c83f0c92f9130890950106601ecce34b4ed57bdd327b9431d1e8ee8739c4bcadf7799b49282fb5eb126e5d467d5d4578630fcfb443bb5c12e858e48d71",
+        "resolution": "1k",
+        "scene_id": "scene_1",
+        "style_tool": "general",
+        "url": "/media/6f9962e191ae4f9d9401e68c51811075/images/scene_1/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/images/scene_2/output-1.jpg",
+        "prompt": "Vertical 9:16 warehouse aisle frame with the same compact robot beside a low conveyor and a single brown cardboard box in its gripper, pallet racks fading behind, taped floor lines, concrete floor, practical overhead lighting, centered full-body composition, 35mm documentary lens, realistic industrial detail, restrained color, tense first-test atmosphere, no text or logos.",
+        "provider_job_id": "cmonvhc65013p3z0zsw9plttd",
+        "provider_url": "https://videos.magichour.ai/cmonvhc65013p3z0zsw9plttd/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050008Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7fafa89bec100372531a635ef987ecd83857e1ef41591907ea700a120892f0bc356ddd45b6915a524704769cc7bac00176ec6aecba1d302dbcb078ade1f686907f5949327c87b162f477cd8655c5f979f13b3a5ce01b0a455d78468f38847bdf3f683fe40779857d8dd9cd09cf17036784d7b8641f9542e3d099f80f58ff75e68b661f488391035bf99cb40f6d76348c6fa4f80dbf5c620cfc3f927562e675f31acacaa10694947923f5c4b0c7750d08200d2086461f36aae46aa6497ebcb282723ef683f95ea196a56dd0d92628daeef5d1189c437c390eba3f486063864ffb841f9fd2d44510e096be4c8451138879b2ce93d84ec980a91e0cefc1657ade35",
+        "resolution": "1k",
+        "scene_id": "scene_2",
+        "style_tool": "general",
+        "url": "/media/6f9962e191ae4f9d9401e68c51811075/images/scene_2/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/images/scene_3/output-1.jpg",
+        "prompt": "Vertical 9:16 candid frame of three startup engineers in simple warehouse attire watching from the aisle edge as the robot finishes in the background, one person with arms folded, one leaning forward, one holding a tablet at waist level, industrial racks and work lights behind, cool practical lighting, shallow depth of field, 50mm lens feel, natural skin tones, subdued relief and concentration, documentary realism.",
+        "provider_job_id": "cmonvhbmv015a580zul8a4vyn",
+        "provider_url": "https://videos.magichour.ai/cmonvhbmv015a580zul8a4vyn/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045956Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8db6286c44487f164d3293270e1bf0efb26b584b1293fa8669852968f96d7b356a4009a83e557ace858b07ea3f820938d914d84e4d145518397aeb009de123ee09f885e896c4292bb3e2d45962387d56c71f6eb3665a24434e0db865aa3db20a7d46c2de2e7440f2390f72576baf33b1da2610af9e31aea7bbc8770e5cdfe7ca29fe75c0ea30053f62d6edab4a71139262024c0bbdd4c81f185254472d3303cd8676baaf0e2f98d66b6f55771b8166b2eebc0df4327c9bc17baa4d8a98e12833413c2bdbfa53fd8010277f1165e380c99ef0e646d372abcaa41e7abb78673a9f762fce1606ee3c2919b790dc60c9fe028463b92d11c09407f3ba8373717c9979",
+        "resolution": "1k",
+        "scene_id": "scene_3",
+        "style_tool": "general",
+        "url": "/media/6f9962e191ae4f9d9401e68c51811075/images/scene_3/output-1.jpg"
+      }
+    ],
+    "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/manifest.json",
+    "narration_stats": {
+      "expression_cue_count": 4,
+      "expression_cues": [
+        "speaks calmly",
+        "emphasis",
+        "tense",
+        "laughs quietly"
+      ],
+      "voiceover_duration_seconds": 12.957,
+      "word_count": 38,
+      "words_per_second": 2.933
+    },
+    "plan": {
+      "aspect_ratio": "9:16",
+      "narration": "[speaks calmly] We got the pilot running this week. [emphasis] The bench prototype is now handling real warehouse picks. [tense] Today it moved one box cleanly, end to end. [laughs quietly] The team watched the first successful run, then went straight back to work.",
+      "resolution": "720p",
+      "scenes": [
+        {
+          "duration_seconds": 5,
+          "id": "scene_1",
+          "image_prompt": "Vertical 9:16 documentary frame of an early warehouse robot prototype on a cluttered workbench, exposed wiring, aluminum rails, small gripper, laptop off to the side, tools and spare parts nearby, dim industrial shop with concrete floor and shelving, cool overhead fluorescents mixed with soft window light, medium close shot, 35mm lens feel, realistic textures, muted steel blue and safety orange palette, serious focused mood.",
+          "narration": "[speaks calmly] We got the pilot running this week. [emphasis] The bench prototype is now handling real warehouse picks.",
+          "video_prompt": "Slow handheld push-in toward the prototype while a small status light blinks once and a loose cable sways slightly."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_2",
+          "image_prompt": "Vertical 9:16 warehouse aisle frame with the same compact robot beside a low conveyor and a single brown cardboard box in its gripper, pallet racks fading behind, taped floor lines, concrete floor, practical overhead lighting, centered full-body composition, 35mm documentary lens, realistic industrial detail, restrained color, tense first-test atmosphere, no text or logos.",
+          "narration": "[tense] Today it moved one box cleanly, end to end.",
+          "video_prompt": "Camera tracks gently sideways as the robot rolls a short distance and carries the single box steadily forward."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_3",
+          "image_prompt": "Vertical 9:16 candid frame of three startup engineers in simple warehouse attire watching from the aisle edge as the robot finishes in the background, one person with arms folded, one leaning forward, one holding a tablet at waist level, industrial racks and work lights behind, cool practical lighting, shallow depth of field, 50mm lens feel, natural skin tones, subdued relief and concentration, documentary realism.",
+          "narration": "[laughs quietly] The team watched the first successful run, then went straight back to work.",
+          "video_prompt": "Subtle locked-off shot with a slight handheld drift as one team member exhales and gives a small nod."
+        }
+      ],
+      "title": "First Warehouse Pilot Running",
+      "visual_bible": "Serious founder-update realism, vertical handheld-documentary language, early-stage robotics startup in a real warehouse/shop environment. Keep the same compact prototype robot across scenes: exposed metal frame, small gripper, practical engineering build. Palette is muted steel blue, gray concrete, safety orange accents, brown cardboard. Lighting is practical overhead industrial with slight window softness; avoid glossy commercial sheen, text, logos, and polished advertising."
+    },
+    "project_id": "6f9962e191ae4f9d9401e68c51811075",
+    "render_status": "complete",
+    "resolution": "720p",
+    "title": "First Warehouse Pilot Running",
+    "token_output": {
+      "cost": {
+        "cached_input_usd": 0.0104,
+        "input_usd": 0.04009,
+        "output_usd": 0.02397,
+        "total_usd": 0.07446
+      },
+      "created_at": "2026-05-02T05:02:56.105237+00:00",
+      "model": "gpt-5.4",
+      "pricing": {
+        "cached_input": 0.25,
+        "currency": "USD",
+        "input": 2.5,
+        "input_multiplier": 1.0,
+        "long_context_applies": false,
+        "long_context_threshold_input_tokens": 272000,
+        "output": 15.0,
+        "output_multiplier": 1.0,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5.4/",
+        "unit": "per_1m_tokens"
+      },
+      "project_id": "6f9962e191ae4f9d9401e68c51811075",
+      "provider": "openai",
+      "scope": "OpenAI GPT/agent planning run only. Magic Hour, Fish Audio, and ffmpeg costs are not included.",
+      "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/token_output.json",
+      "usage": {
+        "cached_input_tokens": 41600,
+        "input_tokens": 57636,
+        "input_tokens_details": [
+          {
+            "cached_tokens": 41600
+          }
+        ],
+        "output_tokens": 1598,
+        "output_tokens_details": [
+          {
+            "reasoning_tokens": 678
+          }
+        ],
+        "reasoning_tokens": 678,
+        "request_usage_entries": [
+          {
+            "input_tokens": 5525,
+            "input_tokens_details": {
+              "cached_tokens": 0
+            },
+            "output_tokens": 755,
+            "output_tokens_details": {
+              "reasoning_tokens": 660
+            },
+            "total_tokens": 6280
+          },
+          {
+            "input_tokens": 6277,
+            "input_tokens_details": {
+              "cached_tokens": 6016
+            },
+            "output_tokens": 615,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 6892
+          },
+          {
+            "input_tokens": 7584,
+            "input_tokens_details": {
+              "cached_tokens": 6784
+            },
+            "output_tokens": 71,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 7655
+          },
+          {
+            "input_tokens": 9785,
+            "input_tokens_details": {
+              "cached_tokens": 7552
+            },
+            "output_tokens": 39,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 9824
+          },
+          {
+            "input_tokens": 11667,
+            "input_tokens_details": {
+              "cached_tokens": 9728
+            },
+            "output_tokens": 38,
+            "output_tokens_details": {
+              "reasoning_tokens": 18
+            },
+            "total_tokens": 11705
+          },
+          {
+            "input_tokens": 16798,
+            "input_tokens_details": {
+              "cached_tokens": 11520
+            },
+            "output_tokens": 80,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 16878
+          }
+        ],
+        "requests": 6,
+        "tool_search_tokens": 0,
+        "total_tokens": 59234,
+        "uncached_input_tokens": 16036
+      }
+    },
+    "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/token_output.json",
+    "video_audio": false,
+    "video_model": "ltx-2",
+    "video_resolution": "720p",
+    "videos": [
+      {
+        "audio": false,
+        "duration_seconds": 5,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/videos/scene_1/output.mp4",
+        "prompt": "Slow handheld push-in toward the prototype while a small status light blinks once and a loose cable sways slightly.",
+        "provider_job_id": "cmonvi7oc00q42e0yp602bxwr",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvi7oc00q42e0yp602bxwr/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050139Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0645d2c00a5ad1c032c08957d035bff90d949d1d78a364abd0610ea484b50927836616a78171928560fe659aaff6de3d92140601760750e26c913c6f6688fd34debb067b507b91b7ee9400b3ab4b457644251f702d8af1646bb4e8681750cdea38abd3a3695daa4e1b60792ea76d267e5a8c2beb24075730ba322982566ffa2a3efd0b223acc12d1b714a1d308bfb3915d112d865b568a8c83b2ba84f1855bbee6da29a55ed0749a1ccd14ef3fb25713b98585f75e186ddd622243a6e087043956f143263f7a6f0c8d6c5f2cff72eee4383bc25a356bd9cde3fd3b064b7f013f68e6589d6ed4c5efbd0faecbb5c6f7bafd37270c7975c53e192f67e033fc4b64",
+        "resolution": "720p",
+        "scene_id": "scene_1",
+        "url": "/media/6f9962e191ae4f9d9401e68c51811075/videos/scene_1/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 5,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/videos/scene_2/output.mp4",
+        "prompt": "Camera tracks gently sideways as the robot rolls a short distance and carries the single box steadily forward.",
+        "provider_job_id": "cmonvi7d200q22e0ylkzu9x6m",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvi7d200q22e0ylkzu9x6m/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050138Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=17b876cbda78ff8c13bac914bdc7cd08fd3c5e57da551b01c9d5f09f5977982c30e5d0f81b663bd204952a8d3350b80eb1c476c94359dcb08f0d5f1e4912278449188e0cd955bfdb8ffe1ed3a60d286eb7b93476bf725c43afe2301309c99a59336a3a42bce910b35c0ab48ef2dfd8a1451bdbfe09145c33cb495ff71d6cebff203326a68e80229fbc70d8b6ac17003cdaa5be986a192a65876314bf97b0b36a74c0feb44d6621a28b0861e149a115f45206349625c89f05253717ffa44c5dce2aec8587e88c30c427768054085fb0342799ee47739a3417c9e8c70db57ac9f82afe7ce47bdb76d154e0fbdc85aba77d5ef40f7bdc1188aca716c87cc16f8c80",
+        "resolution": "720p",
+        "scene_id": "scene_2",
+        "url": "/media/6f9962e191ae4f9d9401e68c51811075/videos/scene_2/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 5,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/videos/scene_3/output.mp4",
+        "prompt": "Subtle locked-off shot with a slight handheld drift as one team member exhales and gives a small nod.",
+        "provider_job_id": "cmonvi87h015q580zwjip4rra",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvi87h015q580zwjip4rra/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050138Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=9fe9efca9cf0fd13e30d5765c90c838a3bb71dd9badca245505730233ea4f26393f083589546fc4026d206c2b3cd0df9bc4bf2f78b979ec41edb42959b6904b2ecd904df3d685e761a55a54ea1034f1026752b433e31b0cc3397178c7f21a711a0be558b458f1c626f2b29258d4a8fcb5ab3866a43df835fcb281ab0f8bf7a508bf9006db915547b4f3999e160ca5341d04ec86b797d69d0cf3a1e56c4069db50abd62c2144b421774e2be6c49a5d5b1ae75529dde396e27de2eab3107696e888f044758e2aa5f3606670a0afa32807558819d9d613070b7047d88a42c1070c7dcd5ec84dcc7cf3df6b6fa2ff96428a268b13b73ee99ee39e49181927c5ce768",
+        "resolution": "720p",
+        "scene_id": "scene_3",
+        "url": "/media/6f9962e191ae4f9d9401e68c51811075/videos/scene_3/output.mp4"
+      }
+    ],
+    "voiceover": {
+      "duration_seconds": 12.957,
+      "model": "s2-pro",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/voiceover/voiceover.mp3",
+      "target_duration_seconds": 15,
+      "url": "/media/6f9962e191ae4f9d9401e68c51811075/voiceover/voiceover.mp3"
+    }
+  },
+  "message": "Video is ready.",
+  "progress": 100,
+  "project_id": "6f9962e191ae4f9d9401e68c51811075",
+  "project_state": {
+    "created_at": "2026-05-02T04:59:01.219503+00:00",
+    "current_plan": {
+      "narration": "[speaks calmly] We got the pilot running this week. [emphasis] The bench prototype is now handling real warehouse picks. [tense] Today it moved one box cleanly, end to end. [laughs quietly] The team watched the first successful run, then went straight back to work.",
+      "scenes": [
+        {
+          "duration_seconds": 5,
+          "id": "scene_1",
+          "image_prompt": "Vertical 9:16 documentary frame of an early warehouse robot prototype on a cluttered workbench, exposed wiring, aluminum rails, small gripper, laptop off to the side, tools and spare parts nearby, dim industrial shop with concrete floor and shelving, cool overhead fluorescents mixed with soft window light, medium close shot, 35mm lens feel, realistic textures, muted steel blue and safety orange palette, serious focused mood.",
+          "narration": "[speaks calmly] We got the pilot running this week. [emphasis] The bench prototype is now handling real warehouse picks.",
+          "video_prompt": "Slow handheld push-in toward the prototype while a small status light blinks once and a loose cable sways slightly."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_2",
+          "image_prompt": "Vertical 9:16 warehouse aisle frame with the same compact robot beside a low conveyor and a single brown cardboard box in its gripper, pallet racks fading behind, taped floor lines, concrete floor, practical overhead lighting, centered full-body composition, 35mm documentary lens, realistic industrial detail, restrained color, tense first-test atmosphere, no text or logos.",
+          "narration": "[tense] Today it moved one box cleanly, end to end.",
+          "video_prompt": "Camera tracks gently sideways as the robot rolls a short distance and carries the single box steadily forward."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_3",
+          "image_prompt": "Vertical 9:16 candid frame of three startup engineers in simple warehouse attire watching from the aisle edge as the robot finishes in the background, one person with arms folded, one leaning forward, one holding a tablet at waist level, industrial racks and work lights behind, cool practical lighting, shallow depth of field, 50mm lens feel, natural skin tones, subdued relief and concentration, documentary realism.",
+          "narration": "[laughs quietly] The team watched the first successful run, then went straight back to work.",
+          "video_prompt": "Subtle locked-off shot with a slight handheld drift as one team member exhales and gives a small nod."
+        }
+      ],
+      "title": "First Warehouse Pilot Running",
+      "visual_bible": "Serious founder-update realism, vertical handheld-documentary language, early-stage robotics startup in a real warehouse/shop environment. Keep the same compact prototype robot across scenes: exposed metal frame, small gripper, practical engineering build. Palette is muted steel blue, gray concrete, safety orange accents, brown cardboard. Lighting is practical overhead industrial with slight window softness; avoid glossy commercial sheen, text, logos, and polished advertising."
+    },
+    "decisions": [
+      {
+        "created_at": "2026-05-02T04:59:22.162440+00:00",
+        "decision": "Use exactly 3 vertical documentary-style scenes at 5 seconds each with restrained industrial realism.",
+        "rationale": "Prompt constraints are authoritative: 14-second final runtime after two crossfades requires about 15 seconds of scene media, so three 5-second scenes fit cleanly. Visual direction prioritizes serious founder-update credibility over glossy commercial polish.",
+        "tool": "record_project_decision"
+      },
+      {
+        "created_at": "2026-05-02T04:59:38.179247+00:00",
+        "decision": "Drafted plan 'First Warehouse Pilot Running' with 3 scene(s).",
+        "metadata": {
+          "scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3"
+          ]
+        },
+        "tool": "draft_video_plan"
+      },
+      {
+        "created_at": "2026-05-02T04:59:44.575851+00:00",
+        "decision": "Generated voiceover for the saved narration.",
+        "metadata": {
+          "target_duration_seconds": 15
+        },
+        "tool": "generate_voiceover"
+      },
+      {
+        "created_at": "2026-05-02T05:00:18.798354+00:00",
+        "decision": "Generated 3 scene image(s).",
+        "metadata": {
+          "failed_scene_ids": [],
+          "requested_scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3"
+          ]
+        },
+        "tool": "generate_scene_images"
+      },
+      {
+        "created_at": "2026-05-02T05:02:47.293953+00:00",
+        "decision": "Animated 3 scene video(s).",
+        "metadata": {
+          "failed_scene_ids": [],
+          "requested_scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3"
+          ]
+        },
+        "tool": "animate_scene_videos"
+      }
+    ],
+    "failures": [],
+    "messages": [],
+    "project_id": "6f9962e191ae4f9d9401e68c51811075",
+    "provider_settings": {
+      "aspect_ratio": "9:16",
+      "audio_format": "mp3",
+      "audio_model": "s2-pro",
+      "image_model": "seedream-v4",
+      "image_resolution": "1k",
+      "image_style_tool": "general",
+      "resolution": "720p",
+      "video_audio": false,
+      "video_model": "ltx-2",
+      "video_resolution": "720p"
+    },
+    "scene_assets": {
+      "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/final.mp4",
+      "images": [
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/images/scene_1/output-1.jpg",
+          "prompt": "Vertical 9:16 documentary frame of an early warehouse robot prototype on a cluttered workbench, exposed wiring, aluminum rails, small gripper, laptop off to the side, tools and spare parts nearby, dim industrial shop with concrete floor and shelving, cool overhead fluorescents mixed with soft window light, medium close shot, 35mm lens feel, realistic textures, muted steel blue and safety orange palette, serious focused mood.",
+          "provider_job_id": "cmonvhcfa013q3z0z06w9qwwr",
+          "provider_url": "https://videos.magichour.ai/cmonvhcfa013q3z0z06w9qwwr/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050021Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=92f15fe414faa26dafbdc5d660b691cbaa6e289dcdd59a52cbc8c31aec7701b2f73682331c87bcc2ca9c44f49bb616cac393f245e764d4803adde64fa9ed1b869991e663de6a76058e86fab95a89ef1d7e9b8d35776d4c0c468682c364da0959357ef043e51df469acb07ad7a844aa0526584522f67330a001547e6aeb51b1652bd49cfb9f4e90dc57a1469b82c12dc3d4395af42ed4422df14f003cf04144f40cdee850481bbb350453b696beedd51f68ff5e17540f297504bdf2626c8d29b14085c0c83f0c92f9130890950106601ecce34b4ed57bdd327b9431d1e8ee8739c4bcadf7799b49282fb5eb126e5d467d5d4578630fcfb443bb5c12e858e48d71",
+          "resolution": "1k",
+          "scene_id": "scene_1",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/images/scene_2/output-1.jpg",
+          "prompt": "Vertical 9:16 warehouse aisle frame with the same compact robot beside a low conveyor and a single brown cardboard box in its gripper, pallet racks fading behind, taped floor lines, concrete floor, practical overhead lighting, centered full-body composition, 35mm documentary lens, realistic industrial detail, restrained color, tense first-test atmosphere, no text or logos.",
+          "provider_job_id": "cmonvhc65013p3z0zsw9plttd",
+          "provider_url": "https://videos.magichour.ai/cmonvhc65013p3z0zsw9plttd/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050008Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=7fafa89bec100372531a635ef987ecd83857e1ef41591907ea700a120892f0bc356ddd45b6915a524704769cc7bac00176ec6aecba1d302dbcb078ade1f686907f5949327c87b162f477cd8655c5f979f13b3a5ce01b0a455d78468f38847bdf3f683fe40779857d8dd9cd09cf17036784d7b8641f9542e3d099f80f58ff75e68b661f488391035bf99cb40f6d76348c6fa4f80dbf5c620cfc3f927562e675f31acacaa10694947923f5c4b0c7750d08200d2086461f36aae46aa6497ebcb282723ef683f95ea196a56dd0d92628daeef5d1189c437c390eba3f486063864ffb841f9fd2d44510e096be4c8451138879b2ce93d84ec980a91e0cefc1657ade35",
+          "resolution": "1k",
+          "scene_id": "scene_2",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/images/scene_3/output-1.jpg",
+          "prompt": "Vertical 9:16 candid frame of three startup engineers in simple warehouse attire watching from the aisle edge as the robot finishes in the background, one person with arms folded, one leaning forward, one holding a tablet at waist level, industrial racks and work lights behind, cool practical lighting, shallow depth of field, 50mm lens feel, natural skin tones, subdued relief and concentration, documentary realism.",
+          "provider_job_id": "cmonvhbmv015a580zul8a4vyn",
+          "provider_url": "https://videos.magichour.ai/cmonvhbmv015a580zul8a4vyn/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045956Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8db6286c44487f164d3293270e1bf0efb26b584b1293fa8669852968f96d7b356a4009a83e557ace858b07ea3f820938d914d84e4d145518397aeb009de123ee09f885e896c4292bb3e2d45962387d56c71f6eb3665a24434e0db865aa3db20a7d46c2de2e7440f2390f72576baf33b1da2610af9e31aea7bbc8770e5cdfe7ca29fe75c0ea30053f62d6edab4a71139262024c0bbdd4c81f185254472d3303cd8676baaf0e2f98d66b6f55771b8166b2eebc0df4327c9bc17baa4d8a98e12833413c2bdbfa53fd8010277f1165e380c99ef0e646d372abcaa41e7abb78673a9f762fce1606ee3c2919b790dc60c9fe028463b92d11c09407f3ba8373717c9979",
+          "resolution": "1k",
+          "scene_id": "scene_3",
+          "style_tool": "general"
+        }
+      ],
+      "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/manifest.json",
+      "videos": [
+        {
+          "audio": false,
+          "duration_seconds": 5,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/videos/scene_1/output.mp4",
+          "prompt": "Slow handheld push-in toward the prototype while a small status light blinks once and a loose cable sways slightly.",
+          "provider_job_id": "cmonvi7oc00q42e0yp602bxwr",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvi7oc00q42e0yp602bxwr/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050139Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=0645d2c00a5ad1c032c08957d035bff90d949d1d78a364abd0610ea484b50927836616a78171928560fe659aaff6de3d92140601760750e26c913c6f6688fd34debb067b507b91b7ee9400b3ab4b457644251f702d8af1646bb4e8681750cdea38abd3a3695daa4e1b60792ea76d267e5a8c2beb24075730ba322982566ffa2a3efd0b223acc12d1b714a1d308bfb3915d112d865b568a8c83b2ba84f1855bbee6da29a55ed0749a1ccd14ef3fb25713b98585f75e186ddd622243a6e087043956f143263f7a6f0c8d6c5f2cff72eee4383bc25a356bd9cde3fd3b064b7f013f68e6589d6ed4c5efbd0faecbb5c6f7bafd37270c7975c53e192f67e033fc4b64",
+          "resolution": "720p",
+          "scene_id": "scene_1"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 5,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/videos/scene_2/output.mp4",
+          "prompt": "Camera tracks gently sideways as the robot rolls a short distance and carries the single box steadily forward.",
+          "provider_job_id": "cmonvi7d200q22e0ylkzu9x6m",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvi7d200q22e0ylkzu9x6m/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050138Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=17b876cbda78ff8c13bac914bdc7cd08fd3c5e57da551b01c9d5f09f5977982c30e5d0f81b663bd204952a8d3350b80eb1c476c94359dcb08f0d5f1e4912278449188e0cd955bfdb8ffe1ed3a60d286eb7b93476bf725c43afe2301309c99a59336a3a42bce910b35c0ab48ef2dfd8a1451bdbfe09145c33cb495ff71d6cebff203326a68e80229fbc70d8b6ac17003cdaa5be986a192a65876314bf97b0b36a74c0feb44d6621a28b0861e149a115f45206349625c89f05253717ffa44c5dce2aec8587e88c30c427768054085fb0342799ee47739a3417c9e8c70db57ac9f82afe7ce47bdb76d154e0fbdc85aba77d5ef40f7bdc1188aca716c87cc16f8c80",
+          "resolution": "720p",
+          "scene_id": "scene_2"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 5,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/videos/scene_3/output.mp4",
+          "prompt": "Subtle locked-off shot with a slight handheld drift as one team member exhales and gives a small nod.",
+          "provider_job_id": "cmonvi87h015q580zwjip4rra",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvi87h015q580zwjip4rra/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050138Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=9fe9efca9cf0fd13e30d5765c90c838a3bb71dd9badca245505730233ea4f26393f083589546fc4026d206c2b3cd0df9bc4bf2f78b979ec41edb42959b6904b2ecd904df3d685e761a55a54ea1034f1026752b433e31b0cc3397178c7f21a711a0be558b458f1c626f2b29258d4a8fcb5ab3866a43df835fcb281ab0f8bf7a508bf9006db915547b4f3999e160ca5341d04ec86b797d69d0cf3a1e56c4069db50abd62c2144b421774e2be6c49a5d5b1ae75529dde396e27de2eab3107696e888f044758e2aa5f3606670a0afa32807558819d9d613070b7047d88a42c1070c7dcd5ec84dcc7cf3df6b6fa2ff96428a268b13b73ee99ee39e49181927c5ce768",
+          "resolution": "720p",
+          "scene_id": "scene_3"
+        }
+      ],
+      "voiceover": {
+        "duration_seconds": 12.957,
+        "model": "s2-pro",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/6f9962e191ae4f9d9401e68c51811075/voiceover/voiceover.mp3",
+        "target_duration_seconds": 15
+      }
+    },
+    "status": {
+      "message": "Video is ready.",
+      "progress": 100,
+      "stage": "complete",
+      "status": "succeeded"
+    },
+    "updated_at": "2026-05-02T05:02:56.106881+00:00",
+    "user_preferences": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 14,
+      "image_model": "seedream-v4",
+      "image_resolution": null,
+      "prompt": "Create a 14-second vertical founder-update style video for a robotics startup that just got its first warehouse pilot running. Use 3 scenes. It should feel like a serious progress update, not a glossy commercial: prototype on a workbench, robot moving one box, team watching the first successful run.",
+      "resolution": "720p",
+      "scene_count": 3,
+      "video_model": "ltx-2",
+      "video_resolution": null
+    },
+    "version": 1
+  },
+  "stage": "complete",
+  "status": "succeeded",
+  "status_url": "/api/projects/6f9962e191ae4f9d9401e68c51811075",
+  "updated_at": "2026-05-02T05:02:56.106374+00:00"
+}

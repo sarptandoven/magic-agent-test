@@ -1,0 +1,9 @@
+{
+  "aspect_ratio": "9:16",
+  "duration_seconds": 18,
+  "image_model": "seedream-v4",
+  "prompt": "Create an 18-second cinematic micro-story about a night-shift courier crossing a rain-soaked city during a blackout to deliver a small glowing device. Use 5 scenes. The mood is tense but hopeful. Keep one consistent courier, one consistent package, and one clear story arc.",
+  "resolution": "720p",
+  "scene_count": 5,
+  "video_model": "ltx-2"
+}

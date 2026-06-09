@@ -1,0 +1,550 @@
+{
+  "manifest": {
+    "aspect_ratio": "9:16",
+    "audio_model": "s2-pro",
+    "completed_scene_count": 4,
+    "created_at": "2026-05-02T05:11:31.366884+00:00",
+    "failed_scene_count": 0,
+    "failed_scenes": [],
+    "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/final.mp4",
+    "final_video_url": "/media/d795a1768eb04831981d0e02fba257b0/final.mp4",
+    "gpt_cost_usd": 0.084393,
+    "image_model": "seedream-v4",
+    "image_resolution": "1k",
+    "image_style_tool": "ai-photo-generator",
+    "images": [
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/images/scene_1/output-1.jpg",
+        "prompt": "Vertical phone-video realism. A beginner woman in her late 20s kneels beside a yoga mat in a small tidy apartment bedroom, placing simple training shoes neatly on the floor. Soft early morning window light, muted warm neutrals and dusty blue, medium close shot from waist level, natural texture, candid cinematic lifestyle mood, no text or logos.",
+        "provider_job_id": "cmonvtg22017r3z0z7dnlww7p",
+        "provider_url": "https://videos.magichour.ai/cmonvtg22017r3z0z7dnlww7p/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050922Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=66bef0a0319ab7dab0dae10b8ef4c056c56f29e0c36d1ff5cd2d04c853f3463d953840039aab9e38f297f7a4436f26fcd1a75dd3dc9b68523e2328294f50f967ed2e4a463f2d71f1d5de6e5858de08135d20f6fae6bb96646547301ff87fd70e7dc24623d1abfd5d6cc793161239eb34c7f757e5028eb64862d9ba6f44dcb7467622705277f83927537f705f7885d145308241f5cbf49e3eddf40462ecfe1201693a5eef9eb1f3be7cb7afd662b1b6e5aa76c3add1705b5e333a85f1e180c1f3236d9ce9dc586bd864bd4aa4a93ececaaef5cf1ecba960250c044a10995801f5c7888026b89454273a973fbc5483589e351316795de894b8451335021d56cc12",
+        "resolution": "1k",
+        "scene_id": "scene_1",
+        "style_tool": "ai-photo-generator",
+        "url": "/media/d795a1768eb04831981d0e02fba257b0/images/scene_1/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/images/scene_2/output-1.jpg",
+        "prompt": "Same beginner in the same apartment corner, standing on the mat at the bottom of a simple bodyweight squat, arms slightly forward for balance. Soft morning light, realistic athletic posture, vertical full-body framing, 35mm lens feel, clean home background, muted warm palette, grounded encouraging mood, no text or logos.",
+        "provider_job_id": "cmonvtg1r002r5j0z3sn4mzn4",
+        "provider_url": "https://videos.magichour.ai/cmonvtg1r002r5j0z3sn4mzn4/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050937Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2985ac1d99700541535d166dc0edf3107427ca569e369644f453a443d4c2226256e33c78d381ecc8c8e4eb8d798c280684bc31248f323ab34375d55cca372b93c792477c5182ca0397798780b26f88ca1cfa22babbca8c96d499cb9b36088097ecdd19d2415f0b1050575f2c7414edb2b679095d0dd5341e653dd4e30b8e4f700781cfff912f802fa66334a6a74c07cd05402c03d679535d6199f0d751be2a0939b5687f3ce230f6ad80592ed83810350469d21acd6f02205da5c43e529de2b458702aadb387a8ebc0764b1bd8497eece5ebf4796c3ede7c3b40ef99013b66c99870928cb1e7d9ba6d08b58d60428feb0a9efe5182dc7416aa6ef654bec6687d",
+        "resolution": "1k",
+        "scene_id": "scene_2",
+        "style_tool": "ai-photo-generator",
+        "url": "/media/d795a1768eb04831981d0e02fba257b0/images/scene_2/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/images/scene_3/output-1.jpg",
+        "prompt": "The beginner sits on the edge of her bed, holding a smartphone in one hand and lightly tapping a habit checklist with the other thumb, screen angled away with no readable text. Morning light across her face, close-up vertical framing, soft shadows, realistic skin texture, quiet satisfaction, same palette and wardrobe continuity.",
+        "provider_job_id": "cmonvtg2i00vb2e0y0ofvz539",
+        "provider_url": "https://videos.magichour.ai/cmonvtg2i00vb2e0y0ofvz539/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050951Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=32fcfdbe189a26861956df299776fe833098e0e2ba85c36454f1e36fb932042228b742ea3e59d36791806f3b555af16139d77979ee1e04a85dcdcfd6847e31bdeab841ad4096ae715922c283493f159db05d44559cd4cff9951201dbaa147fc63a1bea411457f728d4589f62bbc6e4e391a3cc7ec705d3f05a75b012c958a7f9c044e53ee00617f1de207f9bbfc6a97e0da5a63070a355946dc6d051d83a29e1d17681e50eb1cbcb755b94b1204bbc578293e5071ae0a3d6ed86b28ae5212aee80ed8864d01e0a2908b7e9020539725f7754b1fb82f9a4a4e5ba13196527d09ff75a29a1490dbf8cf206c71cce5fc9eb27f866df42079dd728a9917bbb1ea0e0",
+        "resolution": "1k",
+        "scene_id": "scene_3",
+        "style_tool": "ai-photo-generator",
+        "url": "/media/d795a1768eb04831981d0e02fba257b0/images/scene_3/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/images/scene_4/output-1.jpg",
+        "prompt": "Next morning in the same apartment entryway, the same beginner now casually dressed for exercise, stepping back toward the laid-out shoes and mat with calmer confidence. Fresh morning window light, vertical medium shot, matching neutral palette and realistic styling, subtle sense of routine, cinematic lifestyle photography, no text or logos.",
+        "provider_job_id": "cmonvtgae00vc2e0ymj303lvc",
+        "provider_url": "https://videos.magichour.ai/cmonvtgae00vc2e0ymj303lvc/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051004Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=42f7842c09dd764761da5c5e53ed9b89086fe0d040158761e6739e00c2413ab50d56658b0656797436b5c219bac84d6297563060cfb19a831e9393222c31099035e97e8f841f0f6fb8b7e12ed7543bdef3eb2f611e60e61d977ab5673d1305c7bd8fd836dd05f65c78b30e4f2ec4ce16fb2678b4df99ca21536a92b81f99b35f0421849cddf5954fb47e67abe43ae24d4186cd687a86c3e4b36a5b3f48b94e8da602b7039c7265f343156b107b5a969bde6967fa299b1beeb53dadfcb7b4a87b7d8de0ae02e130fc5e5824b882e80dd29473985cab69d8805660a5a602030cca34aa22f57ba68aeb5cc6a6f55c84a23a79925e9c5561332d5fbf28df7cf17031",
+        "resolution": "1k",
+        "scene_id": "scene_4",
+        "style_tool": "ai-photo-generator",
+        "url": "/media/d795a1768eb04831981d0e02fba257b0/images/scene_4/output-1.jpg"
+      }
+    ],
+    "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/manifest.json",
+    "narration_stats": {
+      "expression_cue_count": 4,
+      "expression_cues": [
+        "speaks calmly",
+        "emphasis",
+        "speaks calmly",
+        "curious"
+      ],
+      "voiceover_duration_seconds": 12.539,
+      "word_count": 38,
+      "words_per_second": 3.031
+    },
+    "plan": {
+      "aspect_ratio": "9:16",
+      "narration": "[speaks calmly] Start smaller than you think. Set out your shoes, and that's a win. [emphasis] One steady squat, just to begin. [speaks calmly] Check it off. [curious] Tomorrow, you do the same easy start, and suddenly training feels like something you can keep.",
+      "resolution": "720p",
+      "scenes": [
+        {
+          "duration_seconds": 4,
+          "id": "scene_1",
+          "image_prompt": "Vertical phone-video realism. A beginner woman in her late 20s kneels beside a yoga mat in a small tidy apartment bedroom, placing simple training shoes neatly on the floor. Soft early morning window light, muted warm neutrals and dusty blue, medium close shot from waist level, natural texture, candid cinematic lifestyle mood, no text or logos.",
+          "narration": "[speaks calmly] Start smaller than you think. Set out your shoes, and that's a win.",
+          "video_prompt": "Slow handheld push-in as she gently slides the shoes into place and pauses, looking at them with a small relieved breath."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_2",
+          "image_prompt": "Same beginner in the same apartment corner, standing on the mat at the bottom of a simple bodyweight squat, arms slightly forward for balance. Soft morning light, realistic athletic posture, vertical full-body framing, 35mm lens feel, clean home background, muted warm palette, grounded encouraging mood, no text or logos.",
+          "narration": "[emphasis] One steady squat, just to begin.",
+          "video_prompt": "Subtle locked-off camera drift while she rises once from the squat to a relaxed standing position."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_3",
+          "image_prompt": "The beginner sits on the edge of her bed, holding a smartphone in one hand and lightly tapping a habit checklist with the other thumb, screen angled away with no readable text. Morning light across her face, close-up vertical framing, soft shadows, realistic skin texture, quiet satisfaction, same palette and wardrobe continuity.",
+          "narration": "[speaks calmly] Check it off.",
+          "video_prompt": "Gentle over-shoulder push-in as her thumb taps once and her face softens into a modest smile."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_4",
+          "image_prompt": "Next morning in the same apartment entryway, the same beginner now casually dressed for exercise, stepping back toward the laid-out shoes and mat with calmer confidence. Fresh morning window light, vertical medium shot, matching neutral palette and realistic styling, subtle sense of routine, cinematic lifestyle photography, no text or logos.",
+          "narration": "[curious] Tomorrow, you do the same easy start, and suddenly training feels like something you can keep.",
+          "video_prompt": "Slow lateral camera move as she steps into frame toward the shoes and reaches down slightly, ready to begin again."
+        }
+      ],
+      "title": "Small Start, Strong Return",
+      "visual_bible": "Realistic beginner woman, late 20s, dark hair in a loose bun, simple charcoal leggings and soft blue tee across scenes. Small tidy apartment with bedroom/exercise corner continuity, yoga mat, plain training shoes, smartphone with unreadable screen. Soft morning natural light, warm neutral palette with dusty blue accents, intimate vertical 35mm lifestyle cinematography, calm encouraging tone, no text, no logos, no."
+    },
+    "project_id": "d795a1768eb04831981d0e02fba257b0",
+    "render_status": "complete",
+    "resolution": "720p",
+    "title": "Small Start, Strong Return",
+    "token_output": {
+      "cost": {
+        "cached_input_usd": 0.011968,
+        "input_usd": 0.045755,
+        "output_usd": 0.02667,
+        "total_usd": 0.084393
+      },
+      "created_at": "2026-05-02T05:11:34.372184+00:00",
+      "model": "gpt-5.4",
+      "pricing": {
+        "cached_input": 0.25,
+        "currency": "USD",
+        "input": 2.5,
+        "input_multiplier": 1.0,
+        "long_context_applies": false,
+        "long_context_threshold_input_tokens": 272000,
+        "output": 15.0,
+        "output_multiplier": 1.0,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5.4/",
+        "unit": "per_1m_tokens"
+      },
+      "project_id": "d795a1768eb04831981d0e02fba257b0",
+      "provider": "openai",
+      "scope": "OpenAI GPT/agent planning run only. Magic Hour, Fish Audio, and ffmpeg costs are not included.",
+      "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/token_output.json",
+      "usage": {
+        "cached_input_tokens": 47872,
+        "input_tokens": 66174,
+        "input_tokens_details": [
+          {
+            "cached_tokens": 47872
+          }
+        ],
+        "output_tokens": 1778,
+        "output_tokens_details": [
+          {
+            "reasoning_tokens": 631
+          }
+        ],
+        "reasoning_tokens": 631,
+        "request_usage_entries": [
+          {
+            "input_tokens": 5020,
+            "input_tokens_details": {
+              "cached_tokens": 0
+            },
+            "output_tokens": 723,
+            "output_tokens_details": {
+              "reasoning_tokens": 622
+            },
+            "total_tokens": 5743
+          },
+          {
+            "input_tokens": 5759,
+            "input_tokens_details": {
+              "cached_tokens": 5504
+            },
+            "output_tokens": 73,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 5832
+          },
+          {
+            "input_tokens": 5977,
+            "input_tokens_details": {
+              "cached_tokens": 5760
+            },
+            "output_tokens": 687,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 6664
+          },
+          {
+            "input_tokens": 7433,
+            "input_tokens_details": {
+              "cached_tokens": 6528
+            },
+            "output_tokens": 73,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 7506
+          },
+          {
+            "input_tokens": 10230,
+            "input_tokens_details": {
+              "cached_tokens": 7424
+            },
+            "output_tokens": 39,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 10269
+          },
+          {
+            "input_tokens": 12693,
+            "input_tokens_details": {
+              "cached_tokens": 10112
+            },
+            "output_tokens": 29,
+            "output_tokens_details": {
+              "reasoning_tokens": 9
+            },
+            "total_tokens": 12722
+          },
+          {
+            "input_tokens": 19062,
+            "input_tokens_details": {
+              "cached_tokens": 12544
+            },
+            "output_tokens": 154,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 19216
+          }
+        ],
+        "requests": 7,
+        "tool_search_tokens": 0,
+        "total_tokens": 67952,
+        "uncached_input_tokens": 18302
+      }
+    },
+    "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/token_output.json",
+    "video_audio": false,
+    "video_model": "ltx-2",
+    "video_resolution": "720p",
+    "videos": [
+      {
+        "audio": false,
+        "duration_seconds": 4,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/videos/scene_1/output.mp4",
+        "prompt": "Slow handheld push-in as she gently slides the shoes into place and pauses, looking at them with a small relieved breath.",
+        "provider_job_id": "cmonvuovw016q600ziasynszn",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvuovw016q600ziasynszn/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051105Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1a6dbbde486ea37bb5bc6737b32f4cfdcb383677854ab328c7401a3e3817c277b92e48fa9191bd70708efea1c71c1954e365f8b461fcd217683da14cf861b3095ebcbdd4adf458c3a166abb811a74b2c2fe83f2ff4442e327c8dc553adcfec76acc584ff5acdb09b140d485cbb19ab87c310482704f7853146fa2d399756db9f203398685948e415e54cc0d71aaf14d813faf80580ddf97f85b935559e1d525dc2cd7f9440bd17f47b8308f147b4aa7f3fdab94e971b156e6450543440f4720284ce3b304098fdfd9ca5b330a2d2a7848c7feeb6ff5f70779888ab59d57c45403f59f9bafc7b0aacc177e0a625835021f2ce21a7e4d0360da386af245efb7071",
+        "resolution": "720p",
+        "scene_id": "scene_1",
+        "url": "/media/d795a1768eb04831981d0e02fba257b0/videos/scene_1/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 4,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/videos/scene_2/output.mp4",
+        "prompt": "Subtle locked-off camera drift while she rises once from the squat to a relaxed standing position.",
+        "provider_job_id": "cmonvup8i01863z0zfdw9368m",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvup8i01863z0zfdw9368m/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051122Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4925f689304537906eff80f0e92b262474b74a43d8f6995548779e385645cfdd99d16ae0fcdd9b81ae4ec53c2ea0a02e336ccb4e1915a53de6891405cfc4329bb08125ec23fd51168d8d1807c9e5e5684a8873180940f781e05cf764dcaca12d5a0970d80bbc88c60ac8b28d61084d713a1dc783c9f873738416cfb7d1a1b1434ee59c041cf92b649871cf795afbb13a04c06659e0b90798d61da6eb3de434d863c5c4ea34185724af02f5d3ac0320c31bf95271ddc7683b93fc8c40503c539650bd29e61e2827a76efcb9982fa79901d770303e4bc5a442757e54c44dc7e78f8a8deb84744cd0c4f7141159214f3ccc349fac736ba31fdff435a005761f57d3",
+        "resolution": "720p",
+        "scene_id": "scene_2",
+        "url": "/media/d795a1768eb04831981d0e02fba257b0/videos/scene_2/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 4,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/videos/scene_3/output.mp4",
+        "prompt": "Gentle over-shoulder push-in as her thumb taps once and her face softens into a modest smile.",
+        "provider_job_id": "cmonvupfj019t580zxdvuyr7k",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvupfj019t580zxdvuyr7k/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051125Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8870d15d0ff180790ebd5695dd3c0c2b8e393b65f9ff77d7e149e4aaa8e60450cf557dd3fde43e9658bf9c5b6efe2b524c0bc7936f8bf61cbe373a533c92244b4ecfda63002fb5fffcb335fff3eab213b311175169cd6a3d1fa0b04f03781b1a8e01ab00e14b1fb99993d939ec3ab8689d812e26a8e50cdd1d0d5054c38cfe0f03ff9a3c1fcae8b451a1f017841e00c3923c9122fb1eedebacd1b6cb0e7a81d1b1192180a678a1936148b7002d12621c6bf13739e8df5be6f1e4318f37d14de445983c67715475ee7db6b79ef595d82fe08bda747f4e1718c683ac7dc5d992e6daaa6811ee9e1de059e92b9ea99ced8a2e435249c776a201ffdb65bd555f37c5",
+        "resolution": "720p",
+        "scene_id": "scene_3",
+        "url": "/media/d795a1768eb04831981d0e02fba257b0/videos/scene_3/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 4,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/videos/scene_4/output.mp4",
+        "prompt": "Slow lateral camera move as she steps into frame toward the shoes and reaches down slightly, ready to begin again.",
+        "provider_job_id": "cmonvuov701843z0zrxq94ax5",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvuov701843z0zrxq94ax5/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051109Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=783f844ba39c62f8af1901f87860065a3fb565582e0ef4dbf750c63105cef0bdf686dfdc2d2ef7934d97469249f7adb9cac8c76057636bd80468fedb8bbf6c6c93466915bed04f96f8391e2ed4588bb9e84429a214ae08f28bd92f8f42ba97e78ccc27afcc8642c340464cc6c2fc1cf4347ba0533d552eddc37609bcd3db0db9e5f490685085a6b4b2f3fb1b1a463eab7ab3d347c266cf3ebf9ee79c128ded69d82f7cb7d2bed4e695201f18ffb8e2c71926c29f24659937726644655ac698c4eb5c4e9e5b13ab2721e9861c908e5f380e60c531b501bb8716097c1ba669c1f990bfb944d3a56a049548388fda62e7d3843a21a1d1e2cba8e19636df05ed8832",
+        "resolution": "720p",
+        "scene_id": "scene_4",
+        "url": "/media/d795a1768eb04831981d0e02fba257b0/videos/scene_4/output.mp4"
+      }
+    ],
+    "voiceover": {
+      "duration_seconds": 12.539,
+      "model": "s2-pro",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/voiceover/voiceover.mp3",
+      "target_duration_seconds": 16,
+      "url": "/media/d795a1768eb04831981d0e02fba257b0/voiceover/voiceover.mp3"
+    }
+  },
+  "message": "Video is ready.",
+  "progress": 100,
+  "project_id": "d795a1768eb04831981d0e02fba257b0",
+  "project_state": {
+    "created_at": "2026-05-02T05:08:32.180796+00:00",
+    "current_plan": {
+      "narration": "[speaks calmly] Start smaller than you think. Set out your shoes, and that's a win. [emphasis] One steady squat, just to begin. [speaks calmly] Check it off. [curious] Tomorrow, you do the same easy start, and suddenly training feels like something you can keep.",
+      "scenes": [
+        {
+          "duration_seconds": 4,
+          "id": "scene_1",
+          "image_prompt": "Vertical phone-video realism. A beginner woman in her late 20s kneels beside a yoga mat in a small tidy apartment bedroom, placing simple training shoes neatly on the floor. Soft early morning window light, muted warm neutrals and dusty blue, medium close shot from waist level, natural texture, candid cinematic lifestyle mood, no text or logos.",
+          "narration": "[speaks calmly] Start smaller than you think. Set out your shoes, and that's a win.",
+          "video_prompt": "Slow handheld push-in as she gently slides the shoes into place and pauses, looking at them with a small relieved breath."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_2",
+          "image_prompt": "Same beginner in the same apartment corner, standing on the mat at the bottom of a simple bodyweight squat, arms slightly forward for balance. Soft morning light, realistic athletic posture, vertical full-body framing, 35mm lens feel, clean home background, muted warm palette, grounded encouraging mood, no text or logos.",
+          "narration": "[emphasis] One steady squat, just to begin.",
+          "video_prompt": "Subtle locked-off camera drift while she rises once from the squat to a relaxed standing position."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_3",
+          "image_prompt": "The beginner sits on the edge of her bed, holding a smartphone in one hand and lightly tapping a habit checklist with the other thumb, screen angled away with no readable text. Morning light across her face, close-up vertical framing, soft shadows, realistic skin texture, quiet satisfaction, same palette and wardrobe continuity.",
+          "narration": "[speaks calmly] Check it off.",
+          "video_prompt": "Gentle over-shoulder push-in as her thumb taps once and her face softens into a modest smile."
+        },
+        {
+          "duration_seconds": 4,
+          "id": "scene_4",
+          "image_prompt": "Next morning in the same apartment entryway, the same beginner now casually dressed for exercise, stepping back toward the laid-out shoes and mat with calmer confidence. Fresh morning window light, vertical medium shot, matching neutral palette and realistic styling, subtle sense of routine, cinematic lifestyle photography, no text or logos.",
+          "narration": "[curious] Tomorrow, you do the same easy start, and suddenly training feels like something you can keep.",
+          "video_prompt": "Slow lateral camera move as she steps into frame toward the shoes and reaches down slightly, ready to begin again."
+        }
+      ],
+      "title": "Small Start, Strong Return",
+      "visual_bible": "Realistic beginner woman, late 20s, dark hair in a loose bun, simple charcoal leggings and soft blue tee across scenes. Small tidy apartment with bedroom/exercise corner continuity, yoga mat, plain training shoes, smartphone with unreadable screen. Soft morning natural light, warm neutral palette with dusty blue accents, intimate vertical 35mm lifestyle cinematography, calm encouraging tone, no text, no logos, no."
+    },
+    "decisions": [
+      {
+        "created_at": "2026-05-02T05:08:46.417865+00:00",
+        "decision": "Use four 4-second scenes for a 16-second pre-crossfade total.",
+        "rationale": "The prompt requires exactly 4 scenes and integer durations totaling as close as possible to 16.5 seconds. 16 seconds is equally close to 16.5 as 17, and keeps the final edit slightly tighter to the 15-second target after crossfades.",
+        "tool": "record_project_decision"
+      },
+      {
+        "created_at": "2026-05-02T05:08:50.711166+00:00",
+        "decision": "Keep visuals realistic, encouraging, and non-cheesy with consistent morning-home palette and vertical handheld/gimbal intimacy.",
+        "rationale": "Matches the habit-coaching app brief for beginner-friendly strength training without intimidation, while preserving continuity across all four scenes.",
+        "tool": "record_project_decision"
+      },
+      {
+        "created_at": "2026-05-02T05:09:03.782683+00:00",
+        "decision": "Drafted plan 'Small Start, Strong Return' with 4 scene(s).",
+        "metadata": {
+          "scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4"
+          ]
+        },
+        "tool": "draft_video_plan"
+      },
+      {
+        "created_at": "2026-05-02T05:09:09.336032+00:00",
+        "decision": "Generated voiceover for the saved narration.",
+        "metadata": {
+          "target_duration_seconds": 16
+        },
+        "tool": "generate_voiceover"
+      },
+      {
+        "created_at": "2026-05-02T05:10:01.561119+00:00",
+        "decision": "Generated 4 scene image(s).",
+        "metadata": {
+          "failed_scene_ids": [],
+          "requested_scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4"
+          ]
+        },
+        "tool": "generate_scene_images"
+      },
+      {
+        "created_at": "2026-05-02T05:11:22.603416+00:00",
+        "decision": "Animated 4 scene video(s).",
+        "metadata": {
+          "failed_scene_ids": [],
+          "requested_scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4"
+          ]
+        },
+        "tool": "animate_scene_videos"
+      }
+    ],
+    "failures": [],
+    "messages": [],
+    "project_id": "d795a1768eb04831981d0e02fba257b0",
+    "provider_settings": {
+      "aspect_ratio": "9:16",
+      "audio_format": "mp3",
+      "audio_model": "s2-pro",
+      "image_model": "seedream-v4",
+      "image_resolution": "1k",
+      "image_style_tool": "ai-photo-generator",
+      "resolution": "720p",
+      "video_audio": false,
+      "video_model": "ltx-2",
+      "video_resolution": "720p"
+    },
+    "scene_assets": {
+      "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/final.mp4",
+      "images": [
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/images/scene_1/output-1.jpg",
+          "prompt": "Vertical phone-video realism. A beginner woman in her late 20s kneels beside a yoga mat in a small tidy apartment bedroom, placing simple training shoes neatly on the floor. Soft early morning window light, muted warm neutrals and dusty blue, medium close shot from waist level, natural texture, candid cinematic lifestyle mood, no text or logos.",
+          "provider_job_id": "cmonvtg22017r3z0z7dnlww7p",
+          "provider_url": "https://videos.magichour.ai/cmonvtg22017r3z0z7dnlww7p/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050922Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=66bef0a0319ab7dab0dae10b8ef4c056c56f29e0c36d1ff5cd2d04c853f3463d953840039aab9e38f297f7a4436f26fcd1a75dd3dc9b68523e2328294f50f967ed2e4a463f2d71f1d5de6e5858de08135d20f6fae6bb96646547301ff87fd70e7dc24623d1abfd5d6cc793161239eb34c7f757e5028eb64862d9ba6f44dcb7467622705277f83927537f705f7885d145308241f5cbf49e3eddf40462ecfe1201693a5eef9eb1f3be7cb7afd662b1b6e5aa76c3add1705b5e333a85f1e180c1f3236d9ce9dc586bd864bd4aa4a93ececaaef5cf1ecba960250c044a10995801f5c7888026b89454273a973fbc5483589e351316795de894b8451335021d56cc12",
+          "resolution": "1k",
+          "scene_id": "scene_1",
+          "style_tool": "ai-photo-generator"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/images/scene_2/output-1.jpg",
+          "prompt": "Same beginner in the same apartment corner, standing on the mat at the bottom of a simple bodyweight squat, arms slightly forward for balance. Soft morning light, realistic athletic posture, vertical full-body framing, 35mm lens feel, clean home background, muted warm palette, grounded encouraging mood, no text or logos.",
+          "provider_job_id": "cmonvtg1r002r5j0z3sn4mzn4",
+          "provider_url": "https://videos.magichour.ai/cmonvtg1r002r5j0z3sn4mzn4/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050937Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=2985ac1d99700541535d166dc0edf3107427ca569e369644f453a443d4c2226256e33c78d381ecc8c8e4eb8d798c280684bc31248f323ab34375d55cca372b93c792477c5182ca0397798780b26f88ca1cfa22babbca8c96d499cb9b36088097ecdd19d2415f0b1050575f2c7414edb2b679095d0dd5341e653dd4e30b8e4f700781cfff912f802fa66334a6a74c07cd05402c03d679535d6199f0d751be2a0939b5687f3ce230f6ad80592ed83810350469d21acd6f02205da5c43e529de2b458702aadb387a8ebc0764b1bd8497eece5ebf4796c3ede7c3b40ef99013b66c99870928cb1e7d9ba6d08b58d60428feb0a9efe5182dc7416aa6ef654bec6687d",
+          "resolution": "1k",
+          "scene_id": "scene_2",
+          "style_tool": "ai-photo-generator"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/images/scene_3/output-1.jpg",
+          "prompt": "The beginner sits on the edge of her bed, holding a smartphone in one hand and lightly tapping a habit checklist with the other thumb, screen angled away with no readable text. Morning light across her face, close-up vertical framing, soft shadows, realistic skin texture, quiet satisfaction, same palette and wardrobe continuity.",
+          "provider_job_id": "cmonvtg2i00vb2e0y0ofvz539",
+          "provider_url": "https://videos.magichour.ai/cmonvtg2i00vb2e0y0ofvz539/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T050951Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=32fcfdbe189a26861956df299776fe833098e0e2ba85c36454f1e36fb932042228b742ea3e59d36791806f3b555af16139d77979ee1e04a85dcdcfd6847e31bdeab841ad4096ae715922c283493f159db05d44559cd4cff9951201dbaa147fc63a1bea411457f728d4589f62bbc6e4e391a3cc7ec705d3f05a75b012c958a7f9c044e53ee00617f1de207f9bbfc6a97e0da5a63070a355946dc6d051d83a29e1d17681e50eb1cbcb755b94b1204bbc578293e5071ae0a3d6ed86b28ae5212aee80ed8864d01e0a2908b7e9020539725f7754b1fb82f9a4a4e5ba13196527d09ff75a29a1490dbf8cf206c71cce5fc9eb27f866df42079dd728a9917bbb1ea0e0",
+          "resolution": "1k",
+          "scene_id": "scene_3",
+          "style_tool": "ai-photo-generator"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/images/scene_4/output-1.jpg",
+          "prompt": "Next morning in the same apartment entryway, the same beginner now casually dressed for exercise, stepping back toward the laid-out shoes and mat with calmer confidence. Fresh morning window light, vertical medium shot, matching neutral palette and realistic styling, subtle sense of routine, cinematic lifestyle photography, no text or logos.",
+          "provider_job_id": "cmonvtgae00vc2e0ymj303lvc",
+          "provider_url": "https://videos.magichour.ai/cmonvtgae00vc2e0ymj303lvc/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051004Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=42f7842c09dd764761da5c5e53ed9b89086fe0d040158761e6739e00c2413ab50d56658b0656797436b5c219bac84d6297563060cfb19a831e9393222c31099035e97e8f841f0f6fb8b7e12ed7543bdef3eb2f611e60e61d977ab5673d1305c7bd8fd836dd05f65c78b30e4f2ec4ce16fb2678b4df99ca21536a92b81f99b35f0421849cddf5954fb47e67abe43ae24d4186cd687a86c3e4b36a5b3f48b94e8da602b7039c7265f343156b107b5a969bde6967fa299b1beeb53dadfcb7b4a87b7d8de0ae02e130fc5e5824b882e80dd29473985cab69d8805660a5a602030cca34aa22f57ba68aeb5cc6a6f55c84a23a79925e9c5561332d5fbf28df7cf17031",
+          "resolution": "1k",
+          "scene_id": "scene_4",
+          "style_tool": "ai-photo-generator"
+        }
+      ],
+      "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/manifest.json",
+      "videos": [
+        {
+          "audio": false,
+          "duration_seconds": 4,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/videos/scene_1/output.mp4",
+          "prompt": "Slow handheld push-in as she gently slides the shoes into place and pauses, looking at them with a small relieved breath.",
+          "provider_job_id": "cmonvuovw016q600ziasynszn",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvuovw016q600ziasynszn/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051105Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1a6dbbde486ea37bb5bc6737b32f4cfdcb383677854ab328c7401a3e3817c277b92e48fa9191bd70708efea1c71c1954e365f8b461fcd217683da14cf861b3095ebcbdd4adf458c3a166abb811a74b2c2fe83f2ff4442e327c8dc553adcfec76acc584ff5acdb09b140d485cbb19ab87c310482704f7853146fa2d399756db9f203398685948e415e54cc0d71aaf14d813faf80580ddf97f85b935559e1d525dc2cd7f9440bd17f47b8308f147b4aa7f3fdab94e971b156e6450543440f4720284ce3b304098fdfd9ca5b330a2d2a7848c7feeb6ff5f70779888ab59d57c45403f59f9bafc7b0aacc177e0a625835021f2ce21a7e4d0360da386af245efb7071",
+          "resolution": "720p",
+          "scene_id": "scene_1"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 4,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/videos/scene_2/output.mp4",
+          "prompt": "Subtle locked-off camera drift while she rises once from the squat to a relaxed standing position.",
+          "provider_job_id": "cmonvup8i01863z0zfdw9368m",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvup8i01863z0zfdw9368m/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051122Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4925f689304537906eff80f0e92b262474b74a43d8f6995548779e385645cfdd99d16ae0fcdd9b81ae4ec53c2ea0a02e336ccb4e1915a53de6891405cfc4329bb08125ec23fd51168d8d1807c9e5e5684a8873180940f781e05cf764dcaca12d5a0970d80bbc88c60ac8b28d61084d713a1dc783c9f873738416cfb7d1a1b1434ee59c041cf92b649871cf795afbb13a04c06659e0b90798d61da6eb3de434d863c5c4ea34185724af02f5d3ac0320c31bf95271ddc7683b93fc8c40503c539650bd29e61e2827a76efcb9982fa79901d770303e4bc5a442757e54c44dc7e78f8a8deb84744cd0c4f7141159214f3ccc349fac736ba31fdff435a005761f57d3",
+          "resolution": "720p",
+          "scene_id": "scene_2"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 4,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/videos/scene_3/output.mp4",
+          "prompt": "Gentle over-shoulder push-in as her thumb taps once and her face softens into a modest smile.",
+          "provider_job_id": "cmonvupfj019t580zxdvuyr7k",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvupfj019t580zxdvuyr7k/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051125Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8870d15d0ff180790ebd5695dd3c0c2b8e393b65f9ff77d7e149e4aaa8e60450cf557dd3fde43e9658bf9c5b6efe2b524c0bc7936f8bf61cbe373a533c92244b4ecfda63002fb5fffcb335fff3eab213b311175169cd6a3d1fa0b04f03781b1a8e01ab00e14b1fb99993d939ec3ab8689d812e26a8e50cdd1d0d5054c38cfe0f03ff9a3c1fcae8b451a1f017841e00c3923c9122fb1eedebacd1b6cb0e7a81d1b1192180a678a1936148b7002d12621c6bf13739e8df5be6f1e4318f37d14de445983c67715475ee7db6b79ef595d82fe08bda747f4e1718c683ac7dc5d992e6daaa6811ee9e1de059e92b9ea99ced8a2e435249c776a201ffdb65bd555f37c5",
+          "resolution": "720p",
+          "scene_id": "scene_3"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 4,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/videos/scene_4/output.mp4",
+          "prompt": "Slow lateral camera move as she steps into frame toward the shoes and reaches down slightly, ready to begin again.",
+          "provider_job_id": "cmonvuov701843z0zrxq94ax5",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvuov701843z0zrxq94ax5/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T051109Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=783f844ba39c62f8af1901f87860065a3fb565582e0ef4dbf750c63105cef0bdf686dfdc2d2ef7934d97469249f7adb9cac8c76057636bd80468fedb8bbf6c6c93466915bed04f96f8391e2ed4588bb9e84429a214ae08f28bd92f8f42ba97e78ccc27afcc8642c340464cc6c2fc1cf4347ba0533d552eddc37609bcd3db0db9e5f490685085a6b4b2f3fb1b1a463eab7ab3d347c266cf3ebf9ee79c128ded69d82f7cb7d2bed4e695201f18ffb8e2c71926c29f24659937726644655ac698c4eb5c4e9e5b13ab2721e9861c908e5f380e60c531b501bb8716097c1ba669c1f990bfb944d3a56a049548388fda62e7d3843a21a1d1e2cba8e19636df05ed8832",
+          "resolution": "720p",
+          "scene_id": "scene_4"
+        }
+      ],
+      "voiceover": {
+        "duration_seconds": 12.539,
+        "model": "s2-pro",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/d795a1768eb04831981d0e02fba257b0/voiceover/voiceover.mp3",
+        "target_duration_seconds": 16
+      }
+    },
+    "status": {
+      "message": "Video is ready.",
+      "progress": 100,
+      "stage": "complete",
+      "status": "succeeded"
+    },
+    "updated_at": "2026-05-02T05:11:34.373785+00:00",
+    "user_preferences": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 15,
+      "image_model": "seedream-v4",
+      "image_resolution": null,
+      "prompt": "Create a 15-second vertical video for a habit-coaching app that helps beginners start strength training without intimidation. Use 4 scenes. Show a realistic beginner laying out shoes, doing one simple movement, checking off a tiny win, and returning the next day. Tone: encouraging but not cheesy.",
+      "resolution": "720p",
+      "scene_count": 4,
+      "video_model": "ltx-2",
+      "video_resolution": null
+    },
+    "version": 1
+  },
+  "stage": "complete",
+  "status": "succeeded",
+  "status_url": "/api/projects/d795a1768eb04831981d0e02fba257b0",
+  "updated_at": "2026-05-02T05:11:34.373369+00:00"
+}

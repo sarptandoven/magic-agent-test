@@ -1,0 +1,9 @@
+{
+  "aspect_ratio": "9:16",
+  "duration_seconds": 16,
+  "image_model": "seedream-v4",
+  "prompt": "Create a 16-second vertical launch video for a pocket-sized AI camera that helps cyclists record close calls and scenic rides. Use exactly 4 scenes. Make it cinematic, practical, and not hypey. Show the camera mounted on a handlebar, a tense traffic moment, a beautiful golden-hour ride, and the app automatically summarizing the ride afterward.",
+  "resolution": "720p",
+  "scene_count": 4,
+  "video_model": "ltx-2"
+}

@@ -1,0 +1,261 @@
+{
+  "aspect_ratio": "9:16",
+  "audio_model": "s2-pro",
+  "completed_scene_count": 3,
+  "created_at": "2026-05-02T04:45:17.813851+00:00",
+  "failed_scene_count": 0,
+  "failed_scenes": [],
+  "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/c018832897654a829569646038fffc59/final.mp4",
+  "final_video_url": "/media/c018832897654a829569646038fffc59/final.mp4",
+  "gpt_cost_usd": 0.0707995,
+  "image_model": "seedream-v4",
+  "image_resolution": "1k",
+  "image_style_tool": "general",
+  "images": [
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/c018832897654a829569646038fffc59/images/scene_1/output-1.jpg",
+      "prompt": "Vertical frame, startup CTO at a quiet desk, phone call just ended on laptop with an abstract unreadable waveform interface, warm daylight and soft practical lamp, clean modern office, shallow depth of field, medium close-up over shoulder, muted graphite and slate palette, calm focused mood, no readable text or logos.",
+      "provider_job_id": "cmonuw2d500jf2e0ydj89ldwh",
+      "provider_url": "https://videos.magichour.ai/cmonuw2d500jf2e0ydj89ldwh/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044337Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=50cd8129f1a4dd62ba869463b8d97e58cdfa550e6a61c0628cd6d9e9eeea65e52342e8519a3ab15363145c95fb00bc5e3ad5e54bd6be5d8c9e884aaa3db375a1901a676513be632989e664d5a8a0344171e5ab8bb2620126830fe1528fe6f933abf5406351079f11612918189b133b9ec74b4bb95be10735820dde3b61cd407ca18aead77341d2c62df6b981512f021f4e9ba7ea735b887ab3d5551a4ba574fa8a1f9a5fbe94b9743054fece798728eea6bdf3200126276eab6dee5936c84e3d285f686bc3ba58a3d7a6329dc1de42104ddd597bc6da339413b6867d3f6d36d9b48bb2fe37d41ea3da15768bca2e43b7415946c56e2580dd5c327e76f3afc60d",
+      "resolution": "1k",
+      "scene_id": "scene_1",
+      "style_tool": "general",
+      "url": "/media/c018832897654a829569646038fffc59/images/scene_1/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/c018832897654a829569646038fffc59/images/scene_2/output-1.jpg",
+      "prompt": "Vertical frame, three floating translucent panels around a laptop in a modern office, one abstract contact card, one task board with simple blocks, one chat summary panel, all interfaces intentionally unreadable, cool neutral light, centered composition, 50mm lens look, crisp cinematic realism, precise and credible mood, consistent CTO workspace.",
+      "provider_job_id": "cmonuw2c60148420zj5vnthmp",
+      "provider_url": "https://videos.magichour.ai/cmonuw2c60148420zj5vnthmp/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044325Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=9e7807e45366a2f5ad1ef67201ef761a1e7c94390ef994185023cf84953a307ea6c45d11f1b0cfbde7e6646e022936ba0d12cf18016916ef9f292f3d5f3c60eb901be3bfc32b1aeb638cb6580719ea17325493687ab6a97ddb050a36d8a7b29443ceb82d47f5ec1422bbdbcf2137b585cc3f60a09af631010de0e2d74db61814d81c6cb1e7a172292823dafa02ecafcfc05d478ee5136a367e1c0a59f67b217f91bd75135320be0c9b639fb7cc413730c7baee696bdf715e3e1223c4f732bf13ed30c274ea4c04b92ca8bbd3b5a546f8bec79827a55dcc530a213ee74e4d56d810c91481acf97daa6caa7d4e2e812a7b6912ac44b7b3448a03b8184096493cc3",
+      "resolution": "1k",
+      "scene_id": "scene_2",
+      "style_tool": "general",
+      "url": "/media/c018832897654a829569646038fffc59/images/scene_2/output-1.jpg"
+    },
+    {
+      "model": "seedream-v4",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/c018832897654a829569646038fffc59/images/scene_3/output-1.jpg",
+      "prompt": "Vertical frame, small engineering team beside a standing desk, one person taps approve on an abstract unreadable dashboard while others continue working, evening office light with soft window glow, medium wide shot, restrained blue-gray palette, realistic startup environment, composed and efficient mood, no readable text or branding.",
+      "provider_job_id": "cmonuw3a100vr600ze9q0bdl1",
+      "provider_url": "https://videos.magichour.ai/cmonuw3a100vr600ze9q0bdl1/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044347Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4c7fa7a5868ebdb14fe0522848f43672b6548302684ec9aa003eaf5b77c4a161ad77391d0c7a65d939e5e9088da22c2f1c7e0906b35567979a9614e85abce0b6f1fecc9aed419343408386fe237fb038d3fcf9529427cc05c83daa2469bb8c6183c2d68130dcc611de17e9d1c7e3961c576bf3ab25cb6b0a1d52c5d94a42cc408a69e75f0dd85a6ffee5e431bcc2b8179d3bf0798995d903554c63c68cfcebf99fa57be14302e5b88bacf1bcc6647c74a09ff1cf8f09b21a0e64972d7af0593044bdcaf37fe32e064f7ad4711add08eba4c0fe872c92c284e9cbee956b8e42b48e11f2d3a0881fdcdff3921e93926cc576bc2c893185d8eda1e41ccda00316d4",
+      "resolution": "1k",
+      "scene_id": "scene_3",
+      "style_tool": "general",
+      "url": "/media/c018832897654a829569646038fffc59/images/scene_3/output-1.jpg"
+    }
+  ],
+  "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/c018832897654a829569646038fffc59/manifest.json",
+  "narration_stats": {
+    "expression_cue_count": 3,
+    "expression_cues": [
+      "speaks calmly",
+      "emphasis",
+      "speaks calmly"
+    ],
+    "voiceover_duration_seconds": 14.916,
+    "word_count": 39,
+    "words_per_second": 2.615
+  },
+  "plan": {
+    "aspect_ratio": "9:16",
+    "narration": "[speaks calmly] After every sales call, the transcript is captured once, without retyping. [emphasis] The system turns key decisions into CRM updates, opens the right Linear tasks, and drafts a Slack recap for the team. [speaks calmly] Your engineers review, approve, and move on.",
+    "resolution": "720p",
+    "scenes": [
+      {
+        "duration_seconds": 5,
+        "id": "scene_1",
+        "image_prompt": "Vertical frame, startup CTO at a quiet desk, phone call just ended on laptop with an abstract unreadable waveform interface, warm daylight and soft practical lamp, clean modern office, shallow depth of field, medium close-up over shoulder, muted graphite and slate palette, calm focused mood, no readable text or logos.",
+        "narration": "[speaks calmly] After every sales call, the transcript is captured once, without retyping.",
+        "video_prompt": "Slow push-in as the CTO lowers a hand from headset and glances toward the abstract transcript interface."
+      },
+      {
+        "duration_seconds": 5,
+        "id": "scene_2",
+        "image_prompt": "Vertical frame, three floating translucent panels around a laptop in a modern office, one abstract contact card, one task board with simple blocks, one chat summary panel, all interfaces intentionally unreadable, cool neutral light, centered composition, 50mm lens look, crisp cinematic realism, precise and credible mood, consistent CTO workspace.",
+        "narration": "[emphasis] The system turns key decisions into CRM updates, opens the right Linear tasks, and drafts a Slack recap for the team.",
+        "video_prompt": "Gentle upward drift of camera while the translucent panels subtly settle into place around the laptop."
+      },
+      {
+        "duration_seconds": 6,
+        "id": "scene_3",
+        "image_prompt": "Vertical frame, small engineering team beside a standing desk, one person taps approve on an abstract unreadable dashboard while others continue working, evening office light with soft window glow, medium wide shot, restrained blue-gray palette, realistic startup environment, composed and efficient mood, no readable text or branding.",
+        "narration": "[speaks calmly] Your engineers review, approve, and move on.",
+        "video_prompt": "Slow lateral slide as one engineer makes a single approving tap and the others remain focused."
+      }
+    ],
+    "title": "Calm Workflow: Sales Calls to CRM, Linear, and Slack",
+    "visual_bible": "Vertical 9:16 explainer for a startup CTO audience. Calm, sharp, credible cinematic realism. Modern product-engineering office, clean graphite, slate, and restrained blue-gray palette with warm practical accents. Consistent lens language: medium focal lengths, subtle depth of field, controlled camera energy, no flashy motion. All screens and UI must remain abstract and unreadable, with no logos, captions, or fake text."
+  },
+  "project_id": "c018832897654a829569646038fffc59",
+  "render_status": "complete",
+  "resolution": "720p",
+  "title": "Calm Workflow: Sales Calls to CRM, Linear, and Slack",
+  "token_output": {
+    "cost": {
+      "cached_input_usd": 0.009792,
+      "input_usd": 0.0377275,
+      "output_usd": 0.02328,
+      "total_usd": 0.0707995
+    },
+    "created_at": "2026-05-02T04:45:21.061503+00:00",
+    "model": "gpt-5.4",
+    "pricing": {
+      "cached_input": 0.25,
+      "currency": "USD",
+      "input": 2.5,
+      "input_multiplier": 1.0,
+      "long_context_applies": false,
+      "long_context_threshold_input_tokens": 272000,
+      "output": 15.0,
+      "output_multiplier": 1.0,
+      "source": "https://developers.openai.com/api/docs/models/gpt-5.4/",
+      "unit": "per_1m_tokens"
+    },
+    "project_id": "c018832897654a829569646038fffc59",
+    "provider": "openai",
+    "scope": "OpenAI GPT/agent planning run only. Magic Hour, Fish Audio, and ffmpeg costs are not included.",
+    "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/c018832897654a829569646038fffc59/token_output.json",
+    "usage": {
+      "cached_input_tokens": 39168,
+      "input_tokens": 54259,
+      "input_tokens_details": [
+        {
+          "cached_tokens": 39168
+        }
+      ],
+      "output_tokens": 1552,
+      "output_tokens_details": [
+        {
+          "reasoning_tokens": 624
+        }
+      ],
+      "reasoning_tokens": 624,
+      "request_usage_entries": [
+        {
+          "input_tokens": 5029,
+          "input_tokens_details": {
+            "cached_tokens": 0
+          },
+          "output_tokens": 1140,
+          "output_tokens_details": {
+            "reasoning_tokens": 577
+          },
+          "total_tokens": 6169
+        },
+        {
+          "input_tokens": 6640,
+          "input_tokens_details": {
+            "cached_tokens": 5888
+          },
+          "output_tokens": 97,
+          "output_tokens_details": {
+            "reasoning_tokens": 0
+          },
+          "total_tokens": 6737
+        },
+        {
+          "input_tokens": 6901,
+          "input_tokens_details": {
+            "cached_tokens": 6656
+          },
+          "output_tokens": 90,
+          "output_tokens_details": {
+            "reasoning_tokens": 17
+          },
+          "total_tokens": 6991
+        },
+        {
+          "input_tokens": 9035,
+          "input_tokens_details": {
+            "cached_tokens": 6912
+          },
+          "output_tokens": 51,
+          "output_tokens_details": {
+            "reasoning_tokens": 10
+          },
+          "total_tokens": 9086
+        },
+        {
+          "input_tokens": 10875,
+          "input_tokens_details": {
+            "cached_tokens": 8960
+          },
+          "output_tokens": 28,
+          "output_tokens_details": {
+            "reasoning_tokens": 8
+          },
+          "total_tokens": 10903
+        },
+        {
+          "input_tokens": 15779,
+          "input_tokens_details": {
+            "cached_tokens": 10752
+          },
+          "output_tokens": 146,
+          "output_tokens_details": {
+            "reasoning_tokens": 12
+          },
+          "total_tokens": 15925
+        }
+      ],
+      "requests": 6,
+      "tool_search_tokens": 0,
+      "total_tokens": 55811,
+      "uncached_input_tokens": 15091
+    }
+  },
+  "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/c018832897654a829569646038fffc59/token_output.json",
+  "video_audio": false,
+  "video_model": "ltx-2",
+  "video_resolution": "720p",
+  "videos": [
+    {
+      "audio": false,
+      "duration_seconds": 5,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/c018832897654a829569646038fffc59/videos/scene_1/output.mp4",
+      "prompt": "Slow push-in as the CTO lowers a hand from headset and glances toward the abstract transcript interface.",
+      "provider_job_id": "cmonuwwj900yc3z0zd3d8j17d",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonuwwj900yc3z0zd3d8j17d/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044512Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=6d160d1431ca10527d92c35b520250b335552d88795f2e3dcdf7a60a5f4ee5c35467f08582abc5c30603924883d988131eca5ecfc137d14c4736b6b4372cc629834b1b4dd46b7bfed40d82beba5210fd8849232c4027f8b1014b9ece0cc5dc612a6712306be1b6fe2806d4201c458581b28a3d7fdfba9647e4d8b147e7eaf394fcdb6c63915d5e9dce1ce50ca139f8bedc21ef899725fbf430d8fc4edff7469a698f1992eeabb7688019a35f7614c44fde158406a1ef215e4224fc6f844c3ab6f759569ea90b494b26f37a481ec3e4738889cce7a1d10dad5de8074f249fe1e169f80dc2273ef2271943b6b4d6a6a3863d25458ae025b70f76e17640a5fc1f7c",
+      "resolution": "720p",
+      "scene_id": "scene_1",
+      "url": "/media/c018832897654a829569646038fffc59/videos/scene_1/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 5,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/c018832897654a829569646038fffc59/videos/scene_2/output.mp4",
+      "prompt": "Gentle upward drift of camera while the translucent panels subtly settle into place around the laptop.",
+      "provider_job_id": "cmonuwwcn00yb3z0zivcl8vfr",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonuwwcn00yb3z0zivcl8vfr/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044458Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=4210a99ebabe78aa406feb7cebe8a9ac49d5ba65679242cd37613bdc76be42d1836df52c906fb850b46d89f0adb2fb7930cc0cb64334b211eb93dd6a46b6541eb407675d8f7da342d9b99e3671f102239baea1d357c2602055355b7f6022010aa25cc06cc1faa81d6a383f87fca8ee596411d496ea3e02ca648a379939a7aacb3a6d1fb130fa22e13706a7e51c41e89796ed158e50ec2af755ebf69c9f6922794fd61ad18b266656978ffc2dab7a4b01ede23a50065aa6275c97cfd43d1226bd971b5325131e9335221adf73572c772130b6e045cfb83157762957e0fd20462abae2bc61a2316c74578c4f8d18eaa5bc4adb58337819e2f15c28e89ccbda93c4",
+      "resolution": "720p",
+      "scene_id": "scene_2",
+      "url": "/media/c018832897654a829569646038fffc59/videos/scene_2/output.mp4"
+    },
+    {
+      "audio": false,
+      "duration_seconds": 6,
+      "model": "ltx-2",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/c018832897654a829569646038fffc59/videos/scene_3/output.mp4",
+      "prompt": "Slow lateral slide as one engineer makes a single approving tap and the others remain focused.",
+      "provider_job_id": "cmonuwwgk00x3580zg5xthix4",
+      "provider_status": "complete",
+      "provider_url": "https://videos.magichour.ai/cmonuwwgk00x3580zg5xthix4/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T044512Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=726ffb0ca4ad4893a9e0318d6a9a390c2873b2f0afa2d506b980f839e8cec87d66cfc8d55187baae9e247a55380b0814cc88bbce5144f27eea11187af585b670ee40347f30a3e54a3f0095ce9ae89d387477a27b06b0d7654166d68250a9f37bcc43328c271d13db9163c46ba3b64619a524ff80b152c8545fbd20437ae49f37d4f4c6a0b7de6247db5db869b010eb821bf424307846c73e58723d91f92a393d78c9f0d3caab6849c53a4621e800d630f7340cdac312903aba9eee397ddcbd38ad621c0b7bd504973b403cc2aaa64920ab12a8853db3e1284bae0f63ff240fe19b90fb74d9a5f0727f314ca9b4cc7886623bcf38199f564a7d1ce7584ba57406",
+      "resolution": "720p",
+      "scene_id": "scene_3",
+      "url": "/media/c018832897654a829569646038fffc59/videos/scene_3/output.mp4"
+    }
+  ],
+  "voiceover": {
+    "duration_seconds": 14.916,
+    "model": "s2-pro",
+    "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/c018832897654a829569646038fffc59/voiceover/voiceover.mp3",
+    "target_duration_seconds": 16,
+    "url": "/media/c018832897654a829569646038fffc59/voiceover/voiceover.mp3"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "aspect_ratio": "9:16",
+  "duration_seconds": 18,
+  "image_model": "seedream-v4",
+  "prompt": "Make an 18-second vertical fundraising video for a nonprofit restoring urban tree canopy in overheated neighborhoods. Use 4 scenes. The tone should be grounded and hopeful, not guilt-driven. Show heat, volunteers planting trees, residents using shade, and a future greener street.",
+  "resolution": "720p",
+  "scene_count": 4,
+  "video_model": "ltx-2"
+}

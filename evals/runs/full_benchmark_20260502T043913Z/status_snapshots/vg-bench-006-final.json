@@ -1,0 +1,647 @@
+{
+  "manifest": {
+    "aspect_ratio": "9:16",
+    "audio_model": "s2-pro",
+    "completed_scene_count": 4,
+    "created_at": "2026-05-02T04:58:57.080152+00:00",
+    "failed_scene_count": 0,
+    "failed_scenes": [],
+    "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/final.mp4",
+    "final_video_url": "/media/a6e53a96cf364073b9e6e653eebf5b78/final.mp4",
+    "gpt_cost_usd": 0.1388945,
+    "image_model": "seedream-v4",
+    "image_resolution": "1k",
+    "image_style_tool": "general",
+    "images": [
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/images/scene_1/output-1.jpg",
+        "prompt": "Vertical documentary frame of a treeless urban block in summer heat, shimmering asphalt and concrete rowhouses, a bus stop with no shade, one resident waiting with hand shielding face, harsh midday light, long lens compression, muted tan and gray palette, realistic photo style, grounded mood, no text.",
+        "provider_job_id": "cmonvc7ug019p420zuo4paqu1",
+        "provider_url": "https://videos.magichour.ai/cmonvc7ug019p420zuo4paqu1/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045637Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=14aa82344c271e79887d815d8b6b3c39cf63221d74f7ef8734d2e0ff681a42251b0f4237642c693635821e0d33a968a02cc91e7e652b7f4b73df2961622d7f39d9e6b33034ae10a9fa011558c4b60f113f3536175aa474362e8afe5a71154368e39f623d88b9cb99e3395d9737b114381d8eeade68664353c94dea4afa75e1ac34eb71b41b33fd0dd7f066c89910b9e9d347d0e7a0672a01c81786b3c4994b50102404c3a04470f8f50ce7bd0308f629c8b0394c81131134b7d6d3e5c45b6364f1f11ad8134668035b71bd1cc876c0a084c80939e1c1cb02457191f01403f20030109993f4bf89a422ec18c853a7e51f877ca8907adacdd30c765e26abb4d26c",
+        "resolution": "1k",
+        "scene_id": "scene_1",
+        "style_tool": "general",
+        "url": "/media/a6e53a96cf364073b9e6e653eebf5b78/images/scene_1/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/images/scene_2/output-1.jpg",
+        "prompt": "Vertical street-level scene of diverse volunteers and neighborhood residents planting a young street tree in a sidewalk cutout, shovels, work gloves, watering bucket, brick storefronts behind them, warm late-afternoon light, medium-wide 35mm framing, natural colors, documentary realism, collaborative hopeful mood.",
+        "provider_job_id": "cmonvc7n5006s3v118dzei8su",
+        "provider_url": "https://videos.magichour.ai/cmonvc7n5006s3v118dzei8su/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045613Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=072b754b6f378aeedd0e291cd1746d8a55db502f56f5e0913d48da88941bc9c8d612c26cbe1278dd7371b50fddfb924f439776688d93948110b2aa4a597abb5ca74d27f93eab9e2e5507ab6d070ef10868fedb28ac18ef717202decf21859cb3fb332c453be5b339cf8415500c62f0d06267e0a84aac490adca6a966b448726381739cf17b2a95aa82ce9e0039b4babae5adfa245ce02aa973c79ce687cd493b89a940dcb43df4404a70de37b3ce34dcb43bf2d1b0ee469fbe03a1b2d40821f4fa08264668f6f4f9346470432e9cc04437d5f20b77a703d9c25afd6bd144be10944dccdeaeae70b79da6b46a2bacec0649156446a37e8c3aaabd684770b4351b",
+        "resolution": "1k",
+        "scene_id": "scene_2",
+        "style_tool": "general",
+        "url": "/media/a6e53a96cf364073b9e6e653eebf5b78/images/scene_2/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/images/scene_3/output-1.jpg",
+        "prompt": "Vertical neighborhood sidewalk under a mature leafy tree canopy, an older resident seated on a bench in cool shade while a parent and child walk past, dappled light, summer evening glow, eye-level 50mm framing, soft greens with warm brick tones, realistic cinematic documentary style, calm and welcoming mood.",
+        "provider_job_id": "cmonvdfgh01a9420zc2t4ikhy",
+        "provider_url": "https://videos.magichour.ai/cmonvdfgh01a9420zc2t4ikhy/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045654Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=25dbd20926c6506fbf6e568b8df2ca06a9858d1efb004a85234f3b20dd6a4f09ce8a686821507f52d42efe1d78bc0bbb02409f477eb80829a9fa83e788904c5fcd4a5f2fef118e7cdc608ef0b0ec1eabbdb390faa823c0b1bb040b1abcd39d3142acffcc261fcc68fa21a0bdc11e0818ebfea3fd2e3de23e00e2a90683b00423385e1272713a1b6dbcbcb7a448b07cf49ad91aef4f0158545c2be94d263b8c2d66bd96a9d9c498b0960bd67678946b44d7b71f48f54aece54226f5733dea320fe0c5862b49b9b63bd5be7cee033a4d0af1af88a3de982fe6dde6e09edf6e5f0eb798c5db2f89a2a5bbcd6f7b71dfbee785578c5731a6a59b933877630096b090",
+        "resolution": "1k",
+        "scene_id": "scene_3",
+        "style_tool": "general",
+        "url": "/media/a6e53a96cf364073b9e6e653eebf5b78/images/scene_3/output-1.jpg"
+      },
+      {
+        "model": "seedream-v4",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/images/scene_4/output-1.jpg",
+        "prompt": "Vertical view down the same kind of city block transformed with a continuous young-to-mature tree canopy, cooler sidewalks, bikes, porches, and people gathering beneath shade, golden hour light, slight telephoto framing, rich green and warm earth palette, realistic civic-optimistic documentary style, grounded hopeful mood, no signage or text.",
+        "provider_job_id": "cmonvc7nj010z600zvlhdxz03",
+        "provider_url": "https://videos.magichour.ai/cmonvc7nj010z600zvlhdxz03/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045559Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1dd374734d61a73aee74880dcf63efc02489adf1a788e1140d792585df1f4608061d0c38cf32e69f29c7ceaf81dfa8621201a57a93d831cde84528df9707c97bbb905171167b5857c73cf8f1425d98be347a68058a6aba9a836172dee3b53191aa35cbdf10217c51e510419b5324f73f35f43676492aa65b4c6c884e626b28b841bf7e135aa85809dccf470b665fe7a23535025b74d9503d8c77f47373ec56a994ecbab81d330feab09cb4556b2d23391383217370e04543e7d04369a4e61b8f5ae843b81c9316b347c7e318b35aa5fecd858175da3ba1790235dfcc434a1c9205bb72eb6c59a2798f4de0e63c8eb8d3da0157e3a3b987dedf0a4b2031945d81",
+        "resolution": "1k",
+        "scene_id": "scene_4",
+        "style_tool": "general",
+        "url": "/media/a6e53a96cf364073b9e6e653eebf5b78/images/scene_4/output-1.jpg"
+      }
+    ],
+    "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/manifest.json",
+    "narration_stats": {
+      "expression_cue_count": 4,
+      "expression_cues": [
+        "tense",
+        "speaks calmly",
+        "emphasis",
+        "hopeful"
+      ],
+      "voiceover_duration_seconds": 16.692,
+      "word_count": 44,
+      "words_per_second": 2.636
+    },
+    "plan": {
+      "aspect_ratio": "9:16",
+      "narration": "[tense] On the hottest blocks, pavement still holds the sun long after noon. [speaks calmly] Neighbors and volunteers plant young trees with steady hands and shared care. [emphasis] Soon, shade becomes a place to walk, rest, and talk. [hopeful] Help restore a greener street, one block at a time.",
+      "resolution": "720p",
+      "scenes": [
+        {
+          "duration_seconds": 5,
+          "id": "scene_1",
+          "image_prompt": "Vertical documentary frame of a treeless urban block in summer heat, shimmering asphalt and concrete rowhouses, a bus stop with no shade, one resident waiting with hand shielding face, harsh midday light, long lens compression, muted tan and gray palette, realistic photo style, grounded mood, no text.",
+          "narration": "[tense] On the hottest blocks, pavement still holds the sun long after noon.",
+          "video_prompt": "Slow handheld push-in as heat shimmer wavers above the asphalt and the waiting resident subtly shifts weight."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_2",
+          "image_prompt": "Vertical street-level scene of diverse volunteers and neighborhood residents planting a young street tree in a sidewalk cutout, shovels, work gloves, watering bucket, brick storefronts behind them, warm late-afternoon light, medium-wide 35mm framing, natural colors, documentary realism, collaborative hopeful mood.",
+          "narration": "[speaks calmly] Neighbors and volunteers plant young trees with steady hands and shared care.",
+          "video_prompt": "Gentle lateral dolly as one volunteer settles soil around the sapling and leaves move slightly."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_3",
+          "image_prompt": "Vertical neighborhood sidewalk under a mature leafy tree canopy, an older resident seated on a bench in cool shade while a parent and child walk past, dappled light, summer evening glow, eye-level 50mm framing, soft greens with warm brick tones, realistic cinematic documentary style, calm and welcoming mood.",
+          "narration": "[emphasis] Soon, shade becomes a place to walk, rest, and talk.",
+          "video_prompt": "Slow upward tilt through dappled shade as the walking pair moves gently forward."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_4",
+          "image_prompt": "Vertical view down the same kind of city block transformed with a continuous young-to-mature tree canopy, cooler sidewalks, bikes, porches, and people gathering beneath shade, golden hour light, slight telephoto framing, rich green and warm earth palette, realistic civic-optimistic documentary style, grounded hopeful mood, no signage or text.",
+          "narration": "[hopeful] Help restore a greener street, one block at a time.",
+          "video_prompt": "Smooth slow crane-up revealing the greener street while leaves stir softly and people remain relaxed below."
+        }
+      ],
+      "title": "Rooting Cooler Blocks",
+      "visual_bible": "Grounded documentary realism with hopeful civic tone. Same overheated neighborhood evolves across scenes: brick rowhouses, sidewalks, street trees, diverse residents. Vertical 9:16 framing, naturalistic lens language from 35mm to 50mm with gentle telephoto on wide block views. Palette shifts from sun-bleached gray/tan heat to soft greens and warm brick, ending in golden-hour optimism. No text, logos, or exaggerated hero shots."
+    },
+    "project_id": "a6e53a96cf364073b9e6e653eebf5b78",
+    "render_status": "complete",
+    "resolution": "720p",
+    "title": "Rooting Cooler Blocks",
+    "token_output": {
+      "cost": {
+        "cached_input_usd": 0.036672,
+        "input_usd": 0.0711425,
+        "output_usd": 0.03108,
+        "total_usd": 0.1388945
+      },
+      "created_at": "2026-05-02T04:58:59.708448+00:00",
+      "model": "gpt-5.4",
+      "pricing": {
+        "cached_input": 0.25,
+        "currency": "USD",
+        "input": 2.5,
+        "input_multiplier": 1.0,
+        "long_context_applies": false,
+        "long_context_threshold_input_tokens": 272000,
+        "output": 15.0,
+        "output_multiplier": 1.0,
+        "source": "https://developers.openai.com/api/docs/models/gpt-5.4/",
+        "unit": "per_1m_tokens"
+      },
+      "project_id": "a6e53a96cf364073b9e6e653eebf5b78",
+      "provider": "openai",
+      "scope": "OpenAI GPT/agent planning run only. Magic Hour, Fish Audio, and ffmpeg costs are not included.",
+      "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/token_output.json",
+      "usage": {
+        "cached_input_tokens": 146688,
+        "input_tokens": 175145,
+        "input_tokens_details": [
+          {
+            "cached_tokens": 146688
+          }
+        ],
+        "output_tokens": 2072,
+        "output_tokens_details": [
+          {
+            "reasoning_tokens": 576
+          }
+        ],
+        "reasoning_tokens": 576,
+        "request_usage_entries": [
+          {
+            "input_tokens": 4477,
+            "input_tokens_details": {
+              "cached_tokens": 0
+            },
+            "output_tokens": 1069,
+            "output_tokens_details": {
+              "reasoning_tokens": 393
+            },
+            "total_tokens": 5546
+          },
+          {
+            "input_tokens": 6189,
+            "input_tokens_details": {
+              "cached_tokens": 5248
+            },
+            "output_tokens": 109,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 6298
+          },
+          {
+            "input_tokens": 6482,
+            "input_tokens_details": {
+              "cached_tokens": 6144
+            },
+            "output_tokens": 71,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 6553
+          },
+          {
+            "input_tokens": 8690,
+            "input_tokens_details": {
+              "cached_tokens": 6400
+            },
+            "output_tokens": 82,
+            "output_tokens_details": {
+              "reasoning_tokens": 14
+            },
+            "total_tokens": 8772
+          },
+          {
+            "input_tokens": 8920,
+            "input_tokens_details": {
+              "cached_tokens": 8704
+            },
+            "output_tokens": 62,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 8982
+          },
+          {
+            "input_tokens": 11568,
+            "input_tokens_details": {
+              "cached_tokens": 8832
+            },
+            "output_tokens": 51,
+            "output_tokens_details": {
+              "reasoning_tokens": 10
+            },
+            "total_tokens": 11619
+          },
+          {
+            "input_tokens": 14034,
+            "input_tokens_details": {
+              "cached_tokens": 11520
+            },
+            "output_tokens": 27,
+            "output_tokens_details": {
+              "reasoning_tokens": 7
+            },
+            "total_tokens": 14061
+          },
+          {
+            "input_tokens": 20817,
+            "input_tokens_details": {
+              "cached_tokens": 13952
+            },
+            "output_tokens": 219,
+            "output_tokens_details": {
+              "reasoning_tokens": 152
+            },
+            "total_tokens": 21036
+          },
+          {
+            "input_tokens": 21057,
+            "input_tokens_details": {
+              "cached_tokens": 20736
+            },
+            "output_tokens": 221,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 21278
+          },
+          {
+            "input_tokens": 22046,
+            "input_tokens_details": {
+              "cached_tokens": 21120
+            },
+            "output_tokens": 23,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 22069
+          },
+          {
+            "input_tokens": 22241,
+            "input_tokens_details": {
+              "cached_tokens": 21888
+            },
+            "output_tokens": 36,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 22277
+          },
+          {
+            "input_tokens": 28624,
+            "input_tokens_details": {
+              "cached_tokens": 22144
+            },
+            "output_tokens": 102,
+            "output_tokens_details": {
+              "reasoning_tokens": 0
+            },
+            "total_tokens": 28726
+          }
+        ],
+        "requests": 12,
+        "tool_search_tokens": 0,
+        "total_tokens": 177217,
+        "uncached_input_tokens": 28457
+      }
+    },
+    "token_output_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/token_output.json",
+    "video_audio": false,
+    "video_model": "ltx-2",
+    "video_resolution": "720p",
+    "videos": [
+      {
+        "audio": false,
+        "duration_seconds": 5,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_1/output.mp4",
+        "prompt": "Slow handheld push-in as heat shimmer wavers above the asphalt and the waiting resident subtly shifts weight.",
+        "provider_job_id": "cmonvds01011y600zde1e8jzr",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvds01011y600zde1e8jzr/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045805Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=485a9ad4c105be7987e8ccd4e7cec548fe397e69befbde5171c6cb9f08508fa5882bda187abd82af63d030cee381d630f457f2f212fe24793d5cf7bfec242c9914943e3fc0c4bfcace667aabb4650b66a5d2e41539bca8e7c7c5cf9beba4244eb3ffac44751b570cee75436408363b34857ce6a6740d67a24a93955fca3231586c62f0c0bcb73d623a249ba7ecca19ba43e558d9d97b520da3d4b648c278fc606213d895e7a12726f6d52df513ec4e0b911b7dcdf2eae350705d3c32899bbbbec7786321b3ac496d328ecee0c84ca52f93cad528010a69836b760c24a585a2a2035b24975623288628ff8eb1f717c4f46f1c9cc19e13b22b2d7dc3494c94d581",
+        "resolution": "720p",
+        "scene_id": "scene_1",
+        "url": "/media/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_1/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 5,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_2/output.mp4",
+        "prompt": "Gentle lateral dolly as one volunteer settles soil around the sapling and leaves move slightly.",
+        "provider_job_id": "cmonvdrbi013y580zdmk9lsir",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvdrbi013y580zdmk9lsir/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045804Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=684f3c19bbf2521510ba19b93ca7c9a0b69b1d452d9e638c32912ed4fd388c787219c4cd020584526cdb73e61847a5f37deb8c3ccf885dab476f59e74648e5b7c32c9f0735cc0faa9820063f039986bb6a3617a5f8ffa198c3ca5d349f781e034a05bd6486965bed16adef3bad9b89e199f39f749835dfd855a508128d700d1b05f0baeee2d091c09a77b8b737910fc29e376034a8d9f0b53a73237115e0568d0ad58747019bc2460e05a5255d144c45f8d73a0703d093f2c4dcda128b053135778df318b6dd2a024921471bf154ed58722f9bffa83e8a58daac27595414da690df3c1e1a83e227f0226a351251cf6500b62ca94d1cb50186fc454bb05770fa3",
+        "resolution": "720p",
+        "scene_id": "scene_2",
+        "url": "/media/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_2/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 5,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_3/output.mp4",
+        "prompt": "Slow upward tilt through dappled shade as the walking pair moves gently forward.",
+        "provider_job_id": "cmonvdsxf011z600zmf6ht7yh",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvdsxf011z600zmf6ht7yh/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045822Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=427cd219ba76b607bfc5e8be3de7abed1b8c49221531902f43bd88fcfeb929f83e4b106aae7c4b6484a53233676a071dfa8fdde6898f55a35310581c7bd20d03b1836b13a52a30cd1e88f9a7b03018f5a73a8213d75e98f43371cbdc58c64d7ef5ee568578fa74a00d80edd29edff9b798f684d614615809066afbd97037ecc5675ef2f20f6f54954abf0469375424cf71a7bf8e215bf01adf90fbaf3f5c995be31d684a6b9c2bcd2a65d5105665988aa9e621a8a93cb26a579742dcc21a7117f1ef54d8b7443aefdec49938d32e5cfb49bedc8c83dd466e2872f90a1fcbc292b196388e50604dc4928944f9eff7beb838cbb438555a54fa4b4b544a93654dc6",
+        "resolution": "720p",
+        "scene_id": "scene_3",
+        "url": "/media/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_3/output.mp4"
+      },
+      {
+        "audio": false,
+        "duration_seconds": 5,
+        "model": "ltx-2",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_4/output.mp4",
+        "prompt": "Smooth slow crane-up revealing the greener street while leaves stir softly and people remain relaxed below.",
+        "provider_job_id": "cmonvdr8i012s3z0zf33gd3wl",
+        "provider_status": "complete",
+        "provider_url": "https://videos.magichour.ai/cmonvdr8i012s3z0zf33gd3wl/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045806Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8fb8716df26d194c9e0504a7c4fbb05807afb45773f6f0de78cb60a61b20433183584622c00818ae25ec43420156c55fc828f487bdd01d069c77b5032afc872553bf34eb515be54fb8c0081b44a722bda765df932a987db26c78d110a5caf267eaa21b185b3e819f3fd8e7e8203a5b8d24b89bf82d3327f2d31598eb2544a7b35069aaf30dd13a82cf48c6f533213ccb8bc386b199f968b623462988d077adea646a3259ac725094ad5bded39138b0c27ee63a8794050515dac5d3f38f681cda0a3c95a48eb318b3206fa8a7bd836e16d93247688b34ddacd7f445771dd6251c858fde37cf494e99cdb27f68bd8b33aec4c5a1bf36fd8f7f4bae7ccdeb9bbdd2",
+        "resolution": "720p",
+        "scene_id": "scene_4",
+        "url": "/media/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_4/output.mp4"
+      }
+    ],
+    "voiceover": {
+      "duration_seconds": 16.692,
+      "model": "s2-pro",
+      "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/voiceover/voiceover.mp3",
+      "target_duration_seconds": 20,
+      "url": "/media/a6e53a96cf364073b9e6e653eebf5b78/voiceover/voiceover.mp3"
+    }
+  },
+  "message": "Video is ready.",
+  "progress": 100,
+  "project_id": "a6e53a96cf364073b9e6e653eebf5b78",
+  "project_state": {
+    "created_at": "2026-05-02T04:55:15.806469+00:00",
+    "current_plan": {
+      "narration": "[tense] On the hottest blocks, pavement still holds the sun long after noon. [speaks calmly] Neighbors and volunteers plant young trees with steady hands and shared care. [emphasis] Soon, shade becomes a place to walk, rest, and talk. [hopeful] Help restore a greener street, one block at a time.",
+      "scenes": [
+        {
+          "duration_seconds": 5,
+          "id": "scene_1",
+          "image_prompt": "Vertical documentary frame of a treeless urban block in summer heat, shimmering asphalt and concrete rowhouses, a bus stop with no shade, one resident waiting with hand shielding face, harsh midday light, long lens compression, muted tan and gray palette, realistic photo style, grounded mood, no text.",
+          "narration": "[tense] On the hottest blocks, pavement still holds the sun long after noon.",
+          "video_prompt": "Slow handheld push-in as heat shimmer wavers above the asphalt and the waiting resident subtly shifts weight."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_2",
+          "image_prompt": "Vertical street-level scene of diverse volunteers and neighborhood residents planting a young street tree in a sidewalk cutout, shovels, work gloves, watering bucket, brick storefronts behind them, warm late-afternoon light, medium-wide 35mm framing, natural colors, documentary realism, collaborative hopeful mood.",
+          "narration": "[speaks calmly] Neighbors and volunteers plant young trees with steady hands and shared care.",
+          "video_prompt": "Gentle lateral dolly as one volunteer settles soil around the sapling and leaves move slightly."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_3",
+          "image_prompt": "Vertical neighborhood sidewalk under a mature leafy tree canopy, an older resident seated on a bench in cool shade while a parent and child walk past, dappled light, summer evening glow, eye-level 50mm framing, soft greens with warm brick tones, realistic cinematic documentary style, calm and welcoming mood.",
+          "narration": "[emphasis] Soon, shade becomes a place to walk, rest, and talk.",
+          "video_prompt": "Slow upward tilt through dappled shade as the walking pair moves gently forward."
+        },
+        {
+          "duration_seconds": 5,
+          "id": "scene_4",
+          "image_prompt": "Vertical view down the same kind of city block transformed with a continuous young-to-mature tree canopy, cooler sidewalks, bikes, porches, and people gathering beneath shade, golden hour light, slight telephoto framing, rich green and warm earth palette, realistic civic-optimistic documentary style, grounded hopeful mood, no signage or text.",
+          "narration": "[hopeful] Help restore a greener street, one block at a time.",
+          "video_prompt": "Smooth slow crane-up revealing the greener street while leaves stir softly and people remain relaxed below."
+        }
+      ],
+      "title": "Rooting Cooler Blocks",
+      "visual_bible": "Grounded documentary realism with hopeful civic tone. Same overheated neighborhood evolves across scenes: brick rowhouses, sidewalks, street trees, diverse residents. Vertical 9:16 framing, naturalistic lens language from 35mm to 50mm with gentle telephoto on wide block views. Palette shifts from sun-bleached gray/tan heat to soft greens and warm brick, ending in golden-hour optimism. No text, logos, or exaggerated hero shots."
+    },
+    "decisions": [
+      {
+        "created_at": "2026-05-02T04:55:37.002148+00:00",
+        "decision": "Drafted plan 'Rooting Cooler Blocks' with 4 scene(s).",
+        "metadata": {
+          "scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4"
+          ]
+        },
+        "tool": "draft_video_plan"
+      },
+      {
+        "created_at": "2026-05-02T04:55:39.664785+00:00",
+        "decision": "Used exactly 4 scenes at 5 seconds each for a 20-second pre-crossfade total, yielding an estimated 18.5-second final edit with 0.5-second crossfades.",
+        "rationale": "The prompt requires 19.5 seconds before crossfades; integer scene durations closest to that total are 20 seconds, which is closer than 19 and compatible with ltx-2 scene durations.",
+        "tool": "record_project_decision"
+      },
+      {
+        "created_at": "2026-05-02T04:55:45.970451+00:00",
+        "decision": "Generated voiceover for the saved narration.",
+        "metadata": {
+          "target_duration_seconds": 20
+        },
+        "tool": "generate_voiceover"
+      },
+      {
+        "created_at": "2026-05-02T04:56:34.536191+00:00",
+        "decision": "Generated 3 scene image(s).",
+        "metadata": {
+          "failed_scene_ids": [
+            "scene_3"
+          ],
+          "requested_scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4"
+          ]
+        },
+        "tool": "generate_scene_images"
+      },
+      {
+        "created_at": "2026-05-02T04:56:36.793255+00:00",
+        "decision": "Retrying scene_3 image generation after a provider 502 while keeping the original prompt, model, and resolution.",
+        "rationale": "Failure appears transient; scene prompt already fits continuity and quality requirements.",
+        "scene_id": "scene_3",
+        "tool": "record_project_decision"
+      },
+      {
+        "created_at": "2026-05-02T04:56:51.423736+00:00",
+        "decision": "Retried image asset(s) for scene_3.",
+        "scene_id": "scene_3",
+        "tool": "retry_scene"
+      },
+      {
+        "created_at": "2026-05-02T04:58:21.659027+00:00",
+        "decision": "Animated 4 scene video(s).",
+        "metadata": {
+          "failed_scene_ids": [],
+          "requested_scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4"
+          ]
+        },
+        "tool": "animate_scene_videos"
+      },
+      {
+        "created_at": "2026-05-02T04:58:36.384828+00:00",
+        "decision": "Patching narration to meet the 44-50 spoken-word budget after final inspection found 43 words.",
+        "rationale": "Adding one natural word preserves tone and pacing while satisfying the prompt's narration constraint.",
+        "tool": "record_project_decision"
+      },
+      {
+        "created_at": "2026-05-02T04:58:39.863898+00:00",
+        "decision": "Revised narration and invalidated the previous voiceover.",
+        "metadata": {
+          "scene_ids": [
+            "scene_1",
+            "scene_2",
+            "scene_3",
+            "scene_4"
+          ]
+        },
+        "tool": "revise_narration"
+      },
+      {
+        "created_at": "2026-05-02T04:58:46.606651+00:00",
+        "decision": "Replaced the voiceover audio from the current narration.",
+        "metadata": {
+          "target_duration_seconds": 20
+        },
+        "tool": "replace_voiceover"
+      },
+      {
+        "created_at": "2026-05-02T04:58:57.081464+00:00",
+        "decision": "Restitched the final video from current scene videos and voiceover.",
+        "rationale": "Updated narration to meet spoken-word budget while preserving the approved visuals and scene videos.",
+        "tool": "restitch_video"
+      }
+    ],
+    "failures": [],
+    "messages": [],
+    "project_id": "a6e53a96cf364073b9e6e653eebf5b78",
+    "provider_settings": {
+      "aspect_ratio": "9:16",
+      "audio_format": "mp3",
+      "audio_model": "s2-pro",
+      "image_model": "seedream-v4",
+      "image_resolution": "1k",
+      "image_style_tool": "general",
+      "resolution": "720p",
+      "video_audio": false,
+      "video_model": "ltx-2",
+      "video_resolution": "720p"
+    },
+    "scene_assets": {
+      "final_video_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/final.mp4",
+      "images": [
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/images/scene_1/output-1.jpg",
+          "prompt": "Vertical documentary frame of a treeless urban block in summer heat, shimmering asphalt and concrete rowhouses, a bus stop with no shade, one resident waiting with hand shielding face, harsh midday light, long lens compression, muted tan and gray palette, realistic photo style, grounded mood, no text.",
+          "provider_job_id": "cmonvc7ug019p420zuo4paqu1",
+          "provider_url": "https://videos.magichour.ai/cmonvc7ug019p420zuo4paqu1/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045637Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=14aa82344c271e79887d815d8b6b3c39cf63221d74f7ef8734d2e0ff681a42251b0f4237642c693635821e0d33a968a02cc91e7e652b7f4b73df2961622d7f39d9e6b33034ae10a9fa011558c4b60f113f3536175aa474362e8afe5a71154368e39f623d88b9cb99e3395d9737b114381d8eeade68664353c94dea4afa75e1ac34eb71b41b33fd0dd7f066c89910b9e9d347d0e7a0672a01c81786b3c4994b50102404c3a04470f8f50ce7bd0308f629c8b0394c81131134b7d6d3e5c45b6364f1f11ad8134668035b71bd1cc876c0a084c80939e1c1cb02457191f01403f20030109993f4bf89a422ec18c853a7e51f877ca8907adacdd30c765e26abb4d26c",
+          "resolution": "1k",
+          "scene_id": "scene_1",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/images/scene_2/output-1.jpg",
+          "prompt": "Vertical street-level scene of diverse volunteers and neighborhood residents planting a young street tree in a sidewalk cutout, shovels, work gloves, watering bucket, brick storefronts behind them, warm late-afternoon light, medium-wide 35mm framing, natural colors, documentary realism, collaborative hopeful mood.",
+          "provider_job_id": "cmonvc7n5006s3v118dzei8su",
+          "provider_url": "https://videos.magichour.ai/cmonvc7n5006s3v118dzei8su/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045613Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=072b754b6f378aeedd0e291cd1746d8a55db502f56f5e0913d48da88941bc9c8d612c26cbe1278dd7371b50fddfb924f439776688d93948110b2aa4a597abb5ca74d27f93eab9e2e5507ab6d070ef10868fedb28ac18ef717202decf21859cb3fb332c453be5b339cf8415500c62f0d06267e0a84aac490adca6a966b448726381739cf17b2a95aa82ce9e0039b4babae5adfa245ce02aa973c79ce687cd493b89a940dcb43df4404a70de37b3ce34dcb43bf2d1b0ee469fbe03a1b2d40821f4fa08264668f6f4f9346470432e9cc04437d5f20b77a703d9c25afd6bd144be10944dccdeaeae70b79da6b46a2bacec0649156446a37e8c3aaabd684770b4351b",
+          "resolution": "1k",
+          "scene_id": "scene_2",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/images/scene_3/output-1.jpg",
+          "prompt": "Vertical neighborhood sidewalk under a mature leafy tree canopy, an older resident seated on a bench in cool shade while a parent and child walk past, dappled light, summer evening glow, eye-level 50mm framing, soft greens with warm brick tones, realistic cinematic documentary style, calm and welcoming mood.",
+          "provider_job_id": "cmonvdfgh01a9420zc2t4ikhy",
+          "provider_url": "https://videos.magichour.ai/cmonvdfgh01a9420zc2t4ikhy/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045654Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=25dbd20926c6506fbf6e568b8df2ca06a9858d1efb004a85234f3b20dd6a4f09ce8a686821507f52d42efe1d78bc0bbb02409f477eb80829a9fa83e788904c5fcd4a5f2fef118e7cdc608ef0b0ec1eabbdb390faa823c0b1bb040b1abcd39d3142acffcc261fcc68fa21a0bdc11e0818ebfea3fd2e3de23e00e2a90683b00423385e1272713a1b6dbcbcb7a448b07cf49ad91aef4f0158545c2be94d263b8c2d66bd96a9d9c498b0960bd67678946b44d7b71f48f54aece54226f5733dea320fe0c5862b49b9b63bd5be7cee033a4d0af1af88a3de982fe6dde6e09edf6e5f0eb798c5db2f89a2a5bbcd6f7b71dfbee785578c5731a6a59b933877630096b090",
+          "resolution": "1k",
+          "scene_id": "scene_3",
+          "style_tool": "general"
+        },
+        {
+          "model": "seedream-v4",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/images/scene_4/output-1.jpg",
+          "prompt": "Vertical view down the same kind of city block transformed with a continuous young-to-mature tree canopy, cooler sidewalks, bikes, porches, and people gathering beneath shade, golden hour light, slight telephoto framing, rich green and warm earth palette, realistic civic-optimistic documentary style, grounded hopeful mood, no signage or text.",
+          "provider_job_id": "cmonvc7nj010z600zvlhdxz03",
+          "provider_url": "https://videos.magichour.ai/cmonvc7nj010z600zvlhdxz03/output-1.jpg?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045559Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=1dd374734d61a73aee74880dcf63efc02489adf1a788e1140d792585df1f4608061d0c38cf32e69f29c7ceaf81dfa8621201a57a93d831cde84528df9707c97bbb905171167b5857c73cf8f1425d98be347a68058a6aba9a836172dee3b53191aa35cbdf10217c51e510419b5324f73f35f43676492aa65b4c6c884e626b28b841bf7e135aa85809dccf470b665fe7a23535025b74d9503d8c77f47373ec56a994ecbab81d330feab09cb4556b2d23391383217370e04543e7d04369a4e61b8f5ae843b81c9316b347c7e318b35aa5fecd858175da3ba1790235dfcc434a1c9205bb72eb6c59a2798f4de0e63c8eb8d3da0157e3a3b987dedf0a4b2031945d81",
+          "resolution": "1k",
+          "scene_id": "scene_4",
+          "style_tool": "general"
+        }
+      ],
+      "manifest_path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/manifest.json",
+      "videos": [
+        {
+          "audio": false,
+          "duration_seconds": 5,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_1/output.mp4",
+          "prompt": "Slow handheld push-in as heat shimmer wavers above the asphalt and the waiting resident subtly shifts weight.",
+          "provider_job_id": "cmonvds01011y600zde1e8jzr",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvds01011y600zde1e8jzr/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045805Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=485a9ad4c105be7987e8ccd4e7cec548fe397e69befbde5171c6cb9f08508fa5882bda187abd82af63d030cee381d630f457f2f212fe24793d5cf7bfec242c9914943e3fc0c4bfcace667aabb4650b66a5d2e41539bca8e7c7c5cf9beba4244eb3ffac44751b570cee75436408363b34857ce6a6740d67a24a93955fca3231586c62f0c0bcb73d623a249ba7ecca19ba43e558d9d97b520da3d4b648c278fc606213d895e7a12726f6d52df513ec4e0b911b7dcdf2eae350705d3c32899bbbbec7786321b3ac496d328ecee0c84ca52f93cad528010a69836b760c24a585a2a2035b24975623288628ff8eb1f717c4f46f1c9cc19e13b22b2d7dc3494c94d581",
+          "resolution": "720p",
+          "scene_id": "scene_1"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 5,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_2/output.mp4",
+          "prompt": "Gentle lateral dolly as one volunteer settles soil around the sapling and leaves move slightly.",
+          "provider_job_id": "cmonvdrbi013y580zdmk9lsir",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvdrbi013y580zdmk9lsir/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045804Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=684f3c19bbf2521510ba19b93ca7c9a0b69b1d452d9e638c32912ed4fd388c787219c4cd020584526cdb73e61847a5f37deb8c3ccf885dab476f59e74648e5b7c32c9f0735cc0faa9820063f039986bb6a3617a5f8ffa198c3ca5d349f781e034a05bd6486965bed16adef3bad9b89e199f39f749835dfd855a508128d700d1b05f0baeee2d091c09a77b8b737910fc29e376034a8d9f0b53a73237115e0568d0ad58747019bc2460e05a5255d144c45f8d73a0703d093f2c4dcda128b053135778df318b6dd2a024921471bf154ed58722f9bffa83e8a58daac27595414da690df3c1e1a83e227f0226a351251cf6500b62ca94d1cb50186fc454bb05770fa3",
+          "resolution": "720p",
+          "scene_id": "scene_2"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 5,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_3/output.mp4",
+          "prompt": "Slow upward tilt through dappled shade as the walking pair moves gently forward.",
+          "provider_job_id": "cmonvdsxf011z600zmf6ht7yh",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvdsxf011z600zmf6ht7yh/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045822Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=427cd219ba76b607bfc5e8be3de7abed1b8c49221531902f43bd88fcfeb929f83e4b106aae7c4b6484a53233676a071dfa8fdde6898f55a35310581c7bd20d03b1836b13a52a30cd1e88f9a7b03018f5a73a8213d75e98f43371cbdc58c64d7ef5ee568578fa74a00d80edd29edff9b798f684d614615809066afbd97037ecc5675ef2f20f6f54954abf0469375424cf71a7bf8e215bf01adf90fbaf3f5c995be31d684a6b9c2bcd2a65d5105665988aa9e621a8a93cb26a579742dcc21a7117f1ef54d8b7443aefdec49938d32e5cfb49bedc8c83dd466e2872f90a1fcbc292b196388e50604dc4928944f9eff7beb838cbb438555a54fa4b4b544a93654dc6",
+          "resolution": "720p",
+          "scene_id": "scene_3"
+        },
+        {
+          "audio": false,
+          "duration_seconds": 5,
+          "model": "ltx-2",
+          "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/videos/scene_4/output.mp4",
+          "prompt": "Smooth slow crane-up revealing the greener street while leaves stir softly and people remain relaxed below.",
+          "provider_job_id": "cmonvdr8i012s3z0zf33gd3wl",
+          "provider_status": "complete",
+          "provider_url": "https://videos.magichour.ai/cmonvdr8i012s3z0zf33gd3wl/output.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=web-service%40magic-hour-385504.iam.gserviceaccount.com%2F20260502%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260502T045806Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=8fb8716df26d194c9e0504a7c4fbb05807afb45773f6f0de78cb60a61b20433183584622c00818ae25ec43420156c55fc828f487bdd01d069c77b5032afc872553bf34eb515be54fb8c0081b44a722bda765df932a987db26c78d110a5caf267eaa21b185b3e819f3fd8e7e8203a5b8d24b89bf82d3327f2d31598eb2544a7b35069aaf30dd13a82cf48c6f533213ccb8bc386b199f968b623462988d077adea646a3259ac725094ad5bded39138b0c27ee63a8794050515dac5d3f38f681cda0a3c95a48eb318b3206fa8a7bd836e16d93247688b34ddacd7f445771dd6251c858fde37cf494e99cdb27f68bd8b33aec4c5a1bf36fd8f7f4bae7ccdeb9bbdd2",
+          "resolution": "720p",
+          "scene_id": "scene_4"
+        }
+      ],
+      "voiceover": {
+        "duration_seconds": 16.692,
+        "model": "s2-pro",
+        "path": "/Users/tanmay/Magic Hour ML role/openai_sdk_agent/outputs/a6e53a96cf364073b9e6e653eebf5b78/voiceover/voiceover.mp3",
+        "target_duration_seconds": 20
+      }
+    },
+    "status": {
+      "message": "Video is ready.",
+      "progress": 100,
+      "stage": "complete",
+      "status": "succeeded"
+    },
+    "updated_at": "2026-05-02T04:58:59.710198+00:00",
+    "user_preferences": {
+      "aspect_ratio": "9:16",
+      "duration_seconds": 18,
+      "image_model": "seedream-v4",
+      "image_resolution": null,
+      "prompt": "Make an 18-second vertical fundraising video for a nonprofit restoring urban tree canopy in overheated neighborhoods. Use 4 scenes. The tone should be grounded and hopeful, not guilt-driven. Show heat, volunteers planting trees, residents using shade, and a future greener street.",
+      "resolution": "720p",
+      "scene_count": 4,
+      "video_model": "ltx-2",
+      "video_resolution": null
+    },
+    "version": 1
+  },
+  "stage": "complete",
+  "status": "succeeded",
+  "status_url": "/api/projects/a6e53a96cf364073b9e6e653eebf5b78",
+  "updated_at": "2026-05-02T04:58:59.709796+00:00"
+}

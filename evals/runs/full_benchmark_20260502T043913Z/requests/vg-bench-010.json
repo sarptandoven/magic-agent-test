@@ -1,0 +1,9 @@
+{
+  "aspect_ratio": "9:16",
+  "duration_seconds": 16,
+  "image_model": "seedream-v4",
+  "prompt": "Make a 16-second vertical visual explanation of how retrieval-augmented generation works for a support chatbot. Use 4 scenes. Show a user question, the system searching a trusted knowledge library, the model using retrieved snippets, and the final answer being grounded. Avoid readable UI text; use visual metaphors instead.",
+  "resolution": "720p",
+  "scene_count": 4,
+  "video_model": "ltx-2"
+}
