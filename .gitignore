@@ -1,0 +1,22 @@
+.venv/
+.env
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+outputs/
+benchmark_artifacts/
+.playwright-profiles/
+.run-logs/
+frontend/.next/
+frontend/node_modules/
+server/node_modules/
+frontend/tsconfig.tsbuildinfo
+dist/
+build/
+*.egg-info/
+evals/
+
+# Local demo video exports (never commit)
+yt_demo_videos_*/
